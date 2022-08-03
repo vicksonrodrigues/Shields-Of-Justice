@@ -1,0 +1,4715 @@
+fileFormatVersion: 2
+guid: 685198b057eb26e4b8e3c373b47aa98f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moon Cyclops_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2262
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16890e6f3a92f40b52ee6e6600b08a
+      internalID: -1973251792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2262
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5207b681eabfa45a08b49e9b4e01b0
+      internalID: 1521578189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2214
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d6c1419a0768b429d3a9d89ea2e787
+      internalID: -1383309049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2214
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a47b854b68ec4ebe1f4a9664273c5
+      internalID: 2015556872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2162
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95f5ff9a9d5ee4eba7d56131cef60e
+      internalID: -1592792360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2162
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b42e4e2af02e439ba03eacd9740ce
+      internalID: 728817939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2104
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d3d1b104fe9ab4688c34f01f51b9d9
+      internalID: -485469741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2103
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a0e3cf5adf51843a8ae611df42bd30
+      internalID: -1788875200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2104
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b175c076a391b640922f66446915f0b
+      internalID: 849700385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2103
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376b569ca48826b4f807c4d517c1fe8e
+      internalID: -381204849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2055
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea4c41264b0c5b449055268408fe50e
+      internalID: 2024578043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2051
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628d4f18d7d1ad4180a15a75caea19d
+      internalID: -1182228147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2055
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5634dc593f17db94586f576bb48e78a2
+      internalID: 842476072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2051
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced04187b578f8841b302b060659cc4d
+      internalID: -1001223262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1996
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea8969ee1d0b74297e2f60c2342679
+      internalID: -417406075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1996
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387dfca76894d0e429b775876c5ec7ed
+      internalID: -1096521355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1996
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6deccda37ec4143843e96f4bd8bdc3
+      internalID: -2102854272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_17
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1995
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c06fdffcf0854ea1297468374d51d
+      internalID: -742152336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1934
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51357338bf845d241a17214567331613
+      internalID: 150048529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1937
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e8ee20e42904840887b2c4751c773d
+      internalID: -1613204307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1934
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b26627ec880fa745b2d72fde174edf8
+      internalID: 1561889910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1937
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5fcceab56367646bcd334f3c5293dd
+      internalID: -1924779760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_22
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1886
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f09dcc0a52224e8844504ec6c488f
+      internalID: -891167462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1883
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf0e6d7c0392d4ba3dc73e304f8af6
+      internalID: 380184380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1886
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5826576b3bfac3438caed1075d30a3a
+      internalID: 906321865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1883
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e57a88e605aebb4bac1441edaedf5ad
+      internalID: -1040044052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_26
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1828
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba0fec541047bb44975b71f7e165ac3
+      internalID: -1572929494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1830
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5b7d42ba6c344982ceea12981efcb
+      internalID: -1435757552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_28
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1828
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341a33332de7e9d42a382e1239bb0497
+      internalID: -2099800732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1830
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4764232bd83014f8c9a4cf3e8ed897
+      internalID: 1041286273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1771
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77209d87c27c27c44b7b8390e3629c1b
+      internalID: -2089916227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1725
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90af561e526f33c43a946ea1732355fe
+      internalID: -1983232224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1674
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99450899eb0de4e918850869f7b879
+      internalID: -154430443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1612
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2af65d42f3804f8e948886b86fa40
+      internalID: -1023154986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1612
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3bf928a7969b34494ec81d2b2dfa2c
+      internalID: -1546019018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1548
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9a922cc4d9f754a881e0e08570b351
+      internalID: -1634080404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1547
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657107c455d66ab4fa443b801923dce6
+      internalID: -22635343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_37
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1477
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb0846db5d80a4abe4de98cc30d2e9
+      internalID: 391175044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1480
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed89002f71edf6449926a617b858d3d
+      internalID: -1394922513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1422
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6b5873607a9f4d909692485309e32
+      internalID: 706510762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1414
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49057c1d63b8f9d44a034890968c3e71
+      internalID: -157808705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_42
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1407
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591688ec5a64bea4eb51c79e2cbd935a
+      internalID: 1390487824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1405
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6efed2f2996c0489b414bbef8f9ec4
+      internalID: -322090695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1407
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043052d2f0e382541b2c30b1a68b584a
+      internalID: -1991458336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_45
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1405
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66eabdda0e29e04cbe817a5f428738a
+      internalID: -77239457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_46
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1409
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d0b16a38872aa47a425c2e54d06306
+      internalID: -441014329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1354
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a88eedd2537d34fa5002c4139e4e06
+      internalID: -1602703969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1346
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cce8581d8e180449b069524cd78bc2
+      internalID: -1283256108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1339
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12a4927459b524999568fabf948080
+      internalID: 1882254185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_50
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1335
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a99c329d5822e4ba783dd6145281c4
+      internalID: 1210229300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_51
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1339
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991a700665fa804e8cc3d316348cba6
+      internalID: -651837193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1335
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae66b37d56d6124096571236d4b6150
+      internalID: 788444136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1337
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ddba4ca31f14468fb0e9a6d08af50
+      internalID: 714328339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_54
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1282
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f99151c6c8c28247a16d7d2519e7802
+      internalID: 113968784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1278
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd2c3757a5287448a3c1541a5c183af
+      internalID: -1469012677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_56
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1266
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e14c0787d075354aaf5436d8906ad46
+      internalID: -403516696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_57
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1266
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4587c31beee349ac62d58c4c09512
+      internalID: -2109141175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1271
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911b7bfc879257c4891d0b27db8b0485
+      internalID: -1302200656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_59
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1266
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7bd1788e3181849ad0cc1f6aa2603d
+      internalID: 1139527331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_60
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1266
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3860cd4a8a74f4b97d7f6d525ff8c3
+      internalID: -922553390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1207
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f21b4579c145de4d8c22ffa23121b1c
+      internalID: -22857246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1210
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bab4354f400dd4bb77869f56745157
+      internalID: -701678466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1207
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b03cb43526e5147b2a02b07f26f15a
+      internalID: -240800675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1210
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4cc1843bb13a4c8edf74f1be2660b
+      internalID: -199409832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1207
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1791c7ca6fc17469ffbbe5359d2664
+      internalID: 1823637494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1159
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f142d9606b2e49a7bfd5ffcaceee8
+      internalID: -1919583264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_67
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1156
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3b6cbfdcbe8a4186072132bf466dc
+      internalID: -945982380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1159
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf820611dafb6874e9a18c617f683338
+      internalID: -152764781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1156
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667ca44e037d5146803057d9d39ef11
+      internalID: 1121715619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1159
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451d7ffad44d40b4796232e02f35fec7
+      internalID: -621635064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1101
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc475e3943066e2419c99d18ef4d0431
+      internalID: -1543111301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1103
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747e01d7aef09740b397c29198c3ce6
+      internalID: 1483966408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_73
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1101
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad016b89ee776374096e517a9be25001
+      internalID: -439605995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1103
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2deb3f5e3f58b41b6dedbc5b802acd
+      internalID: -1558097899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1101
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d38b926c933bd458addb540d87147c
+      internalID: 1256193144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1028
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25295796040ad6a449c57a7c4d7a38d4
+      internalID: -524543574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_77
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1043
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16684661bbd525b40a3e1043ef539dde
+      internalID: 348540824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1039
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d88541412e4ea4bbc14d91a20ee805
+      internalID: 685607550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1031
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2e3e012a50e3848807fbb95cac8941
+      internalID: -139465969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1024
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a644dbf694ed4e9b7acf049d9f19f
+      internalID: -1861315340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1022
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ecfe4d631643b40b80472e9c3fe60b
+      internalID: 1595760152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1024
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ba435d94e869d4392643df1e729491
+      internalID: -452152928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_83
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1022
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348794a6df0fbc64ab6a6fd35b5298e6
+      internalID: 1008399741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_84
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1026
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562429944bdae4419156861a3eda3a9
+      internalID: 625942166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 955
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b970c3b62f02f4e8a246181ca303a0
+      internalID: -1710260197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 970
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff95ad6a23f2d647b870e7fffc43db0
+      internalID: -1539522029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 970
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af55165d2d7318d4ea334928958d7aad
+      internalID: -1602725713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_88
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 962
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d91fb4dab64304787b58bcd3c4ed74
+      internalID: 1320843623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 955
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7845a8c536d585e4cbf2c35c56c73b9e
+      internalID: -134495119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_90
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 951
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93431ad9786084a8107090a090bbf1
+      internalID: 181841203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_91
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 955
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac505893de4c634f8458c8ef32e5671
+      internalID: 445247844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_92
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 951
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936456f5feee034b92cbb2f5db4f85a
+      internalID: -320452419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_93
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 953
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71cfa284cfbf048a822babe4b9706e
+      internalID: -1854013762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_94
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 884
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb4d9d0c48fac489c1558b49901f2e
+      internalID: -428803083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_95
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 898
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6b339f91397b49ac57503bf46fb22
+      internalID: -1457515545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 898
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d498777b5289f3246bcdfe5418306b05
+      internalID: 1027335907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 894
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3cb82c490c76498c29c80f5938d29
+      internalID: 1966874379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_98
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 882
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc8a0c234532448b3fafde4bd9f3bf
+      internalID: -962830594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_99
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 882
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca796a55e59a64b981a6c40d770944
+      internalID: 1926219649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_100
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 887
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103248302655b1547b490c8dfaf02936
+      internalID: -794255957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_101
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 882
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f01e05a57080b6439e99163d69a488b
+      internalID: -1746276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 882
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9963858dd56ee488aef6af79352dba
+      internalID: 1822307201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 811
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645f6bdd7804c8419f9315c45e62197
+      internalID: 87558545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 826
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3864500cc5d579645a20e1b76bfb3905
+      internalID: 821487588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 822
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3fd325ec297a4094f1f770f92b4b0
+      internalID: -64590578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_106
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 814
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd82eaa6ee70b468ad4e31174f18f0
+      internalID: 1128939562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_107
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 807
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcfb0e355ad1b84380ac5b531332b90
+      internalID: -742929664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_108
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 805
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76cc55e9ba1dfc44ac5f96fa7747fc0
+      internalID: -1366913579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_109
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 807
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e83aa780bdf2a49840092b51d96f10
+      internalID: 768850392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_110
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 805
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c597027e3df949b99a5bbfb90e3a6
+      internalID: 154019540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 738
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7edd7e1d6391d4bbbc135f4392a8c2
+      internalID: 2116909618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 753
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b938fe5953353db4eb6029bb438fafd1
+      internalID: 163128088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_113
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 753
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9979dd7b16492904a80b70abbf74ad11
+      internalID: 1433067325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_114
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 745
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7c3d1434828640b9a819b501db681
+      internalID: 962145173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_115
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 738
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4bfb3e383c5e48b2c94fcaa58d287
+      internalID: -1774797806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_116
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 734
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a57843d995df24992d765deb748c08
+      internalID: 598352442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 738
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28989b600b0c649a0c45485cadfd9d
+      internalID: 901444978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_118
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 734
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49efbbdca18d7342bb38c4302c14769
+      internalID: -1825120201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_119
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 667
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9c220c7a8e14944a2868aed12e5987
+      internalID: -255151647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_120
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 681
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a735e285c0170247b2d568e7cc5e6d1
+      internalID: 1803240590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_121
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 681
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc4f7c6e527db64fbe64de9a65e00ac
+      internalID: -939817908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_122
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 677
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb4d68afb4fd724e98e8dad8de2c15f
+      internalID: -293733303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_123
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 665
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e31b283ece0a40a71160d773b6585
+      internalID: 2086503915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_124
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 665
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf75a17395ff3458e67419b53344ae
+      internalID: 1696126952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_125
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 670
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5482e8d90ae3724459420cb0a7a4f610
+      internalID: -983519582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_126
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 665
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75deb03908e8bd2418a876c259dc1937
+      internalID: -897102077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_127
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 609
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736e77797091d2049b230cd9a0abcf27
+      internalID: 223688619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 609
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b34a5cad28bb3340a08c94f73f39e0a
+      internalID: -786008419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_129
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 609
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa9a92e10ae644eae49a450de20cf3
+      internalID: 844721306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_130
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 609
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e26604fb65b97c4bb26c799f9d08247
+      internalID: -280898322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 609
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a48a85235a5a74a8b5d776bec0a9ac
+      internalID: 16332029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_132
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 609
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b1ee37d8588e4f8b99ddee7a9fca4
+      internalID: 1872272930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_133
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 606
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca629a92fadb5647ac9aa12b42bf236
+      internalID: -1412348903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_134
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 595
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae833a90b631ed6439a1edfe9e34c676
+      internalID: 643043399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_135
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 586
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc41cd0dec79ea4385cc4b07af8a7cb
+      internalID: 229032508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_136
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 584
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6b0a1669749ee4f97accdbf7ee7a59
+      internalID: -1555081677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 577
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019b94c7664f4340ad070e66dd86346
+      internalID: 1635710600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_138
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 570
+        width: 40
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a780b14d53c64da5788669db72a97
+      internalID: -866321409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_139
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 563
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255c77f4eef2435408e09751b0b6eabe
+      internalID: 1150579951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_140
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 559
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d14c7f3a6949e1408fd00ddf4664e66
+      internalID: 915461393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_141
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 553
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a80723a2718c14ca0619dbc8bb918d
+      internalID: -913950687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_142
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 547
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fcbe5d474d264084d86b32c32f36a
+      internalID: -2091344893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_143
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 541
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec73d13ce3f93f45ab32fdd17ce3871
+      internalID: -1580985019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_144
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 540
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5cbcd86a031d488304405ffe3b6fb
+      internalID: 110185970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_164
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 421
+        width: 40
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fbebabb7f93b9478ef1a0cd29bd9a7
+      internalID: 2020133888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_167
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 421
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d28be6ac383f4f8550c4ffe845ff3
+      internalID: 937380842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_170
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 421
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a7265f05b59b43b0da0d0bc448e22
+      internalID: 71085322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_173
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 421
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0618658c713144b89d9073092e432
+      internalID: -1217354258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_175
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 421
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b513ef78d96a7a641b90dad537b35e57
+      internalID: 699721180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_182
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 421
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f527f8354fa3447a967bf0dbad804f
+      internalID: 2036427521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df8491dc5475e04d9cee72a13be7eac
+      internalID: -897253125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 421
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc01e433eb3ab14b8bd80ceff186ee6
+      internalID: -1667224437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_187
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 421
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2453c659e988a49bb3283c64d58745
+      internalID: 976149370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_188
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 421
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058884c5704b8674db7895c7e6be6609
+      internalID: -1193923216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_189
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 421
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bb6c40b737d574ebb19d925e9b346a
+      internalID: -41354084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_190
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 421
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7eadeea549484a84caed1d6015f8f
+      internalID: -961167536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_191
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 421
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83de8962467f348bc4289506be3459
+      internalID: 376662676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_192
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 421
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816182f4fe9f89c4f92f55380bb78117
+      internalID: 767989972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_193
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 421
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12413feabaa51154aaa473556380299f
+      internalID: 294128930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_194
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 421
+        width: 40
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e62e56daa453b4cab2af0c6370ac19
+      internalID: -1340607331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_195
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 421
+        width: 40
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaab069518689e8478cf215ba2c326c6
+      internalID: 1973268054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_196
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 421
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbdfb7d8924f9b47824f2503e7f799a
+      internalID: 2030951569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_197
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 369
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d415e0bee881341908658d4cbb3450
+      internalID: -426555414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_198
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 369
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9cca39a3dbea14192c68fcc8a37289
+      internalID: -104682618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 369
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3536a2f12f93124e9cfb298d5a97668
+      internalID: -373487021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_200
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 369
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd8e69b6b51514a98830bff9b69ef8
+      internalID: -551360332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_201
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 369
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80697495f947f7841ab2d13dceabcb97
+      internalID: -579426482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_202
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 369
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ad4ff4a9de35d4482c8589e107a90c
+      internalID: -1235563281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_203
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 369
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec727fdb21521a4492e74f1c27d767b
+      internalID: 567670743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_204
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 369
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3229205bb2d50d641a63914f13fbb277
+      internalID: 1672129416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_206
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 368
+        width: 65
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc0b7b10dc3a64485d48f1ae8968dd
+      internalID: -778013932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_207
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 368
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bdf5ab7f5db174f911a0e5cb028f43
+      internalID: 581641736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_208
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 367
+        width: 80
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e49739a69ebaa4aac492baf5c1a638
+      internalID: 2067247880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_209
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 368
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f536614250a24a741860a7e4c8f06ed5
+      internalID: -1238352033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_210
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 368
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d86402495f04458d430fe46497ffc
+      internalID: 2131979858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_211
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 368
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323749ad99ce3042b0c9570d21c5e8f
+      internalID: 1309736925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_212
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 368
+        width: 101
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20aa211be222d624d9e0cd8cf79516db
+      internalID: 554459162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_213
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 368
+        width: 105
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3035d1c9db7e8954a96db0f408038b04
+      internalID: 2064408744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_214
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 367
+        width: 111
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2e21230d6c55d48931f8b3734c2be8
+      internalID: -1905103591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_215
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 368
+        width: 114
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a7ef25986fb84db5295c603a789d2
+      internalID: 1252120362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_239
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 293
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e7258ab2d5e8c4c957309b1c79f0ff
+      internalID: -2122876783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_240
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07f5ecb75cd9e2468131653fcc46aea
+      internalID: 590422357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_241
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 293
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475f0663e404224fbc48ce3fb573126
+      internalID: 166704085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_242
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 293
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357332798b203b4a9134a97981c0e56
+      internalID: 549300207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_243
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 289
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d203bf119f4f14285b22a45cd8e13b
+      internalID: 91416300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_244
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 256
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7613f95ac8b25d449b2445f5243bf800
+      internalID: -1319845368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_245
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 256
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3f369efc8e604da8e9345481c40c8
+      internalID: 635408862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_246
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 174
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23c798e1a20d15478d9b6c72685e9ac
+      internalID: 1844480159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_247
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 178
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec070614755481644b932fbe8a1355ec
+      internalID: 671930605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_248
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 178
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86727e2c2fe6f8e41a7ff2b04be06322
+      internalID: 672353923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_249
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 178
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a727db07cfc4bd4a9950e200c7d39a7
+      internalID: 1903530928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_250
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 178
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4ab4e252d3b640987d164b80e7b75
+      internalID: -156559784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_251
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 178
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a10741e35e390469ab6418bb123eba
+      internalID: -431441170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_252
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 178
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb23ec254e41140be403db8e94f3d1
+      internalID: 366297930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_253
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 106
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131af70ba4c3e47408a0902cf40ab6d0
+      internalID: 1097438464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_254
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3ab634c41e55643bc7303d61747030
+      internalID: 105911140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_255
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc75ad058179fff47aa4eb9a56e81263
+      internalID: 968342329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_256
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 106
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22a92f3d28905f4883a5091d0790d4d
+      internalID: -540325535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_257
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 106
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff2a8bd3619ac48bc95b679151a2e4
+      internalID: -1391111701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_258
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 103
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a817b49ab6b554189dd3b00a55b8df
+      internalID: 1724837314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_259
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 103
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f3e2bbd22cdd46b3eb2f4d1fa6d5e
+      internalID: 846919304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_260
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 44
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8c3846c714d1f4992ca6743815692e
+      internalID: -1324726414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_261
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997fef625b5e8d347b1791decec20b63
+      internalID: 1967264183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_262
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 44
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638da01bc4dd20b43a9e604e9e441634
+      internalID: 191001020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moon Cyclops_263
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 44
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dcd88b2b033e749ba0245e2fabb268
+      internalID: 1331821920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Moon Cyclops_210: 2131979858
+      Moon Cyclops_54: 113968784
+      Moon Cyclops_55: -1469012677
+      Moon Cyclops_6: -485469741
+      Moon Cyclops_147: 1462103183
+      Moon Cyclops_103: 87558545
+      Moon Cyclops_12: 842476072
+      Moon Cyclops_25: -1040044052
+      Moon Cyclops_60: -922553390
+      Moon Cyclops_154: 1002612085
+      Moon Cyclops_181: 649249554
+      Moon Cyclops_148: -280360717
+      Moon Cyclops_163: 1139614755
+      Moon Cyclops_240: 590422357
+      Moon Cyclops_51: -651837193
+      Moon Cyclops_93: -1854013762
+      Moon Cyclops_21: -1924779760
+      Moon Cyclops_149: -1919977789
+      Moon Cyclops_134: 643043399
+      Moon Cyclops_155: -344531580
+      Moon Cyclops_42: 1390487824
+      Moon Cyclops_158: 1076375703
+      Moon Cyclops_97: 1966874379
+      Moon Cyclops_150: -81109670
+      Moon Cyclops_198: -104682618
+      Moon Cyclops_96: 1027335907
+      Moon Cyclops_196: 2030951569
+      Moon Cyclops_152: 1589928289
+      Moon Cyclops_178: -381524223
+      Moon Cyclops_56: -403516696
+      Moon Cyclops_164: 2020133888
+      Moon Cyclops_73: -439605995
+      Moon Cyclops_8: 849700385
+      Moon Cyclops_43: -322090695
+      Moon Cyclops_229: 2056639508
+      Moon Cyclops_120: 1803240590
+      Moon Cyclops_217: 1399028942
+      Moon Cyclops_2: -1383309049
+      Moon Cyclops_18: 150048529
+      Moon Cyclops_237: -1429653888
+      Moon Cyclops_116: 598352442
+      Moon Cyclops_26: -1572929494
+      Moon Cyclops_172: -451232448
+      Moon Cyclops_81: 1595760152
+      Moon Cyclops_19: -1613204307
+      Moon Cyclops_95: -1457515545
+      Moon Cyclops_100: -794255957
+      Moon Cyclops_142: -2091344893
+      Moon Cyclops_140: 915461393
+      Moon Cyclops_80: -1861315340
+      Moon Cyclops_0: -1973251792
+      Moon Cyclops_72: 1483966408
+      Moon Cyclops_244: -1319845368
+      Moon Cyclops_143: -1580985019
+      Moon Cyclops_205: 1494085647
+      Moon Cyclops_179: 129149451
+      Moon Cyclops_259: 846919304
+      Moon Cyclops_114: 962145173
+      Moon Cyclops_117: 901444978
+      Moon Cyclops_222: -506765163
+      Moon Cyclops_211: 1309736925
+      Moon Cyclops_39: 1154878191
+      Moon Cyclops_263: 1331821920
+      Moon Cyclops_10: 2024578043
+      Moon Cyclops_177: 846737752
+      Moon Cyclops_86: -1539522029
+      Moon Cyclops_57: -2109141175
+      Moon Cyclops_219: -949540545
+      Moon Cyclops_127: 223688619
+      Moon Cyclops_161: -37655328
+      Moon Cyclops_85: -1710260197
+      Moon Cyclops_17: -742152336
+      Moon Cyclops_41: -157808705
+      Moon Cyclops_232: 1200636731
+      Moon Cyclops_206: -778013932
+      Moon Cyclops_99: 1926219649
+      Moon Cyclops_75: 1256193144
+      Moon Cyclops_195: 1973268054
+      Moon Cyclops_37: 391175044
+      Moon Cyclops_28: -2099800732
+      Moon Cyclops_118: -1825120201
+      Moon Cyclops_135: 229032508
+      Moon Cyclops_91: 445247844
+      Moon Cyclops_224: -770257716
+      Moon Cyclops_74: -1558097899
+      Moon Cyclops_261: 1967264183
+      Moon Cyclops_101: -1746276
+      Moon Cyclops_235: 416393254
+      Moon Cyclops_104: 821487588
+      Moon Cyclops_199: -373487021
+      Moon Cyclops_36: -22635343
+      Moon Cyclops_242: 549300207
+      Moon Cyclops_137: 1635710600
+      Moon Cyclops_258: 1724837314
+      Moon Cyclops_246: 1844480159
+      Moon Cyclops_200: -551360332
+      Moon Cyclops_243: 91416300
+      Moon Cyclops_202: -1235563281
+      Moon Cyclops_65: 1823637494
+      Moon Cyclops_204: 1672129416
+      Moon Cyclops_111: 2116909618
+      Moon Cyclops_84: 625942166
+      Moon Cyclops_123: 2086503915
+      Moon Cyclops_193: 294128930
+      Moon Cyclops_53: 714328339
+      Moon Cyclops_113: 1433067325
+      Moon Cyclops_183: -183227997
+      Moon Cyclops_207: 581641736
+      Moon Cyclops_1: 1521578189
+      Moon Cyclops_98: -962830594
+      Moon Cyclops_129: 844721306
+      Moon Cyclops_88: 1320843623
+      Moon Cyclops_5: 728817939
+      Moon Cyclops_131: 16332029
+      Moon Cyclops_194: -1340607331
+      Moon Cyclops_171: -985123250
+      Moon Cyclops_238: -1147634921
+      Moon Cyclops_78: 685607550
+      Moon Cyclops_87: -1602725713
+      Moon Cyclops_30: -2089916227
+      Moon Cyclops_109: 768850392
+      Moon Cyclops_197: -426555414
+      Moon Cyclops_257: -1391111701
+      Moon Cyclops_128: -786008419
+      Moon Cyclops_160: 1304969901
+      Moon Cyclops_157: 156827848
+      Moon Cyclops_124: 1696126952
+      Moon Cyclops_66: -1919583264
+      Moon Cyclops_139: 1150579951
+      Moon Cyclops_11: -1182228147
+      Moon Cyclops_130: -280898322
+      Moon Cyclops_203: 567670743
+      Moon Cyclops_221: -1411092268
+      Moon Cyclops_3: 2015556872
+      Moon Cyclops_133: -1412348903
+      Moon Cyclops_180: -518581949
+      Moon Cyclops_16: -2102854272
+      Moon Cyclops_241: 166704085
+      Moon Cyclops_153: 552201933
+      Moon Cyclops_245: 635408862
+      Moon Cyclops_213: 2064408744
+      Moon Cyclops_52: 788444136
+      Moon Cyclops_31: -1983232224
+      Moon Cyclops_231: 2121033931
+      Moon Cyclops_33: -1023154986
+      Moon Cyclops_191: 376662676
+      Moon Cyclops_260: -1324726414
+      Moon Cyclops_70: -621635064
+      Moon Cyclops_105: -64590578
+      Moon Cyclops_151: -1709356808
+      Moon Cyclops_162: -1381649853
+      Moon Cyclops_169: 2029009643
+      Moon Cyclops_189: -41354084
+      Moon Cyclops_23: 380184380
+      Moon Cyclops_82: -452152928
+      Moon Cyclops_13: -1001223262
+      Moon Cyclops_9: -381204849
+      Moon Cyclops_226: -356960657
+      Moon Cyclops_79: -139465969
+      Moon Cyclops_228: 758148372
+      Moon Cyclops_49: 1882254185
+      Moon Cyclops_59: 1139527331
+      Moon Cyclops_89: -134495119
+      Moon Cyclops_92: -320452419
+      Moon Cyclops_156: -504643188
+      Moon Cyclops_40: 706510762
+      Moon Cyclops_192: 767989972
+      Moon Cyclops_144: 110185970
+      Moon Cyclops_209: -1238352033
+      Moon Cyclops_167: 937380842
+      Moon Cyclops_112: 163128088
+      Moon Cyclops_115: -1774797806
+      Moon Cyclops_27: -1435757552
+      Moon Cyclops_35: -1634080404
+      Moon Cyclops_212: 554459162
+      Moon Cyclops_71: -1543111301
+      Moon Cyclops_119: -255151647
+      Moon Cyclops_45: -77239457
+      Moon Cyclops_190: -961167536
+      Moon Cyclops_166: -547495217
+      Moon Cyclops_182: 2036427521
+      Moon Cyclops_62: -701678466
+      Moon Cyclops_107: -742929664
+      Moon Cyclops_247: 671930605
+      Moon Cyclops_121: -939817908
+      Moon Cyclops_250: -156559784
+      Moon Cyclops_233: -1769257274
+      Moon Cyclops_50: 1210229300
+      Moon Cyclops_159: 1176599491
+      Moon Cyclops_4: -1592792360
+      Moon Cyclops_15: -1096521355
+      Moon Cyclops_188: -1193923216
+      Moon Cyclops_256: -540325535
+      Moon Cyclops_90: 181841203
+      Moon Cyclops_83: 1008399741
+      Moon Cyclops_230: -2013534052
+      Moon Cyclops_46: -441014329
+      Moon Cyclops_236: -1509303643
+      Moon Cyclops_184: 1265402756
+      Moon Cyclops_254: 105911140
+      Moon Cyclops_253: 1097438464
+      Moon Cyclops_106: 1128939562
+      Moon Cyclops_174: 1324937753
+      Moon Cyclops_102: 1822307201
+      Moon Cyclops_170: 71085322
+      Moon Cyclops_136: -1555081677
+      Moon Cyclops_145: -1949705837
+      Moon Cyclops_216: -816396194
+      Moon Cyclops_185: -897253125
+      Moon Cyclops_58: -1302200656
+      Moon Cyclops_248: 672353923
+      Moon Cyclops_218: 231117346
+      Moon Cyclops_168: -552981727
+      Moon Cyclops_22: -891167462
+      Moon Cyclops_251: -431441170
+      Moon Cyclops_24: 906321865
+      Moon Cyclops_44: -1991458336
+      Moon Cyclops_215: 1252120362
+      Moon Cyclops_47: -1602703969
+      Moon Cyclops_108: -1366913579
+      Moon Cyclops_141: -913950687
+      Moon Cyclops_165: 1996591363
+      Moon Cyclops_77: 348540824
+      Moon Cyclops_225: 573683327
+      Moon Cyclops_227: 1178181551
+      Moon Cyclops_34: -1546019018
+      Moon Cyclops_67: -945982380
+      Moon Cyclops_126: -897102077
+      Moon Cyclops_125: -983519582
+      Moon Cyclops_249: 1903530928
+      Moon Cyclops_186: -1667224437
+      Moon Cyclops_7: -1788875200
+      Moon Cyclops_94: -428803083
+      Moon Cyclops_68: -152764781
+      Moon Cyclops_63: -240800675
+      Moon Cyclops_76: -524543574
+      Moon Cyclops_32: -154430443
+      Moon Cyclops_138: -866321409
+      Moon Cyclops_146: 61358048
+      Moon Cyclops_61: -22857246
+      Moon Cyclops_122: -293733303
+      Moon Cyclops_176: -536254080
+      Moon Cyclops_255: 968342329
+      Moon Cyclops_110: 154019540
+      Moon Cyclops_20: 1561889910
+      Moon Cyclops_239: -2122876783
+      Moon Cyclops_48: -1283256108
+      Moon Cyclops_201: -579426482
+      Moon Cyclops_252: 366297930
+      Moon Cyclops_14: -417406075
+      Moon Cyclops_132: 1872272930
+      Moon Cyclops_38: -1394922513
+      Moon Cyclops_187: 976149370
+      Moon Cyclops_214: -1905103591
+      Moon Cyclops_69: 1121715619
+      Moon Cyclops_234: -1855935908
+      Moon Cyclops_29: 1041286273
+      Moon Cyclops_208: 2067247880
+      Moon Cyclops_173: -1217354258
+      Moon Cyclops_220: -1422177913
+      Moon Cyclops_175: 699721180
+      Moon Cyclops_262: 191001020
+      Moon Cyclops_223: -357743142
+      Moon Cyclops_64: -199409832
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2301 @@
+fileFormatVersion: 2
+guid: 264c18da0ec5e6345b7c4b1fe8955fe8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark Knight_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1843
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165e87e0407fba429d432200cdfd39f
+      internalID: -726048359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1843
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e840f1afefc5b84687850bf3b38af58
+      internalID: -1917332503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1840
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94c8bc28cb9db41bda4c9fef99f0a4
+      internalID: 1056988186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1840
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55492b45e4fa0e24bb324c59ae8cc8ef
+      internalID: -27148318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1760
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d9de70f773a144832c21edebeafdf
+      internalID: -1198821471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1761
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78b4e1941572e746be651ad789cacc8
+      internalID: 2096849454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1765
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d368477066304ab724043cf8e34c5
+      internalID: 876728111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1765
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d34f3870a24d41abd235d9a95deb3
+      internalID: 799154057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1685
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127aa07ef51791942b783dd8e3e8a98f
+      internalID: 1981734950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1686
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dda3935da282df43af7b65df7d11f80
+      internalID: -961706660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1685
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82f3d2ce06eed4fa671109c49ff6a6
+      internalID: 1177331085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1687
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ad1d84b3308e4eb28c39e88a439a3
+      internalID: 1913873729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1588
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d485c3b17183f6b44962eb7fe495b92d
+      internalID: 801080836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1588
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f9905d3ca1de14faaec92ab6690a75
+      internalID: 1507502380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1601
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4bc621e9f7be45b76fba34864acf9
+      internalID: -73355917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1571
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed59622149d51a40b37a27578639ed5
+      internalID: 1061356961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1497
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d8a5760071e145a7f99e699706193
+      internalID: -48111598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1574
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a614eeede20651746906bfcbff4d6fb7
+      internalID: -661280707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1497
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a938820dbca7d143a4fe5a7c2f055af
+      internalID: 1607026661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1572
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c3171a7f8ae404fbc03552de4d06e3
+      internalID: -303152318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1499
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbac946e1d5d49b4dba9c578a32394ed
+      internalID: -1883550379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1499
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5899eb7028d8646b41d5f7ba6710b7
+      internalID: 959350333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1497
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a259da3ec6c0414299e8f5d41869b7e
+      internalID: 1764466985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1420
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3f3125ff38e2c40983df4c9d340b7a
+      internalID: 1706867191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1422
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ffaf3217ac044882ed62b5e88b8c5
+      internalID: -1146763412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1421
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f3f91178d348d4da7ba621ca0bc3bf
+      internalID: -1152140960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1417
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b42a09ce8e6714da0113c1f5b0f873
+      internalID: 1012658694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_38
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1332
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d069284253df4898a6ced875e335a
+      internalID: 637174811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_39
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1337
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0545aac3f59b19b4c9112613a62b38ab
+      internalID: -354724743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1339
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5e5eade6f589f4d921a202de951525
+      internalID: 433235101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1340
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71180b4bff88bdd4f9beda8ac8fc21ab
+      internalID: -632250605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_43
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1225
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d44e2120a17ff438675676d5705640
+      internalID: -387678077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_44
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1225
+        width: 35
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d03a052828c034f93de246089cf305
+      internalID: 378709338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1225
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b6e3b91c0241e4ab3ed6c5377bebf5
+      internalID: 472069531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1227
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18c80016f6fec4b902674c6209c7c5
+      internalID: 1595289087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1227
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee7aed08cb80743946034bf0d6451c
+      internalID: -1621884572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1227
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec227743f83a2444bb74302f8cff8e5
+      internalID: -287300707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_49
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1153
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98794c6b5ab9c064a8db9e6c71ce4ff5
+      internalID: -1489274043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_50
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1154
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c1ca9f0e150954badb812036cd2cd7
+      internalID: -1193091634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1162
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356ba71b07ace564c89c81a2443152ff
+      internalID: 1522160623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1163
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da724ea3acbf1940938ef86da9b1601
+      internalID: 586291957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_54
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1163
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38a6057cbc45d4a83dda06eecc1c46
+      internalID: 2076110973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1067
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a99cc0d856374c896fcc5241508ea
+      internalID: -1873802074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_56
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1110
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cbb88ca5161d84c972e87292ce64ca
+      internalID: 2003260224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_57
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1091
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c28d8b04ea2c4a8d09a714b6ac71c
+      internalID: 2117894191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1067
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8f141834ca22144a5911a5d9459701
+      internalID: 1149792251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1090
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f06696f47e4254481fba676c77f995
+      internalID: -1570230479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_60
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1075
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53569772cfd1d804eace6f40bb3dc860
+      internalID: -1299418464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1059
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f3a47d842521f48965740e29dad351
+      internalID: -868492564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 977
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5117105c3437624fb724fa1327c11d9
+      internalID: 1104757888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1044
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d8fc3e0fdcb04e842df793d75a807
+      internalID: 745124407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 977
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7dd499c67f1ea4db209dc7ab8e95fa
+      internalID: 89320010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 985
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c99d0932e1e3d4ba863ac032907910
+      internalID: -205772310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 900
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9b9f06a07d9aa419918e7f11d4292e
+      internalID: 1560061223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 905
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56c1c1935eed46499b1856c79e15964
+      internalID: 1224989334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 904
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566e16a2b4cba74eaccfd38825b8bfb
+      internalID: -324471520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_70
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 898
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804cae7640fce1b4aa1c5944654ed847
+      internalID: 1271062152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 903
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd2e4f2d7715d6468fbff8265380cdb
+      internalID: -1745733596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 819
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9ffd1b6c20eaf49a9aaa87abf3599f
+      internalID: 1055358337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_73
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 818
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d896d94fa418f4044b636dd268c32d4c
+      internalID: -1785812719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_74
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 817
+        width: 44
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb45c350849ac3c43bd3d73c48c4173b
+      internalID: -1627836260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 817
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd3fc1903e5db409f525c872da5f11
+      internalID: -254071189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_76
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 881
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b2189b082d994292849b2e8c5d30c
+      internalID: 153812685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 818
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7028d5a8978a47ab05d374847d1af
+      internalID: -1672262734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 739
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a111a2a098d484a8ec3b53d20dea27
+      internalID: -1691431492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_80
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 739
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488e952ec3b7874ea80ac0855bc9e1f
+      internalID: -764447623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 739
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42676fdddbabd04fad1e2dfb76ee7a3
+      internalID: 77372916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_82
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 739
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94ec99d0c1da434585caf7b92ef69dd
+      internalID: -561207030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 739
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274486e0fe5b74f4ba7dd579943a04ea
+      internalID: -1951455989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 659
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161067051c4dfdd40bf4f3b9f43f3d9c
+      internalID: 2144622547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 722
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f509a16196a6498a039674921c2b5
+      internalID: -1124792040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_86
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 659
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063787cfe01da8842a13190b96042161
+      internalID: -217054899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_87
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 659
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d4bef103b783b4fa6b20f6543bf1dd
+      internalID: 1208542634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 658
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c187a644b9e15a442a34254fa641e01d
+      internalID: 609505663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 569
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82cb55a8fda2c4f9930d95de4f0094
+      internalID: 1287867663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 632
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326c7da105fbbcc4b9af2ce7c3b32ae7
+      internalID: 668088652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_91
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 569
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f317394d3662ae49833319973851ee9
+      internalID: -1535607647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 570
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4dea02825a6554095f936db70e6063
+      internalID: 287006713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 540
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a6e975dcb493344bf1d4306edb161a
+      internalID: -610924572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 506
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54be294b19b6e6a4386496931d8f1d28
+      internalID: 731013606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_99
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 507
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82393cf8ed2b4f4ba531173294cd354
+      internalID: 111396774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 505
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02522119355ce4eab7471b9a1b00e2
+      internalID: 823809020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 433
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6628f2c3fcf00b84c9ace38e64365e75
+      internalID: 1912855419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 496
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8687e8d589f24e418249541bdd6d636
+      internalID: 1796309295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 435
+        width: 72
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e617a200bd6d469c84858ec0512cd
+      internalID: -1874920236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 435
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a79f368b4b4304b8f04455451dcd76
+      internalID: -1788376751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 388
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5cf45ee4bb964eb079df93728d995
+      internalID: 2058276144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1765926d49bbeb44adae56bef21db7d
+      internalID: 1686278539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_107
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 284
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15963a698f49fa54686942cb9d656d22
+      internalID: -243589470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_109
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258181e25199e0744889be756ad7f1a9
+      internalID: 633685485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 217
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5b565356c9a246ba233667916d88e
+      internalID: 2006927921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_112
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b132068dd7358b149adc59683ef822b2
+      internalID: -1011603180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_113
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 111
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec1b259c3ffcc49bb99c42e1beb38e
+      internalID: -1895344367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_114
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 25
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fdf60ac43315541933a42be9d7cdf4
+      internalID: 1311079662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_115
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 25
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a0ac448f93c74d836cf0723492264
+      internalID: -1830865032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_116
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 25
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b517456b270621948ac269e110025dbd
+      internalID: 770872492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark Knight_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11643d78c35b3b64b976c0a603e97244
+      internalID: -1056842930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dark Knight_102: 1796309295
+      Dark Knight_45: 472069531
+      Dark Knight_24: 2103263485
+      Dark Knight_78: -1402231128
+      Dark Knight_112: -1011603180
+      Dark Knight_23: 864149698
+      Dark Knight_116: 770872492
+      Dark Knight_107: -243589470
+      Dark Knight_8: 2096849454
+      Dark Knight_18: 801080836
+      Dark Knight_41: -632250605
+      Dark Knight_65: -205772310
+      Dark Knight_75: -254071189
+      Dark Knight_28: -303152318
+      Dark Knight_105: 2058276144
+      Dark Knight_82: -561207030
+      Dark Knight_63: 745124407
+      Dark Knight_0: -726048359
+      Dark Knight_58: 1149792251
+      Dark Knight_79: -1691431492
+      Dark Knight_106: 1686278539
+      Dark Knight_87: 1208542634
+      Dark Knight_56: 2003260224
+      Dark Knight_111: 2006927921
+      Dark Knight_110: -261034781
+      Dark Knight_49: -1489274043
+      Dark Knight_68: -324471520
+      Dark Knight_7: -1198821471
+      Dark Knight_98: -1980249121
+      Dark Knight_91: -1535607647
+      Dark Knight_90: 668088652
+      Dark Knight_86: -217054899
+      Dark Knight_19: 1507502380
+      Dark Knight_62: 1104757888
+      Dark Knight_95: 1177092373
+      Dark Knight_94: 442669146
+      Dark Knight_10: 799154057
+      Dark Knight_16: 1913873729
+      Dark Knight_55: -1873802074
+      Dark Knight_74: -1627836260
+      Dark Knight_22: 1061356961
+      Dark Knight_50: -1193091634
+      Dark Knight_34: -192552112
+      Dark Knight_6: 2144196932
+      Dark Knight_100: 823809020
+      Dark Knight_64: 89320010
+      Dark Knight_109: 633685485
+      Dark Knight_80: -764447623
+      Dark Knight_81: 77372916
+      Dark Knight_21: -1821901912
+      Dark Knight_44: 378709338
+      Dark Knight_31: 1764466985
+      Dark Knight_83: -1951455989
+      Dark Knight_77: -1672262734
+      Dark Knight_12: -961706660
+      Dark Knight_15: 2010223608
+      Dark Knight_48: -287300707
+      Dark Knight_54: 2076110973
+      Dark Knight_47: -1621884572
+      Dark Knight_85: -1124792040
+      Dark Knight_117: -1056842930
+      Dark Knight_113: -1895344367
+      Dark Knight_4: -892785101
+      Dark Knight_42: -1343415961
+      Dark Knight_53: -1134471135
+      Dark Knight_76: 153812685
+      Dark Knight_1: -1917332503
+      Dark Knight_67: 1224989334
+      Dark Knight_40: 433235101
+      Dark Knight_43: -387678077
+      Dark Knight_36: 942553694
+      Dark Knight_71: -1745733596
+      Dark Knight_60: -1299418464
+      Dark Knight_114: 1311079662
+      Dark Knight_70: 1271062152
+      Dark Knight_59: -1570230479
+      Dark Knight_88: 609505663
+      Dark Knight_13: -985572525
+      Dark Knight_27: 1607026661
+      Dark Knight_52: 586291957
+      Dark Knight_37: 1012658694
+      Dark Knight_46: 1595289087
+      Dark Knight_89: 1287867663
+      Dark Knight_25: -48111598
+      Dark Knight_92: 287006713
+      Dark Knight_115: -1830865032
+      Dark Knight_69: 934081592
+      Dark Knight_39: -354724743
+      Dark Knight_51: 1522160623
+      Dark Knight_38: 637174811
+      Dark Knight_96: -275721458
+      Dark Knight_2: 1056988186
+      Dark Knight_73: -1785812719
+      Dark Knight_66: 1560061223
+      Dark Knight_57: 2117894191
+      Dark Knight_30: 959350333
+      Dark Knight_101: 1912855419
+      Dark Knight_99: 111396774
+      Dark Knight_33: -1146763412
+      Dark Knight_72: 1055358337
+      Dark Knight_20: -73355917
+      Dark Knight_108: -1234405296
+      Dark Knight_84: 2144622547
+      Dark Knight_32: 1706867191
+      Dark Knight_97: 731013606
+      Dark Knight_103: -1874920236
+      Dark Knight_61: -868492564
+      Dark Knight_26: -661280707
+      Dark Knight_11: 1981734950
+      Dark Knight_5: -358128443
+      Dark Knight_3: -27148318
+      Dark Knight_93: -610924572
+      Dark Knight_9: 876728111
+      Dark Knight_14: 1177331085
+      Dark Knight_35: -1152140960
+      Dark Knight_17: 565596343
+      Dark Knight_104: -1788376751
+      Dark Knight_29: -1883550379
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

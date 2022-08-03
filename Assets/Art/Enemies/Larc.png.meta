@@ -1,0 +1,6175 @@
+fileFormatVersion: 2
+guid: 0b95ab0cf48540c4b8a52f85e0f9b9e0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 750
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c8834c70a4664c9e12b640b2d9d9a
+      internalID: -693888952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 749
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a85a8d062f0c4f8d3cf5c6fe70c7f
+      internalID: -1807791999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 750
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0499051a7349c74e8225d9e61333573
+      internalID: -1796672836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 750
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff6a93b94bc4b49b1bc966edd18885
+      internalID: -1390082400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 749
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0b43bcfce95e4abddf015e2e6d7f2
+      internalID: 1201552877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_5
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 750
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d26635bd570ea64e8468762d6ac6560
+      internalID: 2252246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 749
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e64192ba01d94f9c76345e30f5d0a
+      internalID: 549805326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 747
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe2a3fc0b7cc445851a129d963bfbf
+      internalID: 533793412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 755
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13476d061005a584ebe55016cefc7bfd
+      internalID: -1004805082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 752
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f8da761e557394b8657cae06352d80
+      internalID: 1270111216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 753
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abda1dc838a57fc40ba0097caa206b7c
+      internalID: -291315581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 755
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b5d646fddab264f896fc96ca2ea9fe
+      internalID: -2125691817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 752
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aeed5df320f114f806b1b058ad7758
+      internalID: -525270942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 753
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d39e11b45b8d4428e84939e7f7b214
+      internalID: 847513274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 751
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339db110085896446b381cd8a4e53c9e
+      internalID: -2009892557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 629
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d8a2f5614d7344799e007151b11e6e
+      internalID: 765387176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 704
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5292d3c22d95c441884248421ec0735
+      internalID: 1289323476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 704
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b3eb34f81c7f459dec643b305ff86
+      internalID: 715657966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 704
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d0892b60d5a1648a75a8e3ccd0fcbe
+      internalID: -871398512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 704
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecf42de6d3c7e44a8ece7e8da434848
+      internalID: -1828191213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 704
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f604fc2b6fd4634459b9648c027ba6c7
+      internalID: -1561453356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 704
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6190693a15bf245b592d1b18b28677
+      internalID: 1688913628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 711
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22792ae1ade471f4ca7afe187abf0e4c
+      internalID: -114612101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 711
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47457483bbfec94a8a3823633295eee
+      internalID: -716431066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 711
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a8fbe1bb8f464d9599ca18c6d8958
+      internalID: -126376839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 711
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cbfe159f84f2c48b383e66463e7380
+      internalID: 1467848202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_26
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 711
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7a8bf9a94ed445a6bd28609342e44
+      internalID: -1911539663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 711
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7c17c8dcb869a47bf3da7a2b20a7ae
+      internalID: 1639660633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 658
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6491ea3f531444858971d001feae2
+      internalID: -120456280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 658
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2647d063ca57704b87af39084b1b533
+      internalID: -1872867395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 658
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd8d6e4ec7fcb24cab651b8f34ff379
+      internalID: 1595005248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 658
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a190868a6883f4bb1678c46e7d4aaf
+      internalID: 1632003363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 658
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486e0f3b848ef474a9dcfb1055faf8ef
+      internalID: 1840165131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_33
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 658
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e325d1d2632d5744ebe98ec8645a7040
+      internalID: -266549808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 667
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517effe522bf0ea498c077d42291b625
+      internalID: 965118628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 667
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc9c20e529486c4e9a2bd670566f727
+      internalID: -1410476389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_36
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 667
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdf5229c5f14a84a90ebe672e44a569
+      internalID: -1378916192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 667
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0215f35176f44da07d984a4ce3bad
+      internalID: 726525550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_38
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 667
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b7c7d84acd814cb8e2597fd35f0dd
+      internalID: -1348371742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 611
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a285f6bc52354dae8c2ba8b6ac317
+      internalID: -1040850809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 611
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676fe49d5becac44caba7fcae5b94e74
+      internalID: -1586392487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 611
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9276a55feb72c4aa6eeb5ad2514475
+      internalID: -172302587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 611
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6a2010c01a46a4ba96577f9f5c53e6
+      internalID: 25070097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_43
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 611
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c297fe1b5425304d965dc7ca050bca2
+      internalID: 1505890761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_44
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 611
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59a85064a5c7514ba3c244e0df09485
+      internalID: 86710906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 613
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906874b1687d53c4fb55c5b3f28c5b04
+      internalID: -1725395225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 621
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aa53e3f0faa6419e9db86ca4c2b81
+      internalID: -967559482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 621
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a644fca7e5c0499a4c6ae4bb27156
+      internalID: 230493393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 621
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d92c8cbdf9f1548a4f2c6c8dec9e85
+      internalID: 1424029276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 621
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97d971a65d3fe498f7935f0bb09ed4
+      internalID: -1221632208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_50
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 621
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2fa6e0f027ae43aef56b4a11d17e0
+      internalID: 1687691049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 621
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee009a1174705c48a556ed2730cdddd
+      internalID: 626954682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 563
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450f7fa7e5861142af70dff533dcb4c
+      internalID: 485059087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 563
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6ada7d985f6d42b7a755bfdbd1a36
+      internalID: 616237365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 563
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb98734a35bae840ba23189ce4e08ce
+      internalID: -1165454262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 563
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0aecae1d6dc049a8eafa406d82990
+      internalID: -435430288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 563
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07115ef2353d73408cd7778771f2800
+      internalID: 747785427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 563
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ffe23c7d3fa34093a3518aa3b8004
+      internalID: -184536586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_58
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 567
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cbb7736900fa34195ec2f171c92657
+      internalID: 1226235260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 567
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8406e6bbb06c214c92b67ba3913c7e3
+      internalID: 595196967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_60
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda94307ab33f344b9e5ba523b7fc595
+      internalID: 94405055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 577
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06762378e84ea5d44b42cd7b1ac9d44c
+      internalID: 1264849179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_62
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 577
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630312c41b131cf4186db4fe03665c8d
+      internalID: 2009567722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_63
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 577
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ec965aebbbf614cba352e97f110fcc
+      internalID: -1424277261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 577
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a811112165e7b9a42ac49e9998c40281
+      internalID: -166784217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_65
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 577
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb29fc8192aeaa4ba37bb5eaba3233a
+      internalID: 1337942329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_66
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 573
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90556850b1f402e4b95fc0ba844dc396
+      internalID: 1336217057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_67
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 573
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9b69a6b39e48a46bd00a04625d5625
+      internalID: -965256697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 537
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ebf2361ed7a74590da553a9cb3bc3
+      internalID: 218500216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 489
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452716cab8a0ac409d12df7fe0162e1
+      internalID: 2121211898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_70
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 489
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445441d8b12b1c64196fbfa74105d0cb
+      internalID: -1211404770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 489
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45a0dd33c30e04183094e6058f2288
+      internalID: -1349884264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_72
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 489
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5bd7dd6a3067341b9eed98905e7696
+      internalID: 1021756096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_73
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 490
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fd2c720191dc64ba18367a4e9ee77f
+      internalID: 859250415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_74
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 490
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb30636014f39ae4f9992f32d2d2f449
+      internalID: -1190674823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_75
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 518
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104ae483abfc3a4384415ece117e6b2
+      internalID: 442590878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 507
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8693228b4d4c6e045806aaa0ebbc759a
+      internalID: 1031412331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_77
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 500
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543bfb6c015d30b4bb2d12ee43625b2f
+      internalID: 1869310362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 504
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbeaa4260ad6742a9fb6a104f08b1b
+      internalID: -498202813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_79
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 505
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629f87cb392c069489f909dfd8019354
+      internalID: -1433971392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_80
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 472
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817e25df2735d55479ee47851d7a41b9
+      internalID: -613902080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_81
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 492
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c36bbd3b0f3f4ca1c11b2a48f18aa
+      internalID: 1799194644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 481
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceecfc54e7899540a81622d44b2a39f
+      internalID: -599534306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_83
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 496
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04811778582cc44c8b3c79996dcb457
+      internalID: -702463266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 489
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb474158af6f8154a929becf8d6906f7
+      internalID: 686104268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 494
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2274a84a9798cb45b8f718633ce9153
+      internalID: 1830432553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_86
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 437
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0fb0f7d2505545907d52e16bebff2
+      internalID: -616902549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_87
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 436
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e4a0a5a6774543b9c8d83c43f415a
+      internalID: 1874518457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 481
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6656d72ff3de443bb440cead3e7424
+      internalID: -1177512376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_89
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 447
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104b743d9e128114895541baa54f8beb
+      internalID: 1984126790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_90
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 447
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5b03816e31e3645a1b827b927ece96
+      internalID: 130236472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_91
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 447
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5a7a1e0fad3b34c8bc0fc4e2712472
+      internalID: 1759496366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_92
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 446
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a6320aff247b44b281f8a777d045b
+      internalID: -2025663525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_93
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 466
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b234b347bbd90fc4d8f4c49f5b34281c
+      internalID: -1211419712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_94
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 476
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae9b03128f2a82419159c3f4c4d34c4
+      internalID: -383279437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_95
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 469
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3df50ff014e444901c0ac9c72944b
+      internalID: 1260770001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_97
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 473
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad57e13169d67444b1683dbc3ea3629
+      internalID: 67124498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_98
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 469
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c645268be025f584ebcb1a121790a9da
+      internalID: -1488895595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 465
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960eefef262e42478d38a6310a360b2
+      internalID: 1826089825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 448
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43801cf1ea05edd4aa3c07dd697c3c9a
+      internalID: -773159522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_101
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 431
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33192ea4492004d49922173e5cfab2fc
+      internalID: 1229480547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_102
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 455
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb876bc540c63e64c8b2b331014cd678
+      internalID: -1962450293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_103
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 424
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36ee48b926e993478a2a3ddf32a63df
+      internalID: 1828097681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_104
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 445
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a315d2761274f4b9bb23c2f9c6521e
+      internalID: 901791492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_105
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 443
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214c163919870d4ba4dcdd1cee273de
+      internalID: 655416829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 446
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d661c730feaf44bf8557fb0f37306
+      internalID: 1500144405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_107
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 429
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211ee700140093744b22645fc67f55ea
+      internalID: 2079543347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_108
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 437
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124857fb4d6cbd458d0d4e35bb51f93
+      internalID: 413928693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_109
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 436
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c309ececdcd6434fbd5c7906b2a9533
+      internalID: -744999897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_110
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 438
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819b87ffcb53f8e4db3284658af8352f
+      internalID: 1418409565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_111
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 413
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba7e4384a265d540977d43cd7b2ca0d
+      internalID: -1167292694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_112
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 413
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2f5db8d39316b43810f8b7956d046a
+      internalID: -1040512251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 418
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a0172ad094674fa1c27975c6681c3
+      internalID: -1522238799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_114
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 413
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470c31639e9b73140b36dd85e89d46bc
+      internalID: -894318645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_115
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 418
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31149c79caceb7a439171ab9b2c99975
+      internalID: 1757036215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 423
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f14465f14f2d4696de54881743fdd
+      internalID: -66215702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_117
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 421
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256e9b8bfadf6a540be9a2760678ddc1
+      internalID: 1482797789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_118
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 390
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f25745b48dc5409d56363546bd212
+      internalID: 2042346120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 396
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aa8307fd50e6a4dadefc6695f46b42
+      internalID: 623982957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_120
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 412
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b510f397145aa40b82e9bb2d3a90d0
+      internalID: -1572811600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_121
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 408
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab8c55ef501fc94aaec9d0431d818f0
+      internalID: 1295513435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 385
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95f85f27b2d7e4eb66a92283d5f9df
+      internalID: 1348358649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_123
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 406
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f9098a6d853ed40a00d4fe68e468a0
+      internalID: 1460585112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_124
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 384
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97c88fc1960e942bf8fc04a372ddf4
+      internalID: -358721283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_125
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 384
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e124ab2c4df1f4ea71933fc373feb7
+      internalID: -1605690543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_126
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 384
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf8390a2c3d6b24c9cbfa70eae014be
+      internalID: -468817741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_127
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 384
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4333e52d18fe793489ce097fb1254372
+      internalID: 1823226174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_128
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 390
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a73a4d8c82ab742aebd856627714d6
+      internalID: 1919343267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 360
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba4dfe2b9e40642b5fbc46502467b7
+      internalID: 390226263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_130
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 375
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8772356f433c54faed1dd649b2d07b
+      internalID: 1778421042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 362
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f49ec5150b4fd4a92023c36fbca4b2
+      internalID: 732537035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_132
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 362
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1be84909bae5014ea84c452fc5e341d
+      internalID: 751797071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_133
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 360
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e05ba80913f27d429997ebebe76952a
+      internalID: 518646045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_134
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 360
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae5e8712253994296fe11dda949779
+      internalID: -259641503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_135
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 369
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988668823acdf01469fd827347fd2929
+      internalID: -208278308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_136
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 369
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4118a61e2c6c5647bec5ae0c2233ad1
+      internalID: -179554102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_137
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 349
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b68f956bf3608043a858620bd606bbf
+      internalID: 1260144221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_138
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 352
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31465353460062c428079adc18a186f8
+      internalID: 375965552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 360
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb9ef78273905468ad8cf0114e29bb
+      internalID: -572406466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_140
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 366
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfb046fbdf5144494df250d46023ab
+      internalID: 924905113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 364
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92004f0d95323894c813a400a7bc4577
+      internalID: -656192278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_142
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 349
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a3fb575c221f24b9a77a5f036b9b1c
+      internalID: 638451515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_143
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 347
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b31d22de220841b70f4f6065e3e92
+      internalID: -1342048577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_144
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 347
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b17ae5f2c0c654aadf1405a0a4b82e
+      internalID: 1133814173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_145
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 349
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bfe87792da7d14bbfd279a3fdf4474
+      internalID: 1896492841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_146
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 344
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3cec113f2de624fbf8f76f134e61ef
+      internalID: 1297304810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_147
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 328
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1188df5a1f1a77c4d837acd1c61843d0
+      internalID: -1259535215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_148
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 339
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee8cd20a9404843b441e93b174857e
+      internalID: 1340000158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_149
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 336
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df1a1e063b6dec4fb8d1ad5bb5d6cac
+      internalID: -203633997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_150
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 338
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ee7ffc9b2db0d48a9e475eaf2358c4
+      internalID: -396885960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_151
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 343
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27316d02911a2394bb5fc0ecfa642717
+      internalID: -388399181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_152
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 334
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83091f27b3a9bf4dacb5c3c840fbdb6
+      internalID: -167883672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 309
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644916ee8fa12ae4190d2b00bde78506
+      internalID: -329438472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_154
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 309
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbbca9aa9ca9c440a49c4cccafade8d
+      internalID: 1943462010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_155
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 336
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda90e722d168074282a26eb8a3609c0
+      internalID: -183909689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_156
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 326
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f136bf996354104c82425f88a82000f
+      internalID: 263879608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_157
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 310
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6df072d91b2204882d86da2c6f636d
+      internalID: -1555497386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_158
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 312
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ae4a9c8b45ee642b8e445a33c9ac5d
+      internalID: 1689652173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 319
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3cc40a9e9a10246a04cffada01b78e
+      internalID: 45817740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_160
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 313
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b63ad24e8ab74e81133cb4922f30f
+      internalID: -726726807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_161
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 313
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88ed422286b5a3458f6f2b9d9137b29
+      internalID: 953852469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_162
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 324
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303804050bcfdb6448b7757c2b46bdf4
+      internalID: 527654225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_163
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 317
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627674521d976ff4180f3a740b446f88
+      internalID: 386839098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_164
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 320
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef6cdcb958b8ee4dae1b5c279c215bf
+      internalID: -1425546303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_165
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 321
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d54b4427b0c70418f3a732e728e199
+      internalID: -1683444111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_166
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 312
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4969c4e47817d46ac98d71fc0103d9
+      internalID: -1861614626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_167
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 286
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1366713576a14942a4da22dba7d74fa
+      internalID: 1617128107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_168
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 274
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff29d25f41d360459539e0d5b2901b1
+      internalID: 471034109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_169
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 301
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2aa3ba26adc8314b912829847ce82e2
+      internalID: -12578495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_170
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 281
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491dd5bdf5b1b146967b71c89e72577
+      internalID: 1948550613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_171
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 274
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4506de6fc45a46a31b12b14f8450f
+      internalID: 1995246231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_172
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 290
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e201a9ed50ace347bfa7fc50554e1d5
+      internalID: 1023017478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_173
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6d25eec7662e64898f948fcb93ddf9
+      internalID: -2105899711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_174
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 290
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd162d4babf084449eb60b0a9e5506f
+      internalID: 1413049439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_175
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 297
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e05b3a9414b8340a4a239c55258474
+      internalID: -2110384484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_176
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 295
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f8f372be97214cae5c82e685a277f
+      internalID: 1821706319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_177
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 291
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c7dffab8a5854ab2d002988e7ade6
+      internalID: 1630517531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 273
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac9c9b589ca504e9ff9ebfc7b88095
+      internalID: -1087303767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_179
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bd385efa7e6a64f9460936f77c26c5
+      internalID: -829730813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_180
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 283
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbbee5b84b9e614caf1e35f0bf6df92
+      internalID: -1776083649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_181
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 275
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b3bfd37e6cc842b7665027842f07b
+      internalID: -2080289190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_182
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 275
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8a5e9d8f74a7c4d9c9ad2046cc14ef
+      internalID: -14318566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_183
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 277
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482680097aaf68a409a2c90fd383bea2
+      internalID: -2143668986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_184
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 221
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea916cde5f85d46439f60a82b232157f
+      internalID: 439292143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_185
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 221
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38006ca5ea25b5b419bcad1bd04fe22e
+      internalID: 1321664409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_186
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 221
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8ddb3a278575d48bc0eb12115c560d
+      internalID: 886729067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_187
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 222
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0669464d319aab048b17218e96e6c738
+      internalID: 318010442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_188
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 222
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f531c4478eaf4598f50fc7afdafc8
+      internalID: 1728368683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_189
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 255
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6afbec9a505a4e8dbb9195fe6fe46
+      internalID: -37081480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_190
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 232
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e060ea99f36283439455a9287b86a9a
+      internalID: 131457545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_191
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 246
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf16eeddcc8d04844a0900f24fb4717b
+      internalID: 2116483744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_192
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 246
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c0b2d553151a045a2898d5b5393f7d
+      internalID: -2016944518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_193
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 234
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e807ee21f38f4d88aa8f474cf2267
+      internalID: -1567924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_194
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 220
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94463c07e2681824d94bb63fc4b09943
+      internalID: 440561942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_195
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 232
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b56b0110ded54486e200d32f380b9
+      internalID: -1649063185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_196
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 209
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ed91834ebc7648a15405b4785c66e
+      internalID: 1833341552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_197
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 212
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365b9d6f34bf49347a5eccdb9a9567a7
+      internalID: 486599710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_198
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 223
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd02caad78b4fc418bf5313645b7e48
+      internalID: 715937887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_199
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 206
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cae4845650e58248bddf16f13287681
+      internalID: -1289557845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_200
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 211
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fd177af5d1082488a33b7cdffc72bd
+      internalID: 1913508752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_201
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 179
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcb939d6792b854b9835b1b1caa7276
+      internalID: -551380035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_202
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 179
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e28f6cbb3e3b4c44923fc24a2382bea
+      internalID: 1347111215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_203
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 179
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb2f7d31481cd459928bfce218722f
+      internalID: 1086975655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_204
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 179
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d3f26e540d649499833753f1204823
+      internalID: 1180993134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_205
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 180
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e317dee359d420145b10a9286fa85182
+      internalID: -1401683380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_206
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 213
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccb15914592214393706d35296bfed
+      internalID: -1310534827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_207
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 197
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9394dab8bd5dc4890a6b576deaf420
+      internalID: -1761607328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_208
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b1211d6aabe646b86f9614caaae5d
+      internalID: 204931229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_209
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 186
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dccd19b0d395d478663fc57fae7b52
+      internalID: 2134311789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_210
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 190
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2354decbf0e78b34f8f785b003703a37
+      internalID: 905579334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_211
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 192
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef4d4067939024f8ed294bd320d1ed
+      internalID: -663610310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_212
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 181
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d777fa342af72b4aa9f6c352452cb3b
+      internalID: -791505286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_213
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 159
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33546ee89c5b30f409dc55d2897d9014
+      internalID: 1612101702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_214
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 193
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030e7c2b19af41498f9afd5d6474701
+      internalID: -1731956282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_215
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 174
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb220a179065f4b409f65b602a7fd79a
+      internalID: -861122124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_216
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 182
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c3f47058c501f4d81dbf6545ccba91
+      internalID: 1116262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_217
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd651926b07eab4f823b0a5fbf76624
+      internalID: -46001139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_218
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 167
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1e36dd202c6b43ae4b093b5f79d87
+      internalID: -70681638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_219
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 168
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5438933f302d8b242b5cab6d14bd2001
+      internalID: -712046135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_220
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 169
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014cf3cc29278f44a4f2441dfa47036
+      internalID: 1003778577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_221
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a399bfcf0e8c842b40856ac61d73ab
+      internalID: -904306880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_222
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 138
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1293d0ce4da434aa6eb0c0cece06f2
+      internalID: -103101671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_223
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 138
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b958e95cf77b34da2ea9b15490bb2f
+      internalID: 695975404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_224
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7822a9c35b4f9419a32de2ed51a0b5
+      internalID: 1938799052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_225
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 138
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14663ab0362b9684d8442765a1f99610
+      internalID: -1248035579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_226
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 138
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90813d4c54ff1644ba016f730330753e
+      internalID: -185994193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_227
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 160
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f642f5e0127ae84cb211a38261209b1
+      internalID: -1383497269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_228
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 142
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ade4cf458422446a568db36d797375
+      internalID: -368433510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_229
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832ce7dce23297418769d97d0917ebd
+      internalID: -62180056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_230
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 109
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ddc711297814a4bab850d1ed67a794
+      internalID: -2139642091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_231
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 112
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f9f1a453449a418294b91b69ab411
+      internalID: -537631998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_232
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 114
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5213f245b54d4ab0ba21188408740
+      internalID: -1708497274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_233
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 112
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e96c19f7915fa4795623ca60d83477
+      internalID: -1491432921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_234
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a77ea143f10dc4ab9c20aad6a8e6be
+      internalID: -241956357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_235
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 115
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e08ee0fa2a0c4582cb5874d212e0c
+      internalID: 25882852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_236
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 114
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53a8be55f65c44ba60b9664b224d46
+      internalID: -1719470095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_237
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 114
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e2bcea48c86b43b0787a93d92e222
+      internalID: 1717610009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_238
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 111
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d8f96ea019db42be402fa3c693abc
+      internalID: -1658790457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_239
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57797377e5acdf45bce7eb83526444d
+      internalID: 808459745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_240
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 80
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851161a9ec565b4aa1ba3af719fdc42
+      internalID: 845910026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_241
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91459871f973caa43a589f539aa25972
+      internalID: 861286996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_242
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f93e4661fa2ee54cada1d7e4ed7e5d8
+      internalID: 1708179977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_243
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a05570e146d509488ed2a938f1f40c4
+      internalID: 1962097264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_244
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 103
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7e57299da112b429a46970c62145f8
+      internalID: -435182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_245
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 103
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48688d9b13f468849b43390de2503260
+      internalID: 1707944630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_246
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 81
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f5b6c41a8c7f7459e2febb81ece195
+      internalID: 70481047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_247
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 81
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ecdf8d410e54458b045619031ac99
+      internalID: 1366748637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_248
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 81
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dd11e6f30977e4698f031a118f9d92
+      internalID: 816922759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_249
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 83
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77afe4133784b3646b5fc37eacdd6f87
+      internalID: -620587108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_250
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 90
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f55f8033dde33348979b2e816afeefd
+      internalID: 1366225367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_251
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 96
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c26ac887b284948a5252b9b6dc40b8
+      internalID: -1537183360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_252
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 90
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb9d91dadcf4c479291b581417465a
+      internalID: 1659202808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_253
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 81
+        width: 23
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc43c639b8eccbc4cb2f1f6d9e492de3
+      internalID: -102395455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_254
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 80
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869c4130695c7142a8157212579bdcc
+      internalID: -2081291646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_255
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 83
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5150c64aec03be45aed608eb72accd3
+      internalID: 1838351828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_256
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 48
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc0b78eabf4cd4ca07a9205f547915
+      internalID: 1866243538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_257
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 55
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b79791bf99ef44f9a0e9229f2b7885
+      internalID: 967684478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_258
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac07b7e22b2a34cb9fcb711ad66fba
+      internalID: -781628596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_259
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 49
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43d89e7bc715c14a961205d38f2aa2f
+      internalID: 148312789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_260
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 37
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c0cec643855744cae494575c98d0c7
+      internalID: -1621077792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_261
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 35
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff983d7b960d946aa36864f5351232
+      internalID: -1581516853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_262
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 49
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df22985520031ba4b83c9e4ef0714b27
+      internalID: 24936075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_263
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 49
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528b4d5689e4924490408f364ff2a47
+      internalID: 1147244366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_264
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 49
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e663f0eb694dab47aa66c83e440e005
+      internalID: 1261707331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_265
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 49
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a022392a1e46a428e1fe70f81c5f9d
+      internalID: 666978983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_266
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 6
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7504cae272e0d4fb098e15b7b9542c
+      internalID: -1095418284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_267
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 36
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f10cbbe947f35459f3e6ed0b47f3f8
+      internalID: 896776424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_268
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 33
+        width: 36
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a50a9ee42533f41943bf5be795ed57
+      internalID: -622811251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_269
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fa6a838c5b0744b11b5f159390bcc
+      internalID: -1773302706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_270
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893fefc5436748240b93af4758c381b3
+      internalID: -820723143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_271
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3992ea6710d7408f6b412e52a8967
+      internalID: 1469290988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_272
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c952fdba67359704a85aa6ee7b4cd1f3
+      internalID: -1754723633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_273
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 47
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c77441ac29b849baa2496ccf54350
+      internalID: -2084007294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Larc_274
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 6
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966cd476bf19d1f40996ebd6ae96ff34
+      internalID: 1827358180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Legend of Mana - Larc_124: -358721283
+      PlayStation - Legend of Mana - Larc_11: -2125691817
+      PlayStation - Legend of Mana - Larc_141: -656192278
+      PlayStation - Legend of Mana - Larc_240: 845910026
+      PlayStation - Legend of Mana - Larc_169: -12578495
+      PlayStation - Legend of Mana - Larc_14: -2009892557
+      PlayStation - Legend of Mana - Larc_158: 1689652173
+      PlayStation - Legend of Mana - Larc_73: 859250415
+      PlayStation - Legend of Mana - Larc_140: 924905113
+      PlayStation - Legend of Mana - Larc_198: 715937887
+      PlayStation - Legend of Mana - Larc_6: 549805326
+      PlayStation - Legend of Mana - Larc_33: -266549808
+      PlayStation - Legend of Mana - Larc_234: -241956357
+      PlayStation - Legend of Mana - Larc_245: 1707944630
+      PlayStation - Legend of Mana - Larc_201: -551380035
+      PlayStation - Legend of Mana - Larc_3: -1390082400
+      PlayStation - Legend of Mana - Larc_81: 1799194644
+      PlayStation - Legend of Mana - Larc_89: 1984126790
+      PlayStation - Legend of Mana - Larc_4: 1201552877
+      PlayStation - Legend of Mana - Larc_85: 1830432553
+      PlayStation - Legend of Mana - Larc_19: -1828191213
+      PlayStation - Legend of Mana - Larc_110: 1418409565
+      PlayStation - Legend of Mana - Larc_175: -2110384484
+      PlayStation - Legend of Mana - Larc_243: 1962097264
+      PlayStation - Legend of Mana - Larc_215: -861122124
+      PlayStation - Legend of Mana - Larc_144: 1133814173
+      PlayStation - Legend of Mana - Larc_168: 471034109
+      PlayStation - Legend of Mana - Larc_107: 2079543347
+      PlayStation - Legend of Mana - Larc_249: -620587108
+      PlayStation - Legend of Mana - Larc_191: 2116483744
+      PlayStation - Legend of Mana - Larc_100: -773159522
+      PlayStation - Legend of Mana - Larc_172: 1023017478
+      PlayStation - Legend of Mana - Larc_62: 2009567722
+      PlayStation - Legend of Mana - Larc_217: -46001139
+      PlayStation - Legend of Mana - Larc_108: 413928693
+      PlayStation - Legend of Mana - Larc_112: -1040512251
+      PlayStation - Legend of Mana - Larc_69: 2121211898
+      PlayStation - Legend of Mana - Larc_265: 666978983
+      PlayStation - Legend of Mana - Larc_49: -1221632208
+      PlayStation - Legend of Mana - Larc_32: 1840165131
+      PlayStation - Legend of Mana - Larc_111: -1167292694
+      PlayStation - Legend of Mana - Larc_93: -1211419712
+      PlayStation - Legend of Mana - Larc_72: 1021756096
+      PlayStation - Legend of Mana - Larc_21: 1688913628
+      PlayStation - Legend of Mana - Larc_25: 1467848202
+      PlayStation - Legend of Mana - Larc_263: 1147244366
+      PlayStation - Legend of Mana - Larc_149: -203633997
+      PlayStation - Legend of Mana - Larc_67: -965256697
+      PlayStation - Legend of Mana - Larc_159: 45817740
+      PlayStation - Legend of Mana - Larc_261: -1581516853
+      PlayStation - Legend of Mana - Larc_272: -1754723633
+      PlayStation - Legend of Mana - Larc_50: 1687691049
+      PlayStation - Legend of Mana - Larc_70: -1211404770
+      PlayStation - Legend of Mana - Larc_90: 130236472
+      PlayStation - Legend of Mana - Larc_134: -259641503
+      PlayStation - Legend of Mana - Larc_148: 1340000158
+      PlayStation - Legend of Mana - Larc_80: -613902080
+      PlayStation - Legend of Mana - Larc_165: -1683444111
+      PlayStation - Legend of Mana - Larc_209: 2134311789
+      PlayStation - Legend of Mana - Larc_223: 695975404
+      PlayStation - Legend of Mana - Larc_91: 1759496366
+      PlayStation - Legend of Mana - Larc_220: 1003778577
+      PlayStation - Legend of Mana - Larc_257: 967684478
+      PlayStation - Legend of Mana - Larc_54: -1165454262
+      PlayStation - Legend of Mana - Larc_151: -388399181
+      PlayStation - Legend of Mana - Larc_40: -1586392487
+      PlayStation - Legend of Mana - Larc_270: -820723143
+      PlayStation - Legend of Mana - Larc_30: 1595005248
+      PlayStation - Legend of Mana - Larc_170: 1948550613
+      PlayStation - Legend of Mana - Larc_106: 1500144405
+      PlayStation - Legend of Mana - Larc_197: 486599710
+      PlayStation - Legend of Mana - Larc_262: 24936075
+      PlayStation - Legend of Mana - Larc_268: -622811251
+      PlayStation - Legend of Mana - Larc_60: 94405055
+      PlayStation - Legend of Mana - Larc_79: -1433971392
+      PlayStation - Legend of Mana - Larc_178: -1087303767
+      PlayStation - Legend of Mana - Larc_228: -368433510
+      PlayStation - Legend of Mana - Larc_82: -599534306
+      PlayStation - Legend of Mana - Larc_160: -726726807
+      PlayStation - Legend of Mana - Larc_128: 1919343267
+      PlayStation - Legend of Mana - Larc_256: 1866243538
+      PlayStation - Legend of Mana - Larc_117: 1482797789
+      PlayStation - Legend of Mana - Larc_161: 953852469
+      PlayStation - Legend of Mana - Larc_199: -1289557845
+      PlayStation - Legend of Mana - Larc_248: 816922759
+      PlayStation - Legend of Mana - Larc_219: -712046135
+      PlayStation - Legend of Mana - Larc_20: -1561453356
+      PlayStation - Legend of Mana - Larc_264: 1261707331
+      PlayStation - Legend of Mana - Larc_74: -1190674823
+      PlayStation - Legend of Mana - Larc_105: 655416829
+      PlayStation - Legend of Mana - Larc_266: -1095418284
+      PlayStation - Legend of Mana - Larc_27: 1639660633
+      PlayStation - Legend of Mana - Larc_147: -1259535215
+      PlayStation - Legend of Mana - Larc_86: -616902549
+      PlayStation - Legend of Mana - Larc_222: -103101671
+      PlayStation - Legend of Mana - Larc_118: 2042346120
+      PlayStation - Legend of Mana - Larc_120: -1572811600
+      PlayStation - Legend of Mana - Larc_84: 686104268
+      PlayStation - Legend of Mana - Larc_226: -185994193
+      PlayStation - Legend of Mana - Larc_115: 1757036215
+      PlayStation - Legend of Mana - Larc_114: -894318645
+      PlayStation - Legend of Mana - Larc_153: -329438472
+      PlayStation - Legend of Mana - Larc_225: -1248035579
+      PlayStation - Legend of Mana - Larc_51: 626954682
+      PlayStation - Legend of Mana - Larc_123: 1460585112
+      PlayStation - Legend of Mana - Larc_214: -1731956282
+      PlayStation - Legend of Mana - Larc_221: -904306880
+      PlayStation - Legend of Mana - Larc_237: 1717610009
+      PlayStation - Legend of Mana - Larc_166: -1861614626
+      PlayStation - Legend of Mana - Larc_121: 1295513435
+      PlayStation - Legend of Mana - Larc_29: -1872867395
+      PlayStation - Legend of Mana - Larc_208: 204931229
+      PlayStation - Legend of Mana - Larc_58: 1226235260
+      PlayStation - Legend of Mana - Larc_26: -1911539663
+      PlayStation - Legend of Mana - Larc_83: -702463266
+      PlayStation - Legend of Mana - Larc_205: -1401683380
+      PlayStation - Legend of Mana - Larc_17: 715657966
+      PlayStation - Legend of Mana - Larc_7: 533793412
+      PlayStation - Legend of Mana - Larc_241: 861286996
+      PlayStation - Legend of Mana - Larc_55: -435430288
+      PlayStation - Legend of Mana - Larc_119: 623982957
+      PlayStation - Legend of Mana - Larc_44: 86710906
+      PlayStation - Legend of Mana - Larc_195: -1649063185
+      PlayStation - Legend of Mana - Larc_36: -1378916192
+      PlayStation - Legend of Mana - Larc_247: 1366748637
+      PlayStation - Legend of Mana - Larc_43: 1505890761
+      PlayStation - Legend of Mana - Larc_229: -62180056
+      PlayStation - Legend of Mana - Larc_267: 896776424
+      PlayStation - Legend of Mana - Larc_251: -1537183360
+      PlayStation - Legend of Mana - Larc_98: -1488895595
+      PlayStation - Legend of Mana - Larc_164: -1425546303
+      PlayStation - Legend of Mana - Larc_227: -1383497269
+      PlayStation - Legend of Mana - Larc_173: -2105899711
+      PlayStation - Legend of Mana - Larc_157: -1555497386
+      PlayStation - Legend of Mana - Larc_259: 148312789
+      PlayStation - Legend of Mana - Larc_116: -66215702
+      PlayStation - Legend of Mana - Larc_68: 218500216
+      PlayStation - Legend of Mana - Larc_171: 1995246231
+      PlayStation - Legend of Mana - Larc_126: -468817741
+      PlayStation - Legend of Mana - Larc_139: -572406466
+      PlayStation - Legend of Mana - Larc_130: 1778421042
+      PlayStation - Legend of Mana - Larc_196: 1833341552
+      PlayStation - Legend of Mana - Larc_192: -2016944518
+      PlayStation - Legend of Mana - Larc_239: 808459745
+      PlayStation - Legend of Mana - Larc_41: -172302587
+      PlayStation - Legend of Mana - Larc_189: -37081480
+      PlayStation - Legend of Mana - Larc_200: 1913508752
+      PlayStation - Legend of Mana - Larc_167: 1617128107
+      PlayStation - Legend of Mana - Larc_5: 2252246
+      PlayStation - Legend of Mana - Larc_24: -126376839
+      PlayStation - Legend of Mana - Larc_23: -716431066
+      PlayStation - Legend of Mana - Larc_78: -498202813
+      PlayStation - Legend of Mana - Larc_155: -183909689
+      PlayStation - Legend of Mana - Larc_274: 1827358180
+      PlayStation - Legend of Mana - Larc_244: -435182090
+      PlayStation - Legend of Mana - Larc_22: -114612101
+      PlayStation - Legend of Mana - Larc_59: 595196967
+      PlayStation - Legend of Mana - Larc_207: -1761607328
+      PlayStation - Legend of Mana - Larc_187: 318010442
+      PlayStation - Legend of Mana - Larc_203: 1086975655
+      PlayStation - Legend of Mana - Larc_255: 1838351828
+      PlayStation - Legend of Mana - Larc_137: 1260144221
+      PlayStation - Legend of Mana - Larc_42: 25070097
+      PlayStation - Legend of Mana - Larc_236: -1719470095
+      PlayStation - Legend of Mana - Larc_15: 765387176
+      PlayStation - Legend of Mana - Larc_142: 638451515
+      PlayStation - Legend of Mana - Larc_181: -2080289190
+      PlayStation - Legend of Mana - Larc_193: -1567924294
+      PlayStation - Legend of Mana - Larc_48: 1424029276
+      PlayStation - Legend of Mana - Larc_129: 390226263
+      PlayStation - Legend of Mana - Larc_75: 442590878
+      PlayStation - Legend of Mana - Larc_52: 485059087
+      PlayStation - Legend of Mana - Larc_143: -1342048577
+      PlayStation - Legend of Mana - Larc_45: -1725395225
+      PlayStation - Legend of Mana - Larc_216: 1116262372
+      PlayStation - Legend of Mana - Larc_31: 1632003363
+      PlayStation - Legend of Mana - Larc_16: 1289323476
+      PlayStation - Legend of Mana - Larc_176: 1821706319
+      PlayStation - Legend of Mana - Larc_102: -1962450293
+      PlayStation - Legend of Mana - Larc_242: 1708179977
+      PlayStation - Legend of Mana - Larc_233: -1491432921
+      PlayStation - Legend of Mana - Larc_65: 1337942329
+      PlayStation - Legend of Mana - Larc_135: -208278308
+      PlayStation - Legend of Mana - Larc_210: 905579334
+      PlayStation - Legend of Mana - Larc_47: 230493393
+      PlayStation - Legend of Mana - Larc_46: -967559482
+      PlayStation - Legend of Mana - Larc_57: -184536586
+      PlayStation - Legend of Mana - Larc_136: -179554102
+      PlayStation - Legend of Mana - Larc_132: 751797071
+      PlayStation - Legend of Mana - Larc_186: 886729067
+      PlayStation - Legend of Mana - Larc_127: 1823226174
+      PlayStation - Legend of Mana - Larc_231: -537631998
+      PlayStation - Legend of Mana - Larc_39: -1040850809
+      PlayStation - Legend of Mana - Larc_56: 747785427
+      PlayStation - Legend of Mana - Larc_273: -2084007294
+      PlayStation - Legend of Mana - Larc_190: 131457545
+      PlayStation - Legend of Mana - Larc_252: 1659202808
+      PlayStation - Legend of Mana - Larc_133: 518646045
+      PlayStation - Legend of Mana - Larc_218: -70681638
+      PlayStation - Legend of Mana - Larc_104: 901791492
+      PlayStation - Legend of Mana - Larc_18: -871398512
+      PlayStation - Legend of Mana - Larc_125: -1605690543
+      PlayStation - Legend of Mana - Larc_260: -1621077792
+      PlayStation - Legend of Mana - Larc_113: -1522238799
+      PlayStation - Legend of Mana - Larc_183: -2143668986
+      PlayStation - Legend of Mana - Larc_179: -829730813
+      PlayStation - Legend of Mana - Larc_99: 1826089825
+      PlayStation - Legend of Mana - Larc_206: -1310534827
+      PlayStation - Legend of Mana - Larc_64: -166784217
+      PlayStation - Legend of Mana - Larc_152: -167883672
+      PlayStation - Legend of Mana - Larc_13: 847513274
+      PlayStation - Legend of Mana - Larc_35: -1410476389
+      PlayStation - Legend of Mana - Larc_109: -744999897
+      PlayStation - Legend of Mana - Larc_34: 965118628
+      PlayStation - Legend of Mana - Larc_204: 1180993134
+      PlayStation - Legend of Mana - Larc_101: 1229480547
+      PlayStation - Legend of Mana - Larc_9: 1270111216
+      PlayStation - Legend of Mana - Larc_95: 1260770001
+      PlayStation - Legend of Mana - Larc_103: 1828097681
+      PlayStation - Legend of Mana - Larc_156: 263879608
+      PlayStation - Legend of Mana - Larc_253: -102395455
+      PlayStation - Legend of Mana - Larc_53: 616237365
+      PlayStation - Legend of Mana - Larc_97: 67124498
+      PlayStation - Legend of Mana - Larc_146: 1297304810
+      PlayStation - Legend of Mana - Larc_162: 527654225
+      PlayStation - Legend of Mana - Larc_96: 1995457521
+      PlayStation - Legend of Mana - Larc_174: 1413049439
+      PlayStation - Legend of Mana - Larc_230: -2139642091
+      PlayStation - Legend of Mana - Larc_77: 1869310362
+      PlayStation - Legend of Mana - Larc_246: 70481047
+      PlayStation - Legend of Mana - Larc_131: 732537035
+      PlayStation - Legend of Mana - Larc_2: -1796672836
+      PlayStation - Legend of Mana - Larc_87: 1874518457
+      PlayStation - Legend of Mana - Larc_94: -383279437
+      PlayStation - Legend of Mana - Larc_12: -525270942
+      PlayStation - Legend of Mana - Larc_185: 1321664409
+      PlayStation - Legend of Mana - Larc_212: -791505286
+      PlayStation - Legend of Mana - Larc_122: 1348358649
+      PlayStation - Legend of Mana - Larc_150: -396885960
+      PlayStation - Legend of Mana - Larc_182: -14318566
+      PlayStation - Legend of Mana - Larc_184: 439292143
+      PlayStation - Legend of Mana - Larc_63: -1424277261
+      PlayStation - Legend of Mana - Larc_145: 1896492841
+      PlayStation - Legend of Mana - Larc_235: 25882852
+      PlayStation - Legend of Mana - Larc_163: 386839098
+      PlayStation - Legend of Mana - Larc_258: -781628596
+      PlayStation - Legend of Mana - Larc_224: 1938799052
+      PlayStation - Legend of Mana - Larc_254: -2081291646
+      PlayStation - Legend of Mana - Larc_88: -1177512376
+      PlayStation - Legend of Mana - Larc_154: 1943462010
+      PlayStation - Legend of Mana - Larc_194: 440561942
+      PlayStation - Legend of Mana - Larc_213: 1612101702
+      PlayStation - Legend of Mana - Larc_138: 375965552
+      PlayStation - Legend of Mana - Larc_1: -1807791999
+      PlayStation - Legend of Mana - Larc_188: 1728368683
+      PlayStation - Legend of Mana - Larc_66: 1336217057
+      PlayStation - Legend of Mana - Larc_38: -1348371742
+      PlayStation - Legend of Mana - Larc_8: -1004805082
+      PlayStation - Legend of Mana - Larc_76: 1031412331
+      PlayStation - Legend of Mana - Larc_211: -663610310
+      PlayStation - Legend of Mana - Larc_37: 726525550
+      PlayStation - Legend of Mana - Larc_271: 1469290988
+      PlayStation - Legend of Mana - Larc_232: -1708497274
+      PlayStation - Legend of Mana - Larc_269: -1773302706
+      PlayStation - Legend of Mana - Larc_238: -1658790457
+      PlayStation - Legend of Mana - Larc_10: -291315581
+      PlayStation - Legend of Mana - Larc_177: 1630517531
+      PlayStation - Legend of Mana - Larc_0: -693888952
+      PlayStation - Legend of Mana - Larc_250: 1366225367
+      PlayStation - Legend of Mana - Larc_28: -120456280
+      PlayStation - Legend of Mana - Larc_71: -1349884264
+      PlayStation - Legend of Mana - Larc_202: 1347111215
+      PlayStation - Legend of Mana - Larc_92: -2025663525
+      PlayStation - Legend of Mana - Larc_180: -1776083649
+      PlayStation - Legend of Mana - Larc_61: 1264849179
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

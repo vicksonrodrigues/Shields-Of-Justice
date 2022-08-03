@@ -1,0 +1,2434 @@
+fileFormatVersion: 2
+guid: d59820c0c6cb956418364fb24a27f79e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron Centaur_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2914
+        width: 186
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b933d251dc504e14c92f9f5a324a3e06
+      internalID: 1176213341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2914
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4e22d926d2254f937711fbcedb68e
+      internalID: 33891110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2914
+        width: 184
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae0058a54922342a8bbd18e8e61e30
+      internalID: -1368968180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2914
+        width: 182
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf8eee1ad74904989840647a2d5599
+      internalID: 1465257298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_4
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2912
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca7463663d0824f961f4342234c837
+      internalID: -1860628749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_5
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2914
+        width: 185
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f3de01dfa1684d88389fbc4d66e58
+      internalID: 1214772434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_6
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2914
+        width: 188
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe21c4f92f39a34f8837e29a8ef1c84
+      internalID: -1122657791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_7
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 2916
+        width: 189
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d420bc62c2f234498202d59d8ae856
+      internalID: -401957068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2725
+        width: 195
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f6b9b96ed6a3c4080308928760db58
+      internalID: 268033412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2714
+        width: 201
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9940a225ae725e04ab0504aefafe6f06
+      internalID: -1460300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2709
+        width: 202
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26868569ec151f043a6176830292f496
+      internalID: 1728672763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2709
+        width: 203
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c4433d87cf0c841a8402ccb0489ad0
+      internalID: 418613887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2709
+        width: 199
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784ac6212dd9354baba4eb6dea04456
+      internalID: 957788887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 2709
+        width: 193
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a25fc4201d5744d843031c17c29a6a
+      internalID: 990235063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_14
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2709
+        width: 191
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05214ad81ad66aa45ac48d5d6899b9bf
+      internalID: 808046206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_15
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2714
+        width: 191
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84a4923f886674c944d09b3e978b25
+      internalID: -366371514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2507
+        width: 188
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935cfa1261c80841bfa80a7931dac81
+      internalID: 1703287264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2504
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f3a11f38a83c04eafc9ffa77396693
+      internalID: 1676248211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_18
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2517
+        width: 185
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afd86f83cdd4644d84097c5b93a01cb
+      internalID: 448222794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_19
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2519
+        width: 182
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152cc88c6320beb4da1fd12dd952079b
+      internalID: -830841593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 2515
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d1226c3a189043bf231e5f140aa73
+      internalID: -900015312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_21
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2511
+        width: 176
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d217fcee9a2712e4c9361dd748fa6638
+      internalID: 252908744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_22
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2511
+        width: 181
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157970c7000a6574da30584b689afb78
+      internalID: 1328113986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_23
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2514
+        width: 184
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5448f4795b744fd469695292efd9cc29
+      internalID: 1718830324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2311
+        width: 186
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749230b156780ce44aa4008e3b28db7c
+      internalID: -1044756631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_25
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2310
+        width: 189
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747606e1d28313b4083311ac4964deb3
+      internalID: -1552629326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2293
+        width: 202
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5deafab7a05d447a1963ad3cfd134a
+      internalID: -1844760193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_27
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 2292
+        width: 205
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117d00e56f04a540a46e96b5fd78ecd
+      internalID: 1787837360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_28
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2292
+        width: 204
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f437561038028a44be14c13a12de89e
+      internalID: 799337685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_29
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2310
+        width: 193
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714b45950c0e625499f1769480fa1f3a
+      internalID: 1054230262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_30
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2300
+        width: 187
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b06d70bc8972a4a9e49668f76c6808
+      internalID: 1514233130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_31
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2300
+        width: 170
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9af728e19feafe4eb1caf13d6135816
+      internalID: 1015953989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2083
+        width: 164
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a6e9da51a78854ebee888725599d0f
+      internalID: -1384990780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2083
+        width: 199
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b86feb317769fe4aa0e6a34ec6448c3
+      internalID: 1628208812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2094
+        width: 193
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167c815a2b02d1e4288b6e2d0e690ba8
+      internalID: 1064281469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_35
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2094
+        width: 195
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74af04bbd7a85944b4851c322593a36
+      internalID: 2013495726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_36
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2094
+        width: 191
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17681a6e6d85348be072a8f8d07479
+      internalID: -2117887324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_37
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2092
+        width: 222
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1290fc5df499f0439b1974970f7f0e7
+      internalID: 135268849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_38
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 2085
+        width: 211
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e765e8e2707fd45931c707cb8ce55c
+      internalID: -1401116868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_39
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2095
+        width: 242
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dbbbf05fb477d4a8fbab686467a605
+      internalID: 1220044537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1892
+        width: 205
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795a26f980a99040b3d83a9d77af8d0
+      internalID: -856804889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1888
+        width: 135
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1f6ec1c5344e49821e7068b1aff70
+      internalID: 976700839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_42
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1893
+        width: 192
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307f02fb0b72e542b9a1aca31bd9440
+      internalID: -399535119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_43
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1846
+        width: 142
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a42d7b30cefb49b3643e1033d0297
+      internalID: 527475952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_44
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1814
+        width: 148
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c07abd8221d9469c07388f022952b
+      internalID: -944059365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_45
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1846
+        width: 214
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e565bff8f1abde438a24d09ea29b497
+      internalID: -488241940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_46
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1863
+        width: 200
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c4cd0706435ec4aae82a3bee71d2ea
+      internalID: 628765214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_47
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1863
+        width: 201
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d00ec7d0b57b9d4daf2d9a372144b68
+      internalID: -1407993582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_48
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1574
+        width: 211
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acef34b26e694e41b28dc2b2f1e77c6
+      internalID: -832283833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_49
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1571
+        width: 158
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc50450103157be4a9e42b5e56d0bff8
+      internalID: -1155890058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_50
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1601
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d1bca151b593408b8a0b9019f6767
+      internalID: -2044500520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_51
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1581
+        width: 198
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9140e5e0a5a17654da33e258ffff96ee
+      internalID: 2101927641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_52
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1539
+        width: 216
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552baa303a46af24c8af9e3f5b6cf117
+      internalID: -1762584261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_53
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1539
+        width: 146
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abed2100ff54b3488299799aecc4c0c
+      internalID: -910066177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_54
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1555
+        width: 168
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5e0545d0ddc574eb4413a5ce7f9118
+      internalID: -169432703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_55
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1610
+        width: 213
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e5e884079e2ab44a1de4f38b38c2d5
+      internalID: -863970541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1335
+        width: 224
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a309ee79a6d13e41b0bda3d8490443d
+      internalID: 560134921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_57
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1334
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7dcf172262f042a19fa23dd1d067a
+      internalID: 672053510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_58
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1334
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aed452d57aa444f86e7341e570ca68
+      internalID: 326127327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1334
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39928160ee615440b24c313fdeff404
+      internalID: 272437764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_60
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1334
+        width: 168
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2880e2ab69bcb534b8175a485e8d419d
+      internalID: 434768974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_61
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1318
+        width: 168
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f0d22aa447694f9e194167c94e370
+      internalID: 672014577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_62
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1322
+        width: 179
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a6fc86b1cba94cb3be9d72dddc8c4
+      internalID: 1451272491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_63
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1331
+        width: 211
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41de8325fe0c79489f6fd8db77d3d80
+      internalID: 643217567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_64
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1095
+        width: 219
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403f01c08c585504f89e9edd34b57e56
+      internalID: -1040954972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_65
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1122
+        width: 193
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b02e04f77c3a5479a68e1568d814b0
+      internalID: -982132377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_66
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1122
+        width: 189
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1252a36f797fc4f9e89aa9e2ae8ddf
+      internalID: -956822618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_67
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1122
+        width: 183
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72338fd5c0e8a8d418cf421b0eb602f6
+      internalID: -227617950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_68
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1122
+        width: 179
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3007907adabfbcf46a2845cac9ccb199
+      internalID: 1004784456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_69
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1122
+        width: 197
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c5923b4c20db94c81c8fdfb550d4a0
+      internalID: -6060656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_70
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1111
+        width: 236
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52498566cf6794f4ca61112a16ac4a3f
+      internalID: 1761920048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 891
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42ddabeee37740448e120fcf06d70f9
+      internalID: 689441446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_72
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 888
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33042ddb6dfa1dd4b830bdacee509f9a
+      internalID: 1770086112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_73
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 888
+        width: 269
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bced4ed95c6484da0303ab650afe54
+      internalID: 1181992108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_74
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 890
+        width: 254
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c4ed41e49fa51428efb8e5fa56d80c
+      internalID: 2034411922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_75
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 898
+        width: 203
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d31d98045293469d1bed038cf0f84
+      internalID: -1150496600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_76
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 886
+        width: 185
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b396d25634d4bc4ca3c2c9c49646f61
+      internalID: -1519966106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_77
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 870
+        width: 184
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e8806dabb2e54984400c4adbcc9be
+      internalID: -288457305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_78
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 854
+        width: 157
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb458bf347ffdac4e8beead464cf00cf
+      internalID: 2118690136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_79
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 584
+        width: 127
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a8aa2f80743f42a94ac7fa90cdde8
+      internalID: -622683591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_80
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 568
+        width: 147
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744b2dfaf0cf70458c51bfa020ced1d
+      internalID: -12430509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_81
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 584
+        width: 127
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324986704f33f54d8fe81817c844d05
+      internalID: 739582976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_82
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 584
+        width: 169
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c19e662b819af42ba98ec916bbfb9f
+      internalID: -1268973406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_83
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 584
+        width: 197
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee3a23650dee6d40a6046d989b7b828
+      internalID: -7495719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_84
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 536
+        width: 202
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ea861de83718e49ba945d6f6e34c46
+      internalID: -1016705307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_85
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 504
+        width: 188
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c19b25d2a96c4684304a9d471ce7a
+      internalID: 1282849264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_86
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 504
+        width: 133
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9ff0b13ad9bb42909d1c70974d4cf
+      internalID: -2108953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_87
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 520
+        width: 143
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99820f0e4a652d24280eee6288eefa31
+      internalID: 602733995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_88
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 250
+        width: 140
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f66ead5d384840885e93a5ecd9b10
+      internalID: 2035130503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_89
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 250
+        width: 139
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98df23706401a346834a15e037d9746
+      internalID: 1413096376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_90
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 250
+        width: 138
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19500b3c8caea4a42b693b551430c7b8
+      internalID: 1545033734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 266
+        width: 174
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733688933aa128a4ab7606454b467649
+      internalID: 360513150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_92
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 282
+        width: 216
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ece135d44a8340b39931629efb786
+      internalID: 1657418685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_93
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 282
+        width: 231
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7481f4a7849fe848b731fa34b1122b5
+      internalID: 462875090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_94
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 282
+        width: 204
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a300ac457b6b14b9f031037dfe8725
+      internalID: -632612289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_95
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 298
+        width: 171
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208daf49f83504c41930d4b6a9a643e7
+      internalID: -1121703910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41abbb763bc6fe49a56453aff363f61
+      internalID: 1133139754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 52
+        width: 155
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7a56eac249eaa448d5af282b092d71
+      internalID: 1809274311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_98
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 47
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102fc1833318334b8b429e5fd8a3c05
+      internalID: -528280530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_99
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 52
+        width: 179
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62dc10f083df8c4486fb0e4e6daa57a
+      internalID: -1600611447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_100
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 58
+        width: 185
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94410dd14e0406449b2c9f22cc11d5e2
+      internalID: 2283672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_101
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 41
+        width: 182
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafece70833531a4780e08cfef27e5ff
+      internalID: -511505431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_102
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 41
+        width: 181
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac333515d9e75945b997a658c6d0895
+      internalID: -1903412863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Centaur_103
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 47
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9289d91480f6d4f88f55ae271ebd57
+      internalID: -548913515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Iron Centaur_33: 1628208812
+      Iron Centaur_15: -366371514
+      Iron Centaur_43: 527475952
+      Iron Centaur_62: 1451272491
+      Iron Centaur_39: 1220044537
+      Iron Centaur_23: 1718830324
+      Iron Centaur_82: -1268973406
+      Iron Centaur_16: 1703287264
+      Iron Centaur_36: -2117887324
+      Iron Centaur_34: 1064281469
+      Iron Centaur_80: -12430509
+      Iron Centaur_67: -227617950
+      Iron Centaur_1: 33891110
+      Iron Centaur_22: 1328113986
+      Iron Centaur_14: 808046206
+      Iron Centaur_68: 1004784456
+      Iron Centaur_17: 1676248211
+      Iron Centaur_58: 326127327
+      Iron Centaur_88: 2035130503
+      Iron Centaur_0: 1176213341
+      Iron Centaur_76: -1519966106
+      Iron Centaur_57: 672053510
+      Iron Centaur_94: -632612289
+      Iron Centaur_46: 628765214
+      Iron Centaur_77: -288457305
+      Iron Centaur_20: -900015312
+      Iron Centaur_40: -856804889
+      Iron Centaur_100: 2283672
+      Iron Centaur_50: -2044500520
+      Iron Centaur_84: -1016705307
+      Iron Centaur_9: -1460300246
+      Iron Centaur_8: 268033412
+      Iron Centaur_85: 1282849264
+      Iron Centaur_60: 434768974
+      Iron Centaur_78: 2118690136
+      Iron Centaur_86: -2108953211
+      Iron Centaur_64: -1040954972
+      Iron Centaur_49: -1155890058
+      Iron Centaur_103: -548913515
+      Iron Centaur_19: -830841593
+      Iron Centaur_31: 1015953989
+      Iron Centaur_21: 252908744
+      Iron Centaur_98: -528280530
+      Iron Centaur_59: 272437764
+      Iron Centaur_69: -6060656
+      Iron Centaur_11: 418613887
+      Iron Centaur_51: 2101927641
+      Iron Centaur_32: -1384990780
+      Iron Centaur_95: -1121703910
+      Iron Centaur_66: -956822618
+      Iron Centaur_38: -1401116868
+      Iron Centaur_87: 602733995
+      Iron Centaur_101: -511505431
+      Iron Centaur_28: 799337685
+      Iron Centaur_75: -1150496600
+      Iron Centaur_99: -1600611447
+      Iron Centaur_61: 672014577
+      Iron Centaur_83: -7495719
+      Iron Centaur_44: -944059365
+      Iron Centaur_12: 957788887
+      Iron Centaur_52: -1762584261
+      Iron Centaur_25: -1552629326
+      Iron Centaur_10: 1728672763
+      Iron Centaur_7: -401957068
+      Iron Centaur_72: 1770086112
+      Iron Centaur_90: 1545033734
+      Iron Centaur_65: -982132377
+      Iron Centaur_102: -1903412863
+      Iron Centaur_92: 1657418685
+      Iron Centaur_27: 1787837360
+      Iron Centaur_42: -399535119
+      Iron Centaur_96: 1133139754
+      Iron Centaur_5: 1214772434
+      Iron Centaur_6: -1122657791
+      Iron Centaur_3: 1465257298
+      Iron Centaur_91: 360513150
+      Iron Centaur_26: -1844760193
+      Iron Centaur_30: 1514233130
+      Iron Centaur_13: 990235063
+      Iron Centaur_63: 643217567
+      Iron Centaur_93: 462875090
+      Iron Centaur_41: 976700839
+      Iron Centaur_18: 448222794
+      Iron Centaur_4: -1860628749
+      Iron Centaur_53: -910066177
+      Iron Centaur_56: 560134921
+      Iron Centaur_79: -622683591
+      Iron Centaur_2: -1368968180
+      Iron Centaur_81: 739582976
+      Iron Centaur_54: -169432703
+      Iron Centaur_45: -488241940
+      Iron Centaur_48: -832283833
+      Iron Centaur_71: 689441446
+      Iron Centaur_70: 1761920048
+      Iron Centaur_29: 1054230262
+      Iron Centaur_47: -1407993582
+      Iron Centaur_24: -1044756631
+      Iron Centaur_55: -863970541
+      Iron Centaur_37: 135268849
+      Iron Centaur_97: 1809274311
+      Iron Centaur_74: 2034411922
+      Iron Centaur_35: 2013495726
+      Iron Centaur_89: 1413096376
+      Iron Centaur_73: 1181992108
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

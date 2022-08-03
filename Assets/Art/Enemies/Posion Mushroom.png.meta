@@ -1,0 +1,5249 @@
+fileFormatVersion: 2
+guid: a8b0592999d08c6489d37d1e67442af9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1319
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb433ba6ead508469ca6a4aea1154b2
+      internalID: 679496015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1319
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745efbcdc3f7b44fa7e95c9391a5612
+      internalID: 2017545702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1319
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d841c4f431764b8e6be8165e51e97
+      internalID: -1143608488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1286
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b2274198a486f4f84761834aee4850
+      internalID: -860220484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1286
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a2866447147843a43a5caf2e0ca29
+      internalID: 1032616221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1286
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb81796085fb852458fe1f9bf525310c
+      internalID: 2139331901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1253
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efacd53a2890ac84aaada6275edfcf67
+      internalID: 601125955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1253
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92118a459aa4b724793df7d1ba8167a8
+      internalID: 256418036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1253
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110857669d3259468882ef1a00dfd15
+      internalID: 1438514350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1221
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed6d190e9df0f49a460dfde8c02b09
+      internalID: 1909280274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1221
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c9ff5536b709c46a9d9a0bb4f5c9de
+      internalID: -1151316174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1221
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e4b67a8aa8ea489a36f59d73af8e0
+      internalID: 1637368271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_12
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1221
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439e6145290461e4c809c75e8b09e521
+      internalID: -634162894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_13
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1188
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c317fd59f470db46bfa6ede02d7b824
+      internalID: -2801674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1189
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27bb9e8a43fd745a94ab5e24487802
+      internalID: -838869955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1188
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396847bd11d6c84c851807bc6a4c035
+      internalID: -1427772198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1189
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70dabfd4315ad34e984c33201524688
+      internalID: -518997061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1156
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b30c21a7fb103439de079a92c1b1d1
+      internalID: -1320156358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1156
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a378a8e3f7e5e4e9ac2075b179453f
+      internalID: -1238667363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1156
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1ed113c8d34d47903a8027712702f
+      internalID: -963863762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_20
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1157
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266693d1c89bff045b05f4b8d0ad7e87
+      internalID: -1480702910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1124
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d535380097c1114e98009d39ca1c98a
+      internalID: -455480988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1125
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5cc8a1cb587c4ebdfd54fab81be14
+      internalID: -611488792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1092
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5cf548904ab604a9cc6ba21a62469f
+      internalID: 276292314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1088
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dae5caad96ca741a39598ee8019a9b
+      internalID: 792127586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1055
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621452f41a73ae4ca8176a53e1eae00
+      internalID: -823309935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1056
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8af39d6fdb09c4aa58828ac2dcdad5
+      internalID: 471199856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1023
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1aece549d2a14181bece6bf711546
+      internalID: -222762364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 991
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0a9fa6188d034a9d654484158c317
+      internalID: -326737208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 960
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b715a8c81e18bf4469837497a844c0ae
+      internalID: 188915610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 926
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c23ff4fad39b148aa55c7509f850d5
+      internalID: 1573332553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 929
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4235e5be66ce4d97d637486315b16
+      internalID: -948004180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_32
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 894
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46465491ca47d840a60b912c1354cd2
+      internalID: -626146642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 892
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51689e59ec11043409f748c24d5d830b
+      internalID: 11011763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 857
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1f1f91f8900344906d16bee3da7d1
+      internalID: 1715815607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 860
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3487c75fb7a8345a963f48abdf66dd
+      internalID: 758266704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 826
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d5570802aec04b9a3b58cc8d6ccf9
+      internalID: -2049446075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 824
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93fb46657f4ad1488a50f620380e756
+      internalID: 8859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_38
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 823
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d04962365dfd8f4cba84ec3c6762076
+      internalID: 1134352092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 789
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c1f4ee1e4c32c4dabd004fdc8b8a3b
+      internalID: -350757255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 787
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17704edcb94ef924dad82e656a77ddfa
+      internalID: 948172737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_41
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 791
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c958028990505294ebd195bad88b4c9a
+      internalID: -349752034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 755
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba2edd6fa512d43843e261e058a3d8
+      internalID: -1199129758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 753
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3997391add4e8d943882994018b1c380
+      internalID: -501804756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 752
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9a9fc5a63014a4787de3664bc09c19
+      internalID: -672430296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 718
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462baf10fb9bc6419c943bdcf605a7f
+      internalID: 1921796789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_46
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 721
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab100f28b18d6841ad4051f4ccf7b63
+      internalID: -948656639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 719
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095384821447fa4195fb8255c62baa4
+      internalID: 1677203006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_48
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 721
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5a17cb9a4f3824b813e82db5e7a688
+      internalID: 1971060761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_49
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 718
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c54805908667947aa48cbb25e75d92
+      internalID: -2108070035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_50
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 718
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85953bf867767409252065d424872c
+      internalID: 1878980996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 686
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac665a431ecb4e7459267bbf7d797bbd
+      internalID: 149042173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_52
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 684
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4fe04009ec2f4790f75b9d4ef776d
+      internalID: 1288512250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_53
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 682
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3020ffb02755145b7ba4b5c76a66e5
+      internalID: 2069791805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 684
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd672e1caf9c284f87e9e8112f60d8f
+      internalID: 741844957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 686
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb024bac12b263b4bafe71d53e6ab1b8
+      internalID: -902632658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_56
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 685
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d65678ce9f78d54cb3c96c3221cea98
+      internalID: -468680800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 647
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8039ba92a67cf48a6c714a7021b67b
+      internalID: 170819077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 650
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d88688f12430da45af29554912af4bd
+      internalID: 1627735688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_59
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 648
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed381755cf02694a9347476c9aaa707
+      internalID: 634116304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 650
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd834fe7af625824f8c48eba6bc6d0b2
+      internalID: 1841090784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 647
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed167460fb694704db2297d50c7613e5
+      internalID: -45175432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 647
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e636901d8fa904d9dccaa06e820587
+      internalID: -1150429393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 604
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5872e6111dc5b41a0c2d1164655195
+      internalID: 1010181553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 607
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68d6805ea23774aa2d2b675d4da07c
+      internalID: -2067251151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 613
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e797968b85c2201419671ac1b9a2b4d0
+      internalID: -486375600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_66
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 616
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080660df3a1c14c4f95026e4272b7e75
+      internalID: 1637679242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_67
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 613
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533225e3d17abb74e995e606d36485f0
+      internalID: 628446215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_68
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 607
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b352ee751561c6841849283e35354aad
+      internalID: -272927432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 605
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d52d95ffb8d76e4e8a1e488cdee95c3
+      internalID: -418533669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 604
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74f7f22965e4b45a3e3f4db81d7157
+      internalID: 85901504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_71
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 604
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d8bbd1d4fb8947baa27faf957e621
+      internalID: 503652821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 562
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6206f77f3e7eaf478ec15f7f2cc8e02
+      internalID: -17034033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_73
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36366dbb7f43b4d987ced384d2fdbe
+      internalID: -641932825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 570
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e5e662ba38db54992e574b6fdc965d
+      internalID: 1081153088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_75
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 573
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d99c705c588084da90349e754c2123
+      internalID: -2124556698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_76
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 570
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7a2a9b21cc554a83ae7f2ad97454f
+      internalID: 1649647904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_77
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 560
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9190569b670efbe47ae805bea02e2d3a
+      internalID: 728940154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 558
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dd4d51b7877984297d5c0f77e24669
+      internalID: 1299308835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 562
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c284159cb93ebb940a7844be1a565b0e
+      internalID: -1835203906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 561
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf23d8463f3554faf738ae63260c37
+      internalID: 1534885974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 514
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658dd22a479c6f34598f191476163aba
+      internalID: -433850964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 517
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3adf314f064e4d9ee40c4a1068ef9
+      internalID: 360340014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_83
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 523
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dd86485e9fb25458ffa7d5242dddef
+      internalID: 692415810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 526
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8920ede4ee7246c4580143a109f01a58
+      internalID: 1658599695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 523
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926c95f25257c049b8ec0be30a34388
+      internalID: 776131174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_86
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 517
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1206f69c23690a54bb2f787d51492ec7
+      internalID: -314851427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_87
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 515
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edddc392d08c7e54fa9c09741fd22656
+      internalID: -1427839343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_88
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 514
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7ea32e42254e429d807df2c438a8e
+      internalID: 802885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_89
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 514
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f5337c9db37d4696665fd95fa8490
+      internalID: -1951142972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 471
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8444813c717f2014298b74ce5aa01e0d
+      internalID: 1055356680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_91
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 474
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b791b1fbfb9262349b666c9339d24b0d
+      internalID: 1948925814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_92
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 480
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ae9e4dfbea2094b9f7d61eda18e99b
+      internalID: 517357469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 483
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157df067b0b0bd741ba05ccfa1e6b97a
+      internalID: 475924473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 480
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806de1190a36878429ae79fd162636c8
+      internalID: 794660627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_95
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 474
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e88a36be90cf43b0116083a06fbd6
+      internalID: -604909513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_96
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 472
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dd571cfccd9494da49cf1664f9a913
+      internalID: -1167693136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b3d8e0e2af15488bdad12f64b5c7d
+      internalID: 1656383425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_98
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 427
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2230e805f2e0ebf4690d649314c3cc3e
+      internalID: -1971215078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_99
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 437
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa8342fb348165469960eda0d158b61
+      internalID: -1069013355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_100
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 440
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cb41a06f0673f428f3ba6bcaacfff7
+      internalID: 1844479399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 437
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c129b3c2fcb01f94f8f4473f930943a9
+      internalID: -1640675183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 427
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8aea59099024945be4dbd238cc6765
+      internalID: 1058352964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_103
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 425
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5138baee6620f74f96731ddaa96e9b8
+      internalID: 1296925412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 381
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41abce92e0ef98d4994839cf198a1edc
+      internalID: 1704054606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 384
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae4cafbf8d59c34f99560e77f13a022
+      internalID: -386023007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51357d829861c01499cd2be5a502aa06
+      internalID: 444133367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_107
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 393
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da06e6e3ac41eac4291569e0046db065
+      internalID: 1184462065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_108
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 390
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfa7e89053ab1c43960c96303281a06
+      internalID: 1447284083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_109
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 384
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020109e5b16de74b8abd3dc00fb60ef
+      internalID: -1371309583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_110
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 382
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6db0e4056e3c43a1b631ca11a1ad5
+      internalID: -853946380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 349
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5998aea3411d77346925318ec261c02c
+      internalID: -1881663801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 349
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aac9cbdaa131d4297947a6eeb386cf
+      internalID: 1023325049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_113
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 349
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a97e5a569350344ab068229668ba71
+      internalID: 426097743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_114
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 318
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1c03b071f092c4a85cc952d5ad99a8
+      internalID: -1275627142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_115
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 318
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d43054aa6d5764d8e98c167d32893f
+      internalID: 1626091364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_116
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 295
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f6ab3444d9a747b99bc685bb9a22d
+      internalID: -1521208534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_117
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 295
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb2353f99a62c24a88d76dc941db3f1
+      internalID: -2143246100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_118
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7038ecb5bbb1d8147947e86d9650ebd9
+      internalID: -1088776222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_138
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 190
+        width: 108
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e2ef6337e8f441a60b5e0e9c9c4f5
+      internalID: -2085714535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_154
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 210
+        width: 68
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea14203e845ac74d80b332d1e60b462
+      internalID: 615981608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_155
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 205
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41769865df9edf7479d3f753e170dc1c
+      internalID: -1428394220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_156
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 204
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f60b9c084460a45841ba05cc134301
+      internalID: -1159153380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_157
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 202
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe20bceb1b93c5408b53b9cbc3ffa24
+      internalID: 716021455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_158
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 202
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d7530d114c40343ade347cce88a102
+      internalID: -579598654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_159
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 192
+        width: 47
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e1310d407c454793779d6a91e4015
+      internalID: -85811472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_160
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 196
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bafcba426d6d6499aadff11bd54930
+      internalID: -1357842693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_161
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 233
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452644984cf1c484baca4d6aa1c0a644
+      internalID: 1534665653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_173
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e2203d67abcde418f78adf000197e5
+      internalID: 1229304873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_174
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 233
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85731e8b1f83c474f9edf036e1194652
+      internalID: 2052354812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_175
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 233
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ba4c4a9653b1343a678266e67bbe71
+      internalID: 1823446092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_176
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 233
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed7f1efdd6a21d43881345117a35ad9
+      internalID: -1315978341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_177
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 233
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f73ae6daf710f4795adf07dec2690a
+      internalID: -2042810010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_180
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 233
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe379c558baf8fc449f2b33f3d5328e7
+      internalID: 142779036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_183
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 233
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadcc1b4217359d4691e77d959e0927a
+      internalID: 1132580538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_186
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 220
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b554293a760804684d1d5db9bfa8c7
+      internalID: -804074633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_190
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 216
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94258d051e6445f4485775924a685c46
+      internalID: -400965148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_194
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 233
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6b46e5e330d1b4a85c2dec47eb8f06
+      internalID: -137169448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_195
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 233
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136001c453a50074cb95a3c68b6130e3
+      internalID: -1352282308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_196
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 233
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f745bd4ac9085442b1f1c782fe2d157
+      internalID: -1414001334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_197
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 233
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daae48fcef71cdc4995f95c6800f49d9
+      internalID: -1759199198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_198
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 233
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680c218cec19374dbf14e5dffb250e7
+      internalID: -408133105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_199
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 233
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8556a70bc5b83343bd8ff0674e8bb21
+      internalID: -2076747329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_200
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 233
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2e7e519dbb9ce4b98de43a4970db3b
+      internalID: -1444695679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_201
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 233
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6859e1379909248935530570a49ca0
+      internalID: 1526046652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_202
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 233
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba54fced7600a4d8d6d2114ef51b50
+      internalID: 298525182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_203
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 233
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9a2355d440310489504fc819fa8946
+      internalID: -464376625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_204
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 233
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c1443958a47140b372105b81437fe
+      internalID: 338179787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_206
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 228
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602369ec4c2dc2d4792a9fe903b9150e
+      internalID: -327749855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_207
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 223
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d0e10867c0ba42afdc72e978401d4
+      internalID: 1937900692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_210
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 212
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af003eff0154d4b9dcfa6a1266dee4
+      internalID: 2111290764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_214
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 233
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f4ea58f618ee4b92ed41d30e9e866
+      internalID: 341981019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_229
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b59c25658f16e4880c3826ee105b29
+      internalID: 126313731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_230
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 222
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fbda6de5dd9f64c9ff96a8e562d53f
+      internalID: 807300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_231
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc86376917c23943828ec179a8632d5
+      internalID: -13480852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_232
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 153
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5283cd7000b56c4f9660b44fc76e6db
+      internalID: -606985454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_233
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24912058b693c1747b47603a8cc0a9be
+      internalID: -293194998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_234
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f8f735f9b725a488cc6d817baff658
+      internalID: 168013073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_235
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bdf56f0040e3b44ae49a2f51e28435
+      internalID: -108000465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_236
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd34c438f41914a4eb1dd29d5f4237bb
+      internalID: 1663781776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_237
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28130c2809798784a86faa4e590375f3
+      internalID: -535974147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_238
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e980e386a4e448a709f2086c6dea6
+      internalID: -585719871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_239
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54566d492ee25b43a100368beb9e2ba
+      internalID: 1183537852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_240
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df7b674f95bf2489833f485593b734
+      internalID: 2038448951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_241
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52e72d3bcd80c140a2058d2f2f22d68
+      internalID: 291296535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_242
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb4902ff396e86419edf23f3737bc2d
+      internalID: -4917264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_243
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcf8445b0ab1c44a5e873d128889df
+      internalID: -849407311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_244
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66ee01d36e03b4694b66a2a4f2d74c
+      internalID: -1677968954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_245
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e97a50d7336f048a7f7c18cc510849
+      internalID: -1562864651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_246
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917f73c82e6ab094699f24a3807613df
+      internalID: 1851134593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_247
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7e209e3867694d88d777ff0726658
+      internalID: -405875304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_248
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 150
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e689e94233c8904b913660c8254f2fc
+      internalID: -103135360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_249
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709d1194ee22bed4888806dcbcbcebce
+      internalID: 1584291374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_250
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1d38b68174434080c32d198b3ee98
+      internalID: 564194341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_251
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 159
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0729aa3a0c42d4429468925f4c25621
+      internalID: -754367714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_252
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 150
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfce01a7b5891d40bad0641c4996c4a
+      internalID: -519384490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_253
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91bd55bd404d19439e48f70f311e579
+      internalID: 749009945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_254
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 113
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47a2f9e57716c1489423d4b34c7bcbf
+      internalID: 870615018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_255
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0ae224af8502e489492f881863508f
+      internalID: -1413899194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_256
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a37eb4df66acfd428dfcf210e358890
+      internalID: -100411283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_257
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcbe4a288cba144e983cb9cce3c59a7
+      internalID: 1572333464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_258
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 110
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56798edc8ec574994d09189b9c979e
+      internalID: 951632347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_259
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602159cacc916674a8e321b35c755a48
+      internalID: -46170603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_260
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95ce3f6ecbc944db8be82471153605
+      internalID: -1242503451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_261
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a85f02ef59f984c885dd322f3be0c1
+      internalID: 1572218229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_262
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 110
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b1a8c1feb7b44dab8af2209563c03
+      internalID: 1729567398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_263
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8886413187242af48b6259eb7c9cc985
+      internalID: 925134095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_264
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdbea1e83185ec4b8e5b94c8470fff9
+      internalID: -119400715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_265
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75da03f6fcba2e4e93d388a73460477
+      internalID: 2078466645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_266
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 110
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad8419b4d407c42bd9999f78bf7145
+      internalID: -1440116617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_267
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a831a18361085c04997d10d5269fce10
+      internalID: -1482932453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_268
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 110
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647aa63cce4b7346bdda8771728e9b9
+      internalID: 1914708113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_269
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 110
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14054afea9b6ecc4b92ecba4ae19d686
+      internalID: 19725658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_270
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 110
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f1def600b0312419ea3c375cf0bdb3
+      internalID: -1903534997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_271
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 119
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07732009bd2782440830b2910a9d1e27
+      internalID: 569432451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_272
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 111
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f27800891d9f044d9ee89b36529ae96
+      internalID: 565714872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_273
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 77
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523137fd56aabdb4db581c4df6bc8071
+      internalID: 101795354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_274
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 77
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87c73a1cc87f94eb2a586716a1b402
+      internalID: -713989564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_275
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bec0909ae78bbd459380e920a97c8fd
+      internalID: -639071429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_276
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0a521c3ef85c46b78c3b9b72d813d
+      internalID: 1071382163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_277
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5959563e316590147ad5c9a23bb9cd55
+      internalID: -985185622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_278
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 76
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ba4aaf6681564288c5fa4370c3703
+      internalID: -1079692692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_279
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb754dd963a474ab8211cfd0e0a6c1
+      internalID: -2129391039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_280
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3f6c4b2cae2b42b9bbd354329e8dc
+      internalID: 2100644037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_281
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3122b9cb44d7c4e924496ff8b0209f
+      internalID: 786593211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_282
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 76
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec0a7fe228c3f45bd87b34c5a606d0
+      internalID: 1761834869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_283
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b709b508e1575a44b109d828166c007
+      internalID: -1663345812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_284
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff5cacd358a9847acbb2f2d7e20c49
+      internalID: 1980551571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_285
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60c1fc3b5907fa4b811f842bc76f0bc
+      internalID: -735951139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_286
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 76
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492714373e1dd3f46b4f4fe893f2940d
+      internalID: -1048445424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_287
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b25021b8e83c43bd3bfbd170ad1ac
+      internalID: 1945066205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_288
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5f8e0fc2564d74abfaaa519203ce9f
+      internalID: 223394168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_289
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7f1b85b4254df4fbd93be545fba655
+      internalID: 518279550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_290
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 76
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69905ccf07c3dcf4f97be53c474ab25b
+      internalID: -986477311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_291
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 76
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29663b0fe87bdb42aaa19d6e2c67bfc
+      internalID: -1648363948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_292
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 76
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d807b7dff3f5804a9144bb9ece9ef41
+      internalID: -177629969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_293
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 79
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13658155a859a2341b7432b8aa16cf7b
+      internalID: 1845944664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_294
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 77
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e38a1fa536b942b7ccf222dbfa66e
+      internalID: -1521258461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_295
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 45
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400324a11a93da429237d5c17973ad8
+      internalID: 1827856784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_296
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 45
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1d2f2a49737540b2999ae6d329973
+      internalID: -841113561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_297
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30669ab5df20a1c4b9350a78834dbbbf
+      internalID: -1010023987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_298
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 45
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6337202b3be6da146ba6ab06fb6ac34d
+      internalID: 1613714988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_299
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 45
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a364405a3527d641811901066214627
+      internalID: -260624416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_300
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 45
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b51094a384804d8be4f3633e7d7e1
+      internalID: 1624048765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_301
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 45
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845219507d58144a809c14e9aa5f480
+      internalID: -1963271711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Bonny Matango_302
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 45
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e440a9ab348c647a004e85f0ac1c39
+      internalID: 1790342166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Children of Mana - Bonny Matango_0: 679496015
+      DS DSi - Children of Mana - Bonny Matango_69: -418533669
+      DS DSi - Children of Mana - Bonny Matango_340: -1954663369
+      DS DSi - Children of Mana - Bonny Matango_134: -2054366934
+      DS DSi - Children of Mana - Bonny Matango_259: -46170603
+      DS DSi - Children of Mana - Bonny Matango_177: -2042810010
+      DS DSi - Children of Mana - Bonny Matango_129: 1322162581
+      DS DSi - Children of Mana - Bonny Matango_256: -100411283
+      DS DSi - Children of Mana - Bonny Matango_136: 1154632565
+      DS DSi - Children of Mana - Bonny Matango_232: -606985454
+      DS DSi - Children of Mana - Bonny Matango_196: -1414001334
+      DS DSi - Children of Mana - Bonny Matango_126: 20675920
+      DS DSi - Children of Mana - Bonny Matango_211: 1082128009
+      DS DSi - Children of Mana - Bonny Matango_301: -1963271711
+      DS DSi - Children of Mana - Bonny Matango_58: 1627735688
+      DS DSi - Children of Mana - Bonny Matango_62: -1150429393
+      DS DSi - Children of Mana - Bonny Matango_245: -1562864651
+      DS DSi - Children of Mana - Bonny Matango_2: -1143608488
+      DS DSi - Children of Mana - Bonny Matango_119: 1708837476
+      DS DSi - Children of Mana - Bonny Matango_186: -804074633
+      DS DSi - Children of Mana - Bonny Matango_334: 1490423850
+      DS DSi - Children of Mana - Bonny Matango_200: -1444695679
+      DS DSi - Children of Mana - Bonny Matango_128: -1541622327
+      DS DSi - Children of Mana - Bonny Matango_335: 31689731
+      DS DSi - Children of Mana - Bonny Matango_195: -1352282308
+      DS DSi - Children of Mana - Bonny Matango_258: 951632347
+      DS DSi - Children of Mana - Bonny Matango_64: -2067251151
+      DS DSi - Children of Mana - Bonny Matango_153: 563880914
+      DS DSi - Children of Mana - Bonny Matango_243: -849407311
+      DS DSi - Children of Mana - Bonny Matango_98: -1971215078
+      DS DSi - Children of Mana - Bonny Matango_39: -350757255
+      DS DSi - Children of Mana - Bonny Matango_48: 1971060761
+      DS DSi - Children of Mana - Bonny Matango_71: 503652821
+      DS DSi - Children of Mana - Bonny Matango_100: 1844479399
+      DS DSi - Children of Mana - Bonny Matango_230: 807300560
+      DS DSi - Children of Mana - Bonny Matango_275: -639071429
+      DS DSi - Children of Mana - Bonny Matango_342: 2047421919
+      DS DSi - Children of Mana - Bonny Matango_33: 11011763
+      DS DSi - Children of Mana - Bonny Matango_278: -1079692692
+      DS DSi - Children of Mana - Bonny Matango_266: -1440116617
+      DS DSi - Children of Mana - Bonny Matango_253: 749009945
+      DS DSi - Children of Mana - Bonny Matango_7: 256418036
+      DS DSi - Children of Mana - Bonny Matango_294: -1521258461
+      DS DSi - Children of Mana - Bonny Matango_252: -519384490
+      DS DSi - Children of Mana - Bonny Matango_37: 8859609
+      DS DSi - Children of Mana - Bonny Matango_267: -1482932453
+      DS DSi - Children of Mana - Bonny Matango_3: -860220484
+      DS DSi - Children of Mana - Bonny Matango_81: -433850964
+      DS DSi - Children of Mana - Bonny Matango_152: -133608951
+      DS DSi - Children of Mana - Bonny Matango_197: -1759199198
+      DS DSi - Children of Mana - Bonny Matango_183: 1132580538
+      DS DSi - Children of Mana - Bonny Matango_99: -1069013355
+      DS DSi - Children of Mana - Bonny Matango_216: -1704270017
+      DS DSi - Children of Mana - Bonny Matango_92: 517357469
+      DS DSi - Children of Mana - Bonny Matango_264: -119400715
+      DS DSi - Children of Mana - Bonny Matango_36: -2049446075
+      DS DSi - Children of Mana - Bonny Matango_80: 1534885974
+      DS DSi - Children of Mana - Bonny Matango_207: 1937900692
+      DS DSi - Children of Mana - Bonny Matango_117: -2143246100
+      DS DSi - Children of Mana - Bonny Matango_233: -293194998
+      DS DSi - Children of Mana - Bonny Matango_55: -902632658
+      DS DSi - Children of Mana - Bonny Matango_344: -235665124
+      DS DSi - Children of Mana - Bonny Matango_293: 1845944664
+      DS DSi - Children of Mana - Bonny Matango_260: -1242503451
+      DS DSi - Children of Mana - Bonny Matango_116: -1521208534
+      DS DSi - Children of Mana - Bonny Matango_105: -386023007
+      DS DSi - Children of Mana - Bonny Matango_321: -1512840517
+      DS DSi - Children of Mana - Bonny Matango_123: 1060241489
+      DS DSi - Children of Mana - Bonny Matango_6: 601125955
+      DS DSi - Children of Mana - Bonny Matango_298: 1613714988
+      DS DSi - Children of Mana - Bonny Matango_95: -604909513
+      DS DSi - Children of Mana - Bonny Matango_79: -1835203906
+      DS DSi - Children of Mana - Bonny Matango_281: 786593211
+      DS DSi - Children of Mana - Bonny Matango_188: 982003683
+      DS DSi - Children of Mana - Bonny Matango_204: 338179787
+      DS DSi - Children of Mana - Bonny Matango_75: -2124556698
+      DS DSi - Children of Mana - Bonny Matango_35: 758266704
+      DS DSi - Children of Mana - Bonny Matango_160: -1357842693
+      DS DSi - Children of Mana - Bonny Matango_324: 1563926180
+      DS DSi - Children of Mana - Bonny Matango_173: 1229304873
+      DS DSi - Children of Mana - Bonny Matango_331: 2032946739
+      DS DSi - Children of Mana - Bonny Matango_310: -1265468339
+      DS DSi - Children of Mana - Bonny Matango_13: -2801674
+      DS DSi - Children of Mana - Bonny Matango_286: -1048445424
+      DS DSi - Children of Mana - Bonny Matango_108: 1447284083
+      DS DSi - Children of Mana - Bonny Matango_317: 947339138
+      DS DSi - Children of Mana - Bonny Matango_208: -381370273
+      DS DSi - Children of Mana - Bonny Matango_284: 1980551571
+      DS DSi - Children of Mana - Bonny Matango_269: 19725658
+      DS DSi - Children of Mana - Bonny Matango_156: -1159153380
+      DS DSi - Children of Mana - Bonny Matango_257: 1572333464
+      DS DSi - Children of Mana - Bonny Matango_350: 1490864719
+      DS DSi - Children of Mana - Bonny Matango_229: 126313731
+      DS DSi - Children of Mana - Bonny Matango_53: 2069791805
+      DS DSi - Children of Mana - Bonny Matango_168: 2019125753
+      DS DSi - Children of Mana - Bonny Matango_32: -626146642
+      DS DSi - Children of Mana - Bonny Matango_19: -963863762
+      DS DSi - Children of Mana - Bonny Matango_194: -137169448
+      DS DSi - Children of Mana - Bonny Matango_112: 1023325049
+      DS DSi - Children of Mana - Bonny Matango_45: 1921796789
+      DS DSi - Children of Mana - Bonny Matango_247: -405875304
+      DS DSi - Children of Mana - Bonny Matango_164: -1555695572
+      DS DSi - Children of Mana - Bonny Matango_54: 741844957
+      DS DSi - Children of Mana - Bonny Matango_146: 1999161105
+      DS DSi - Children of Mana - Bonny Matango_318: -382275519
+      DS DSi - Children of Mana - Bonny Matango_93: 475924473
+      DS DSi - Children of Mana - Bonny Matango_322: 2131239844
+      DS DSi - Children of Mana - Bonny Matango_325: 1041038981
+      DS DSi - Children of Mana - Bonny Matango_265: 2078466645
+      DS DSi - Children of Mana - Bonny Matango_237: -535974147
+      DS DSi - Children of Mana - Bonny Matango_133: 605415853
+      DS DSi - Children of Mana - Bonny Matango_24: 792127586
+      DS DSi - Children of Mana - Bonny Matango_87: -1427839343
+      DS DSi - Children of Mana - Bonny Matango_125: 100596429
+      DS DSi - Children of Mana - Bonny Matango_349: 1823247463
+      DS DSi - Children of Mana - Bonny Matango_231: -13480852
+      DS DSi - Children of Mana - Bonny Matango_83: 692415810
+      DS DSi - Children of Mana - Bonny Matango_337: -1916314652
+      DS DSi - Children of Mana - Bonny Matango_187: -177048635
+      DS DSi - Children of Mana - Bonny Matango_10: -1151316174
+      DS DSi - Children of Mana - Bonny Matango_56: -468680800
+      DS DSi - Children of Mana - Bonny Matango_144: -686397004
+      DS DSi - Children of Mana - Bonny Matango_114: -1275627142
+      DS DSi - Children of Mana - Bonny Matango_283: -1663345812
+      DS DSi - Children of Mana - Bonny Matango_327: 1088671803
+      DS DSi - Children of Mana - Bonny Matango_201: 1526046652
+      DS DSi - Children of Mana - Bonny Matango_202: 298525182
+      DS DSi - Children of Mana - Bonny Matango_328: 1548456462
+      DS DSi - Children of Mana - Bonny Matango_61: -45175432
+      DS DSi - Children of Mana - Bonny Matango_225: -75663648
+      DS DSi - Children of Mana - Bonny Matango_254: 870615018
+      DS DSi - Children of Mana - Bonny Matango_272: 565714872
+      DS DSi - Children of Mana - Bonny Matango_15: -1427772198
+      DS DSi - Children of Mana - Bonny Matango_66: 1637679242
+      DS DSi - Children of Mana - Bonny Matango_84: 1658599695
+      DS DSi - Children of Mana - Bonny Matango_263: 925134095
+      DS DSi - Children of Mana - Bonny Matango_198: -408133105
+      DS DSi - Children of Mana - Bonny Matango_192: 39386079
+      DS DSi - Children of Mana - Bonny Matango_182: 1929950535
+      DS DSi - Children of Mana - Bonny Matango_290: -986477311
+      DS DSi - Children of Mana - Bonny Matango_11: 1637368271
+      DS DSi - Children of Mana - Bonny Matango_261: 1572218229
+      DS DSi - Children of Mana - Bonny Matango_348: 1679317487
+      DS DSi - Children of Mana - Bonny Matango_23: 276292314
+      DS DSi - Children of Mana - Bonny Matango_67: 628446215
+      DS DSi - Children of Mana - Bonny Matango_304: 687415814
+      DS DSi - Children of Mana - Bonny Matango_127: -1650192999
+      DS DSi - Children of Mana - Bonny Matango_180: 142779036
+      DS DSi - Children of Mana - Bonny Matango_353: 473279452
+      DS DSi - Children of Mana - Bonny Matango_68: -272927432
+      DS DSi - Children of Mana - Bonny Matango_217: 1516286378
+      DS DSi - Children of Mana - Bonny Matango_135: -922963979
+      DS DSi - Children of Mana - Bonny Matango_31: -948004180
+      DS DSi - Children of Mana - Bonny Matango_320: -95388867
+      DS DSi - Children of Mana - Bonny Matango_220: 791060899
+      DS DSi - Children of Mana - Bonny Matango_140: 593076594
+      DS DSi - Children of Mana - Bonny Matango_271: 569432451
+      DS DSi - Children of Mana - Bonny Matango_305: -899920482
+      DS DSi - Children of Mana - Bonny Matango_4: 1032616221
+      DS DSi - Children of Mana - Bonny Matango_73: -641932825
+      DS DSi - Children of Mana - Bonny Matango_138: -2085714535
+      DS DSi - Children of Mana - Bonny Matango_165: 1011861923
+      DS DSi - Children of Mana - Bonny Matango_30: 1573332553
+      DS DSi - Children of Mana - Bonny Matango_174: 2052354812
+      DS DSi - Children of Mana - Bonny Matango_339: -113488441
+      DS DSi - Children of Mana - Bonny Matango_40: 948172737
+      DS DSi - Children of Mana - Bonny Matango_223: -1727241570
+      DS DSi - Children of Mana - Bonny Matango_118: -1088776222
+      DS DSi - Children of Mana - Bonny Matango_26: 471199856
+      DS DSi - Children of Mana - Bonny Matango_193: -1869367109
+      DS DSi - Children of Mana - Bonny Matango_51: 149042173
+      DS DSi - Children of Mana - Bonny Matango_297: -1010023987
+      DS DSi - Children of Mana - Bonny Matango_181: -1402347475
+      DS DSi - Children of Mana - Bonny Matango_270: -1903534997
+      DS DSi - Children of Mana - Bonny Matango_209: -1915093765
+      DS DSi - Children of Mana - Bonny Matango_330: -2080415256
+      DS DSi - Children of Mana - Bonny Matango_59: 634116304
+      DS DSi - Children of Mana - Bonny Matango_120: -1906834405
+      DS DSi - Children of Mana - Bonny Matango_12: -634162894
+      DS DSi - Children of Mana - Bonny Matango_103: 1296925412
+      DS DSi - Children of Mana - Bonny Matango_149: 140809485
+      DS DSi - Children of Mana - Bonny Matango_143: -103256635
+      DS DSi - Children of Mana - Bonny Matango_333: 38896349
+      DS DSi - Children of Mana - Bonny Matango_94: 794660627
+      DS DSi - Children of Mana - Bonny Matango_219: 2072319292
+      DS DSi - Children of Mana - Bonny Matango_276: 1071382163
+      DS DSi - Children of Mana - Bonny Matango_241: 291296535
+      DS DSi - Children of Mana - Bonny Matango_302: 1790342166
+      DS DSi - Children of Mana - Bonny Matango_5: 2139331901
+      DS DSi - Children of Mana - Bonny Matango_16: -518997061
+      DS DSi - Children of Mana - Bonny Matango_176: -1315978341
+      DS DSi - Children of Mana - Bonny Matango_255: -1413899194
+      DS DSi - Children of Mana - Bonny Matango_167: 1976170736
+      DS DSi - Children of Mana - Bonny Matango_104: 1704054606
+      DS DSi - Children of Mana - Bonny Matango_171: -9718209
+      DS DSi - Children of Mana - Bonny Matango_106: 444133367
+      DS DSi - Children of Mana - Bonny Matango_52: 1288512250
+      DS DSi - Children of Mana - Bonny Matango_329: 1578925291
+      DS DSi - Children of Mana - Bonny Matango_315: -132471330
+      DS DSi - Children of Mana - Bonny Matango_262: 1729567398
+      DS DSi - Children of Mana - Bonny Matango_224: 1229153904
+      DS DSi - Children of Mana - Bonny Matango_226: -1195935572
+      DS DSi - Children of Mana - Bonny Matango_163: 409961340
+      DS DSi - Children of Mana - Bonny Matango_316: -114802379
+      DS DSi - Children of Mana - Bonny Matango_343: 1876475035
+      DS DSi - Children of Mana - Bonny Matango_206: -327749855
+      DS DSi - Children of Mana - Bonny Matango_161: 1534665653
+      DS DSi - Children of Mana - Bonny Matango_157: 716021455
+      DS DSi - Children of Mana - Bonny Matango_145: 761607016
+      DS DSi - Children of Mana - Bonny Matango_121: -1832022558
+      DS DSi - Children of Mana - Bonny Matango_287: 1945066205
+      DS DSi - Children of Mana - Bonny Matango_101: -1640675183
+      DS DSi - Children of Mana - Bonny Matango_115: 1626091364
+      DS DSi - Children of Mana - Bonny Matango_18: -1238667363
+      DS DSi - Children of Mana - Bonny Matango_352: 189297395
+      DS DSi - Children of Mana - Bonny Matango_244: -1677968954
+      DS DSi - Children of Mana - Bonny Matango_96: -1167693136
+      DS DSi - Children of Mana - Bonny Matango_227: -842162045
+      DS DSi - Children of Mana - Bonny Matango_215: -1654953191
+      DS DSi - Children of Mana - Bonny Matango_296: -841113561
+      DS DSi - Children of Mana - Bonny Matango_295: 1827856784
+      DS DSi - Children of Mana - Bonny Matango_309: 341790069
+      DS DSi - Children of Mana - Bonny Matango_43: -501804756
+      DS DSi - Children of Mana - Bonny Matango_351: 1767601499
+      DS DSi - Children of Mana - Bonny Matango_289: 518279550
+      DS DSi - Children of Mana - Bonny Matango_22: -611488792
+      DS DSi - Children of Mana - Bonny Matango_8: 1438514350
+      DS DSi - Children of Mana - Bonny Matango_1: 2017545702
+      DS DSi - Children of Mana - Bonny Matango_97: 1656383425
+      DS DSi - Children of Mana - Bonny Matango_47: 1677203006
+      DS DSi - Children of Mana - Bonny Matango_110: -853946380
+      DS DSi - Children of Mana - Bonny Matango_307: -1892768433
+      DS DSi - Children of Mana - Bonny Matango_354: 533627183
+      DS DSi - Children of Mana - Bonny Matango_91: 1948925814
+      DS DSi - Children of Mana - Bonny Matango_214: 341981019
+      DS DSi - Children of Mana - Bonny Matango_89: -1951142972
+      DS DSi - Children of Mana - Bonny Matango_239: 1183537852
+      DS DSi - Children of Mana - Bonny Matango_154: 615981608
+      DS DSi - Children of Mana - Bonny Matango_82: 360340014
+      DS DSi - Children of Mana - Bonny Matango_222: 1936911805
+      DS DSi - Children of Mana - Bonny Matango_158: -579598654
+      DS DSi - Children of Mana - Bonny Matango_303: -860335322
+      DS DSi - Children of Mana - Bonny Matango_345: 416412175
+      DS DSi - Children of Mana - Bonny Matango_170: -50943267
+      DS DSi - Children of Mana - Bonny Matango_280: 2100644037
+      DS DSi - Children of Mana - Bonny Matango_46: -948656639
+      DS DSi - Children of Mana - Bonny Matango_249: 1584291374
+      DS DSi - Children of Mana - Bonny Matango_27: -222762364
+      DS DSi - Children of Mana - Bonny Matango_212: 997237683
+      DS DSi - Children of Mana - Bonny Matango_20: -1480702910
+      DS DSi - Children of Mana - Bonny Matango_107: 1184462065
+      DS DSi - Children of Mana - Bonny Matango_109: -1371309583
+      DS DSi - Children of Mana - Bonny Matango_14: -838869955
+      DS DSi - Children of Mana - Bonny Matango_124: 102454441
+      DS DSi - Children of Mana - Bonny Matango_313: 863822423
+      DS DSi - Children of Mana - Bonny Matango_49: -2108070035
+      DS DSi - Children of Mana - Bonny Matango_319: 1743483783
+      DS DSi - Children of Mana - Bonny Matango_132: -1434326484
+      DS DSi - Children of Mana - Bonny Matango_122: -1072643119
+      DS DSi - Children of Mana - Bonny Matango_151: -705862359
+      DS DSi - Children of Mana - Bonny Matango_111: -1881663801
+      DS DSi - Children of Mana - Bonny Matango_131: 1714996474
+      DS DSi - Children of Mana - Bonny Matango_268: 1914708113
+      DS DSi - Children of Mana - Bonny Matango_292: -177629969
+      DS DSi - Children of Mana - Bonny Matango_306: -1455712173
+      DS DSi - Children of Mana - Bonny Matango_336: 815613322
+      DS DSi - Children of Mana - Bonny Matango_90: 1055356680
+      DS DSi - Children of Mana - Bonny Matango_102: 1058352964
+      DS DSi - Children of Mana - Bonny Matango_240: 2038448951
+      DS DSi - Children of Mana - Bonny Matango_9: 1909280274
+      DS DSi - Children of Mana - Bonny Matango_191: -859707186
+      DS DSi - Children of Mana - Bonny Matango_341: 62064641
+      DS DSi - Children of Mana - Bonny Matango_175: 1823446092
+      DS DSi - Children of Mana - Bonny Matango_28: -326737208
+      DS DSi - Children of Mana - Bonny Matango_299: -260624416
+      DS DSi - Children of Mana - Bonny Matango_142: 428844727
+      DS DSi - Children of Mana - Bonny Matango_346: -194484588
+      DS DSi - Children of Mana - Bonny Matango_86: -314851427
+      DS DSi - Children of Mana - Bonny Matango_169: -222231115
+      DS DSi - Children of Mana - Bonny Matango_74: 1081153088
+      DS DSi - Children of Mana - Bonny Matango_21: -455480988
+      DS DSi - Children of Mana - Bonny Matango_85: 776131174
+      DS DSi - Children of Mana - Bonny Matango_141: -1114118682
+      DS DSi - Children of Mana - Bonny Matango_311: -657992583
+      DS DSi - Children of Mana - Bonny Matango_234: 168013073
+      DS DSi - Children of Mana - Bonny Matango_179: -1915254476
+      DS DSi - Children of Mana - Bonny Matango_203: -464376625
+      DS DSi - Children of Mana - Bonny Matango_277: -985185622
+      DS DSi - Children of Mana - Bonny Matango_148: -1737860213
+      DS DSi - Children of Mana - Bonny Matango_274: -713989564
+      DS DSi - Children of Mana - Bonny Matango_44: -672430296
+      DS DSi - Children of Mana - Bonny Matango_228: -858161566
+      DS DSi - Children of Mana - Bonny Matango_70: 85901504
+      DS DSi - Children of Mana - Bonny Matango_76: 1649647904
+      DS DSi - Children of Mana - Bonny Matango_60: 1841090784
+      DS DSi - Children of Mana - Bonny Matango_78: 1299308835
+      DS DSi - Children of Mana - Bonny Matango_221: 1428399626
+      DS DSi - Children of Mana - Bonny Matango_236: 1663781776
+      DS DSi - Children of Mana - Bonny Matango_34: 1715815607
+      DS DSi - Children of Mana - Bonny Matango_42: -1199129758
+      DS DSi - Children of Mana - Bonny Matango_189: 1111196692
+      DS DSi - Children of Mana - Bonny Matango_178: 1788884414
+      DS DSi - Children of Mana - Bonny Matango_17: -1320156358
+      DS DSi - Children of Mana - Bonny Matango_25: -823309935
+      DS DSi - Children of Mana - Bonny Matango_166: 1588775780
+      DS DSi - Children of Mana - Bonny Matango_291: -1648363948
+      DS DSi - Children of Mana - Bonny Matango_332: -166362220
+      DS DSi - Children of Mana - Bonny Matango_285: -735951139
+      DS DSi - Children of Mana - Bonny Matango_88: 802885089
+      DS DSi - Children of Mana - Bonny Matango_147: 173258091
+      DS DSi - Children of Mana - Bonny Matango_248: -103135360
+      DS DSi - Children of Mana - Bonny Matango_250: 564194341
+      DS DSi - Children of Mana - Bonny Matango_150: 2128762150
+      DS DSi - Children of Mana - Bonny Matango_326: -392557983
+      DS DSi - Children of Mana - Bonny Matango_242: -4917264
+      DS DSi - Children of Mana - Bonny Matango_29: 188915610
+      DS DSi - Children of Mana - Bonny Matango_72: -17034033
+      DS DSi - Children of Mana - Bonny Matango_273: 101795354
+      DS DSi - Children of Mana - Bonny Matango_184: 939441784
+      DS DSi - Children of Mana - Bonny Matango_279: -2129391039
+      DS DSi - Children of Mana - Bonny Matango_155: -1428394220
+      DS DSi - Children of Mana - Bonny Matango_314: -1387714903
+      DS DSi - Children of Mana - Bonny Matango_113: 426097743
+      DS DSi - Children of Mana - Bonny Matango_356: 105039877
+      DS DSi - Children of Mana - Bonny Matango_210: 2111290764
+      DS DSi - Children of Mana - Bonny Matango_323: 2109459812
+      DS DSi - Children of Mana - Bonny Matango_57: 170819077
+      DS DSi - Children of Mana - Bonny Matango_213: -1658333369
+      DS DSi - Children of Mana - Bonny Matango_251: -754367714
+      DS DSi - Children of Mana - Bonny Matango_238: -585719871
+      DS DSi - Children of Mana - Bonny Matango_172: -1668593659
+      DS DSi - Children of Mana - Bonny Matango_246: 1851134593
+      DS DSi - Children of Mana - Bonny Matango_312: -1587449252
+      DS DSi - Children of Mana - Bonny Matango_139: -1763167008
+      DS DSi - Children of Mana - Bonny Matango_205: 1568596375
+      DS DSi - Children of Mana - Bonny Matango_190: -400965148
+      DS DSi - Children of Mana - Bonny Matango_338: 1914816935
+      DS DSi - Children of Mana - Bonny Matango_218: 1151591009
+      DS DSi - Children of Mana - Bonny Matango_159: -85811472
+      DS DSi - Children of Mana - Bonny Matango_137: -1168447746
+      DS DSi - Children of Mana - Bonny Matango_235: -108000465
+      DS DSi - Children of Mana - Bonny Matango_300: 1624048765
+      DS DSi - Children of Mana - Bonny Matango_199: -2076747329
+      DS DSi - Children of Mana - Bonny Matango_288: 223394168
+      DS DSi - Children of Mana - Bonny Matango_38: 1134352092
+      DS DSi - Children of Mana - Bonny Matango_130: 1196608033
+      DS DSi - Children of Mana - Bonny Matango_63: 1010181553
+      DS DSi - Children of Mana - Bonny Matango_347: -1648880304
+      DS DSi - Children of Mana - Bonny Matango_41: -349752034
+      DS DSi - Children of Mana - Bonny Matango_162: 823235966
+      DS DSi - Children of Mana - Bonny Matango_308: 1812879177
+      DS DSi - Children of Mana - Bonny Matango_355: 402933052
+      DS DSi - Children of Mana - Bonny Matango_50: 1878980996
+      DS DSi - Children of Mana - Bonny Matango_185: -972653759
+      DS DSi - Children of Mana - Bonny Matango_77: 728940154
+      DS DSi - Children of Mana - Bonny Matango_282: 1761834869
+      DS DSi - Children of Mana - Bonny Matango_65: -486375600
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

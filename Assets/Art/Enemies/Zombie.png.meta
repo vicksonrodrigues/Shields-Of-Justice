@@ -1,0 +1,6564 @@
+fileFormatVersion: 2
+guid: a5579283dcd98e549828862f33aaa12c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1903
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a260c970e5f44aabca2895148402f
+      internalID: 1281711009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1903
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bb4ae6e144f2a40ad9c1a0032ba3af
+      internalID: -968431696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1903
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd617bde4f3df498e3ad2153bc5665
+      internalID: -1869874489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1903
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc334f7c13259247a90a17e00a42b24
+      internalID: -1960351713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1863
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529cc9c96c5f834788fb312361b618a
+      internalID: 1550854674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1863
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83d29d7627534e44a9a81d9c900c408
+      internalID: 449500637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1863
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97319e3b1653d5443b2f3b077ec11952
+      internalID: 823073532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1863
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2623ffb05cff8c4bae7006cec4a6d9e
+      internalID: 1654195160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1825
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1295f190d54734a8bf49315a678485
+      internalID: 336258733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1825
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2fb9045c9c4754b9ebd76444323fd6
+      internalID: 1560452362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1825
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d6d8b3f6fa0747b3ec817ad452be0
+      internalID: 233118232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1825
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2187a010a15d4541b8248743a60ce6d
+      internalID: 2025264026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1786
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054a6921a9d9164cb75c5b225a1d047
+      internalID: -621265642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08afcb936909e2445b2636d2ccbc3c32
+      internalID: 2767587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1787
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee96021176486498c8b6819e90ac67
+      internalID: -1398468598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1786
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0b5d66a1c0d7043b41ba72b621fe67
+      internalID: 1189005935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1786
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a37219f93023284eacd687d14d9550e
+      internalID: -1038905926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1787
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbe88046c3365e46b6bc0a99f6d6fc7
+      internalID: 878057510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1746
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fe66813e234d249a48af54d11c72b4
+      internalID: -1072176957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1746
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236224e77349fcf4cbfbf3eec4107c5b
+      internalID: -1727509587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1748
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0f05d82423b84e844f9bf867a29e5
+      internalID: -1594551786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1746
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1176329c7de1588468ead0020ce8e19a
+      internalID: -1492494988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1746
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce27471b2653c4b8386d680bc7d70d
+      internalID: -1356949963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1748
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0070cddc8ca184194a578b2cf1ae8f
+      internalID: -1049052389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1707
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f958e15be659458928004a8ad8f66
+      internalID: -2138310949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1707
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72005792a4790e54d8f36c8ecf9e6ba8
+      internalID: 79513420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_26
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1707
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bf177ebc3001341a12852032c87c3a
+      internalID: 999295280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1706
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe299013e9ff34cbdb267bbb553285
+      internalID: 349631802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1706
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136fc4299c0ebd542ac274eb57c99690
+      internalID: -1269554629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1707
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bcec60952069f4aa1aa08854daebd5
+      internalID: -1431055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_30
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1667
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0acb3871c125240a2cd666051f58fe
+      internalID: 915055691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1667
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de0ebf05a17ff42a56ba8731d66a5d
+      internalID: 617342961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_32
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1668
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a51199c74ddd2b49b63c3994ef6aab6
+      internalID: -2030239469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1667
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7cdf41920040439a867d964cbcd09
+      internalID: -1022439556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1667
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6185c5b10db49ad46a1a1ef341d01418
+      internalID: 1235064452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1668
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d02ad83c57d10459d3d5d897e0615b
+      internalID: -1556452586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1627
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c3718890ec204cb1873873f38a09c
+      internalID: -1158740833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1627
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e62a30726415545925c925eb85412a
+      internalID: 1395560261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_38
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1629
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b40dada149944d96bbd177342f0bd
+      internalID: -1987796651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_39
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1627
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dabe4306a790748b5d9863dcc61cb5
+      internalID: 946698448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1627
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faab91c76f7a204c8d962a443e9eeb8
+      internalID: -1410118094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1629
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1426af717e476b4d942ac609954a095
+      internalID: -776818218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_42
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1588
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbbdf0f86f5eb048abcb912e0c613e0
+      internalID: 1428923423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1588
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41df154609efac489b1933bf3e0e6ea
+      internalID: 1153202294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1588
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61c987b0e1bd9643ad92c545ec4f7a2
+      internalID: -887812453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1587
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffe5d53f9f95d34daee8633cb42bca3
+      internalID: -890907523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1587
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daff190f7655df1428a0b8bacc2c1543
+      internalID: -255783672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_47
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1588
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3947f8dd64204e45b301eb7c33fabca
+      internalID: 1213283982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1547
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd027ab2b9b334da9fd98cb91cfee7
+      internalID: 1776798893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_49
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1547
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f07ecc5823ade47958a6244b8d2d6c
+      internalID: -101420075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1506
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e080e8dfaf65ce84693c08b9f62bcb8b
+      internalID: -2112413779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1509
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8548988c15b2c254d94b2fd3a9f36167
+      internalID: 1375137266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_52
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1459
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5144d36ab05c2e14ba43302db604859a
+      internalID: -1850102066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1458
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b021ec4279fd48819a06511d2e312
+      internalID: 7606162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1426
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f83243b1ed218d4bb9ec841f1a004fa
+      internalID: -2079358547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1392
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a53eb6f4fe2a4fb75ffee83252739
+      internalID: 352748385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1360
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2d855f926ddbc41889255b670d7268
+      internalID: -1386440126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_57
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1320
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef19542641a56842a5204a39e9288b0
+      internalID: 1190354082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1320
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374aab911d96b5142882c278d0224fe6
+      internalID: 809018833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_59
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1279
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1aded3fec198a48bc0b9ccd6da7dbd
+      internalID: 1363226629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1282
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb7ddce2b24c4f4a9f74502d547c162
+      internalID: 1087339084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_61
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1232
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40a70ca05bfc14c8d6636ad8cd7ec3
+      internalID: -2013439446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1231
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654e39f6f434e4c41a45534d25992025
+      internalID: -1339324514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1191
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f138cdef29b7d5488f6d22a105440f6
+      internalID: -1863017341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_64
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1194
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713acef71373f740be5af555ca16105
+      internalID: 1894366403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_65
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1191
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032168eb948990049b78ce866b5ec292
+      internalID: 367503770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_66
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1199
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffd6e0ae618e6f49b5918879f6f84c3
+      internalID: 419836039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_67
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1148
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e4ab0afbd3c524d9c7fc0ff14046b9
+      internalID: -1929698507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1151
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53489f16ebab2043b3bf51339a86e90
+      internalID: -89245980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1148
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627205a8d9529c44baef1bc739ab2bee
+      internalID: 392882271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1157
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1da40c859d8ea845988e9be94474133
+      internalID: 1464400802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1111
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8cb7e68dde9846900fcb6389d5d11
+      internalID: -310054640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1114
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabb36f6a59da0f4a87644fc5bd50951
+      internalID: 1225038614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_73
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1111
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a4a339694f234796cef3d607c3cf3
+      internalID: 522920234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1116
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83e7339124b384899dd1fceb6aa44e
+      internalID: -1158538245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1067
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9161cada1664b294ab5ae7eb704709d0
+      internalID: 572915217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1071
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dadf31a637b6844d950c7c5812c3d6a
+      internalID: 1662435528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_77
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1067
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc08dcee2556145a105d6bbc10daf5
+      internalID: -1512366282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_78
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1071
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ade579c64b804291bfb1f842c879c
+      internalID: 54371744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1067
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c9740d893d454081b8f7798db716d
+      internalID: 1721833162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_80
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1067
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5258b8452a0071546b299645f2cb0466
+      internalID: -1064488398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1026
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef41a446df86dc48b4f4dc408eabf91
+      internalID: -393697798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_82
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1026
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4abaee708c38b49a4ff87b89b09a9b
+      internalID: -401202438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_83
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1029
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f136a9444379408ea0f2582a85fdd
+      internalID: -1767984490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1026
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573fd955aec006143ba7da8a011c992f
+      internalID: 1449471724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_85
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1026
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7379cd3823a224daaa68bb58a19dc1
+      internalID: 672811340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_86
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1026
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25223139a9672f3469baa1ceb023b932
+      internalID: 1240286245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 974
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaffe88476a54a499d0d395cce07c33
+      internalID: -1023868512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_88
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 976
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347e816a10abed24790a1f5006d1bdfa
+      internalID: -246187771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 973
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf85f5a8e0b2e2d46b427794f84ec050
+      internalID: -1056421645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_90
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 976
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab67105f3b0aa40856e98a73b5c317
+      internalID: -950002604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 974
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e7473917de5f142a17788197530140
+      internalID: 347876026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_92
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 974
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a5227b7132e8a4fb3dfbbc701a39f5
+      internalID: 1847336270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 917
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f5d52269e2e9143a0a90634f67ae72
+      internalID: 1599514883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_94
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 917
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345762d4f9d44848aa96502b4dd626d
+      internalID: 830153021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_95
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 929
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a00ce6d0f236e7488bd4b3b1c5482d3
+      internalID: 2121327505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_96
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 933
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1d131fe3fb4f47817a05dda1eff35
+      internalID: 758514017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_97
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 929
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201705239b7ec7499247f760b3cb90d
+      internalID: -316199545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_98
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 912
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9e88f98ed438145954839a72f7e09f
+      internalID: 598081046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 917
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68e2b1e9f2b53746991f06670f8e56e
+      internalID: 1738735283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_100
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 917
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776c13a344b6ba84585307d4b1c20769
+      internalID: -1075499307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_101
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 909
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff6d6d1c09d0d40a3d297bc7b4a6d0
+      internalID: -677211491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 909
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85785dfca17d92e4f8fb0b7d23c3b80c
+      internalID: -1848224445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 850
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e30dd65037dd429f4e7704a60f128
+      internalID: 1051121403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_104
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 853
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ad4481c01498e4eb28a333a8960cbf
+      internalID: 2081633553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_105
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 867
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a438df615e014fb7bddd3635ac80c
+      internalID: -394838707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 871
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cc607aa20d254f8fa9af458bd32e9
+      internalID: -294292930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_107
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 867
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65dc219b4bfd7943b50f5a3d0b71ab1
+      internalID: 1026735503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_108
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 850
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741d626ce5b0d754b8226e9e3db23474
+      internalID: -1126653743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_109
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 850
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a92d13524a820741b6c113a5440766a
+      internalID: 1373175727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 841
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cacb0691481fb45aa1fed7e15ae117
+      internalID: -1107610504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_111
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 844
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17387211a67e05f4c9a3c7350a980767
+      internalID: -1253239765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_112
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 841
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4affafa8f0e1e84e8e8b4e59434971d
+      internalID: 2044041361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_113
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 776
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5394479d212f285409bfa9fd69566a8f
+      internalID: -626549507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_114
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 775
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e2919668bdf8442983cab51124ff68
+      internalID: -10305365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_115
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 789
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f16f31c663944bb86dd82cfcee11b
+      internalID: -475202880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 793
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a11aba592c685c469e561bafa426c45
+      internalID: -743313112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 789
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302adcffa5ab5a647a5d5903c8a42323
+      internalID: 1695716458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_118
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 776
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c19888bc4abe643ac76a434f89a696
+      internalID: 824931020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_119
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 776
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3b73295a79554e8e2e9efeadd322f
+      internalID: 2109355042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_120
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 771
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce7379a3ef59784981d5e934119f83b
+      internalID: 1750478100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_121
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 774
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e84829f1294d24aa559b0cd225b57a
+      internalID: 37927335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_122
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 771
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1e620bd7c24084f86ccf0df539ef45
+      internalID: -2131038521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 715
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07fdc1b8d0e7b4aa05eb1bbe7a1a23
+      internalID: 1488349992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 715
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e321d3b6149383143a55cf3a7881809f
+      internalID: 1056961727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_125
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 727
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8cadeb1b23e914c8eebc514a43c2e8
+      internalID: 490801052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 731
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e7f984ac75604196bfb49652d50eb
+      internalID: 1055316530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_127
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 727
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94bd937404dff544874e8fa5c8c20b7
+      internalID: 2084695235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_128
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 710
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171430de338d7b4e88cd0f678a5f2e9
+      internalID: -1727466476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_129
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707cd7d02e494049b727bbd1857f27a
+      internalID: -2062355402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_130
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 707
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff396946c94c6ce459e5d2aa8bbe82d0
+      internalID: -473632250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_131
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 648
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb20aac0c4388a4888dff6fa7daf709
+      internalID: 368613935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_132
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 651
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8911f01129d36524db6978e01c2820ea
+      internalID: -569882542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_133
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 665
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da20213ba7d0794bb502a03e936eec2
+      internalID: 958697692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_134
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 669
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a33261f433408a449ed158f22298973
+      internalID: -1576839227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_135
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 665
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7683da2833b80b4298be082f103bef4
+      internalID: 2073848155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 639
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678d60aa70651e4989572c6176a5082
+      internalID: 1282667374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_137
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 642
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6189b255b53624da368a4cdd5d8e8d
+      internalID: 174601378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_138
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 639
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19da947682bf6444b4926454619969e
+      internalID: -1669423847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_139
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 574
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd79a2b8850f74b40988af845f1afe22
+      internalID: 578847505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_140
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 573
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45c29ec5e897f8419fc9f65515cb5af
+      internalID: -782971098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_141
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 587
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5dfac41364a004d874e89a8db779b3
+      internalID: -2066195786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_142
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 591
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c63226eebab8214da979f49ae4d49bb
+      internalID: 1960399056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_143
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 587
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6b63ba5e89164ea6e6ca580f19d49
+      internalID: -882153545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_144
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 569
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef823491a150c242b32da68d231ea20
+      internalID: -1744236894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_145
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 572
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffbcd3b2e5e8874480a5b997f8a6d80
+      internalID: 1371305458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_146
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 569
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1c217c1a6cd1478a468b9bdd247ba
+      internalID: -1440959348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_147
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 524
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6989099c13f964408d0d1834e19fbe2
+      internalID: 215602959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_148
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 524
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b199988239a1804aa4b2e1f48bba596
+      internalID: -1904250863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_149
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 525
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7ff480d93d7a3438c4c03dd87665df
+      internalID: -338523441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_150
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 512
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412e3e4425257eb4ba6f4b99953cba5b
+      internalID: 2042787496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_151
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 512
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35735a96d58c914ba6984814466cfcc
+      internalID: 931825228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_152
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 524
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf192f4034b8d7041bba01f073e9b0fe
+      internalID: -405229458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_153
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 524
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0e51ffd590e6f459170f3162072b06
+      internalID: 2069836542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_154
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 526
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1399d755aa41f44a83e7c861acc856
+      internalID: 1107961440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_155
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 526
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4bd019ea66b6246ac10bf5589411d0
+      internalID: 1645260199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_156
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 455
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cdd5d25d82a0a48b27bf383f9bf87d
+      internalID: -1151461467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_157
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 455
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dce407d7f6bfc4694e11add58977f6
+      internalID: -1155281560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_158
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 455
+        width: 62
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddfae9104b944141a2e6995b335186a
+      internalID: -129812282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_159
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 455
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1644ab074d2d434d94ce1dbbb9dbf84
+      internalID: 329825841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_160
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 455
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059aa750b342a0e4cab3e1f234c5e190
+      internalID: 836530404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_161
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 455
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da353e7058cbdf4c81f76f5f55529bb
+      internalID: -669120713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_162
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 455
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f32768d714e046892c3a85de50400
+      internalID: -1395236115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_163
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 455
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23878d1fb90cf4bb836cfe125b1759
+      internalID: 2121200350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_164
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 455
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44157d47bb96b744f90b60df71413135
+      internalID: 1672847867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_165
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 402
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf30c057ab675048b231a1c33df98ff
+      internalID: 658005191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_166
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 392
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be1e4067a2a71408ec58e2586240a5
+      internalID: -999822475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_167
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 393
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891407f42732574ca1159fb28979dcd
+      internalID: 1490331162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_168
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 406
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77312e1b0c67d7d4891de531a4632ce6
+      internalID: 137683745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_169
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 406
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07d3c9425a2364449a822b3b37a9966
+      internalID: 1167055169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_170
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 392
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8227d23fa85d59344a5f377da9176f2e
+      internalID: 165386940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_171
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 402
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cf04cc29c5d7b4eabb9386b357f50b
+      internalID: 1167839999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_172
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 406
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ef2caf8c11dc479dc0b6c8d88b140
+      internalID: -1812165221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_173
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 406
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff371d169ac0d3845a421d655103886b
+      internalID: 504416222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_174
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 348
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e49db4c57d4db4469104e2ffb48faec
+      internalID: -1978276095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_175
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 347
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cee941e5380a194facd01b4eaf14eac
+      internalID: -2104056565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_176
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 348
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd52166835585374eb5f357f9237e6f5
+      internalID: -297288128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_177
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 343
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ba494449fb5ce4b87ace9d780d4197
+      internalID: -506554670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_178
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a357f8a765294dd4db05a7864bb58d0e
+      internalID: 2100759777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_179
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 343
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379a7eb9aa095c40a100ef6d9395b76
+      internalID: -681615091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_180
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 342
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb1009a5d81ef4fac4354f9dc8fd14
+      internalID: 1073130034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_181
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 348
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e320d03d8e09f924fa4a81dbd16402bf
+      internalID: 1552865176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_182
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 348
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629aaab763bfae84cbe0a7d7dc847e4f
+      internalID: 214957497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_183
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 294
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878822000b9bbe40b58ceb79c09f3c9
+      internalID: -1826556999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_184
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 292
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c7d92ed23282543a4fab1da8dd13b1
+      internalID: -961483401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 293
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd48e76fa8a6944badd36b019c7192
+      internalID: 931038550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_186
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 298
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d7d298451afe4498036c53fc9a823
+      internalID: -1888818662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_187
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 298
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c80a99b47d434349ba72d6f311b51bd
+      internalID: 1075140671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_188
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 298
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3d8f996680224ba909831fd2d08cd
+      internalID: -1582076558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_189
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 298
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c4c9d320574d74aa31cd5061db8bfb
+      internalID: 1830205628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_190
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 294
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78624ce5297ee1a4fbb40e9c6b57f69a
+      internalID: 1440798260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_191
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 294
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8475861b3f5216743b88488cc3fe7389
+      internalID: 1461165440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_192
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 244
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd3afa4fd261a240bcdd02ed0e1ef5a
+      internalID: -1049273669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_193
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 244
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d737b8ed060fae1459f5223866062be9
+      internalID: 2071720662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_194
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 244
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012f0152f3450b2488d6c1a6f9bcbe3e
+      internalID: 355971120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_195
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 244
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e53f9c1d201e7478cd51f6fd810b10
+      internalID: 1694676285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_196
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 244
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec75edd67fa5a419c18db0f6ddef46
+      internalID: -1917763277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_197
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 244
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1732d18bd439321468ad8dd1695a3e91
+      internalID: -1238273496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_198
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 244
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cfcbd48971f3c4ea1a7270dcdbc065
+      internalID: 250325566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_199
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 244
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27369fe9289fc5408f973879a137d06
+      internalID: 332859134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_200
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 244
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35915fb12f0d18d45a0282eb179fc14b
+      internalID: -1528868059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_201
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 204
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df2eaa909beec488ead55569ba2ad2
+      internalID: 1415068137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_202
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 204
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d6999d76d3a8c4dad46cb13affbdc2
+      internalID: 1343865848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_203
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 204
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf22b8b806009f247b3ea9be1b7ebdd7
+      internalID: 3391934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_204
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 204
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad1e687f2c906c489a869e0dfe76eb9
+      internalID: 1265484922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_205
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43d4e278614b345b8fbecccb8651ca
+      internalID: 350606307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_206
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167259a6b956f942872790056d937bf
+      internalID: -1030556530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_207
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d894939c6bc630443a42a347ef0fa97b
+      internalID: -1791297778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_208
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 198
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bd56471f50d304ba8e44c948aaa7a6
+      internalID: 1780739468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_209
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dee95dc57c911f4eb3e27b3295b19b0
+      internalID: -1291078343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_210
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 198
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460cfb6f51280d044955e9467bf55a09
+      internalID: -72940942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_211
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 188
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b103191455574b811e46fafedb384
+      internalID: -805440527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_212
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 180
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2692945e418a84984edefc55b90a3b
+      internalID: -603320259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_213
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 181
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d35be1cd087b7d4f95f2baf2a4dff8e
+      internalID: -1753131338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_214
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 202
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b60d4a1ae360a4db6286b5409f4f8f
+      internalID: -1516474801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_215
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 204
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d302d57b57cc0447b2201621704521b
+      internalID: -991608383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_216
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 204
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf2730ef53ebab499d9096dfed6a61a
+      internalID: -1382760242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_222
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18198a16e819234cb9eaae89af73db5
+      internalID: -1218573041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_223
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c793acb1a629c44baeff35432c101f1
+      internalID: 418222536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_224
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 131
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d4bd5429624b42a7e9d9097e24aae
+      internalID: 1683733829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_225
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb715ea16be42264fa8a8907e967ab28
+      internalID: -1974680756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_226
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3192666b8845797438c1919f3ae983ab
+      internalID: 1090472851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_227
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 131
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b631a405a5724ab113923574f635f
+      internalID: 385875804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_228
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 131
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cc8a3e98da1284c9610cebbae2f4f4
+      internalID: 1896271945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_229
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 131
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcf59f83e575545ba8d562810dd9cc
+      internalID: -128870254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_230
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 131
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b9ea87b118dac4382148ce140bb0b2
+      internalID: -1183187896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_231
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 131
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3dead87ebb65b4ca98b6ee8d6d151f
+      internalID: -115870743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_232
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 131
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b19faca3cce464ab9a0f96556caf13
+      internalID: 2116008248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_234
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 131
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4687bdc81f943e4fbd80ee08f48231a
+      internalID: -2127478291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_235
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 131
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c1f3c873927a941ba09fa9e00d9763
+      internalID: -1372700409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_236
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998370a525964394ab026837afaeab6e
+      internalID: -1804900441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_237
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 131
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68607eccd5dc5dc49b2177da35811fc7
+      internalID: 500956581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_238
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed15e9556e04c4f9ea9495746b346b
+      internalID: -1743265537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_240
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 91
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f997e74b7ff8c54e99dd77aa4179a7b
+      internalID: 295701775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_241
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2b5ff16ca48a94893deedb08b8c1e3
+      internalID: -863853124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_242
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 91
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6faa2e88d34b94a880e5c41c5e64a9
+      internalID: -302592559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_243
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 91
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9ebc24f5fe164cbd48b30267f3644
+      internalID: 1859181731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_244
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 91
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc416beaf3da97845a287bb62bcb68be
+      internalID: -1641879544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_245
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 91
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88d4354a58a32548b25851fe9ccb31b
+      internalID: 124164299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_246
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 91
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a062a004630cd46aeb3eff4f81cb20
+      internalID: 1323052642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_247
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 88
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764cf421a1224347b093592f6d00017
+      internalID: -1699988595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_248
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 83
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7ae820e4c04054ba6d58a2cb48dcc5
+      internalID: 249317969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_249
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 90
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb9767438eccb0438524fc834858244
+      internalID: 976917805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_250
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 89
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a013b0871b1d843b938719e5be7cb1
+      internalID: -368686854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_251
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 80
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59cb3301e885c04fbc38272444fb08a
+      internalID: 564073717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_253
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 80
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08544d5d0580b4689cafc4511648d3
+      internalID: 664961855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_256
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 91
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38209af56ca25f9469eb8a1547c4f15f
+      internalID: 50063307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_257
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 91
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab85706a4b15c49aeb26fd67874c83
+      internalID: -737415884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_258
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 91
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aaa5a6fa85a7f46b85ff63a7f4fa6d
+      internalID: -1528266122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_260
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21543f099c68b440bfa3ef0cb19e125
+      internalID: 246202175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_261
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 44
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d299778d9937a7428b547f79aa27ccf
+      internalID: -95787931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_262
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094ff8f0983aea4c9ea164bbe17685f
+      internalID: -1949298520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_263
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e0839ef3cc1f34b99af6bca2294a68
+      internalID: 1634604667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_264
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc21c6c55d4cc4594a1be720a87e9a
+      internalID: 262167094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_265
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb37c8686c18345a8469d9d024e369
+      internalID: 1088425686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_266
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf81284ab6362c42b1c80130fe56f79
+      internalID: 801329249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_267
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08495b01294036c45b1472f56e3f1224
+      internalID: -99659595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_268
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22f5568b400bc34c99060ea00ad3ba5
+      internalID: -372272331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_269
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e676f27adf5bc9340abbfd35ad538da6
+      internalID: 1116308825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_270
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a79d93d51e0b5f4190fdeeb077a8560
+      internalID: -1395302227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_271
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 44
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f528621f9573d74ab7866fae51ef8c4
+      internalID: -417850593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_272
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c134ca4022c34e8f25fb7782c7f69
+      internalID: -176369762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_273
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 44
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde17fb80c990644b7995ed9dca2d1c
+      internalID: 875544881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_274
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 44
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c598dd6efeaff24e9e9c2989a6ab746
+      internalID: -472806203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_275
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 44
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc525bb2ff46cd4893630d3473ec35a
+      internalID: -1411512328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_276
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 44
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574631f4f8e8ac84da30beaa9c89bb8f
+      internalID: 1755641734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_277
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 44
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3801d44d269c46f4ab92170008702c61
+      internalID: -770528641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_278
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 44
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7666fee193fd9f245b2102d91bd92c67
+      internalID: -419469230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_279
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d208de904bfd240bea2136aba226d8
+      internalID: 397610044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_280
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0ac3a82c5a8e44b8eeac8a56c7c06
+      internalID: 1988290406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_281
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce134c8c9f075f248a543eef113afcaa
+      internalID: -1874809404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_282
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 44
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebc30d461ac26547af80916fe0703ef
+      internalID: -1242024873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_283
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cf3e1a680e1cc4abb8eb211b2bcaa3
+      internalID: 1773819891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_284
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975290640c55b7409aa66b16909b61e
+      internalID: -943347883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_285
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6289cae75a82c468af06a6b293ac2a
+      internalID: -548475728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_286
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade629d6ce2fc624ea2b0bab5f5a2c83
+      internalID: 1271652701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_287
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 44
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8df1603eee3f142a40784ca78cdffb
+      internalID: -80420708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_288
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96335fc9277fcb948b0d9c9e400763b6
+      internalID: 2037129187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_289
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 44
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fe1d49d10a9a43bb294bdb45b7c5e
+      internalID: 179933081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_290
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 44
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2534f70cb35f74ba16ea69a7b49cb3
+      internalID: -1271427783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_291
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dd01e2bb8d1704885788c89e817f9d
+      internalID: -25483724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_292
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 44
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895b80d1d0628144b2cb343b150bb7d
+      internalID: -117983198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_293
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e242df8579c0344b6e51216b20e7b2
+      internalID: 1890082199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_294
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 44
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5c00735f1e6548beb256787a44066
+      internalID: 470639198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_295
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79505381e77e1b41891489d6774b581
+      internalID: 2120748132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_296
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 44
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402d67207de3434b91e195e6c344b83
+      internalID: 1586810536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_297
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 44
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5473ecb766f30a84eba58cbf37c70679
+      internalID: -1317764686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_298
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 44
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e9196b4cd7764eb26d480a7b64bf3
+      internalID: 1103336830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Children of Mana - Zombine_299
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 44
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d740777ce2deb894abd8c39ba445951e
+      internalID: 831934519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Children of Mana - Zombine_241: -863853124
+      DS DSi - Children of Mana - Zombine_196: -1917763277
+      DS DSi - Children of Mana - Zombine_213: -1753131338
+      DS DSi - Children of Mana - Zombine_185: 931038550
+      DS DSi - Children of Mana - Zombine_73: 522920234
+      DS DSi - Children of Mana - Zombine_188: -1582076558
+      DS DSi - Children of Mana - Zombine_285: -548475728
+      DS DSi - Children of Mana - Zombine_43: 1153202294
+      DS DSi - Children of Mana - Zombine_67: -1929698507
+      DS DSi - Children of Mana - Zombine_82: -401202438
+      DS DSi - Children of Mana - Zombine_223: 418222536
+      DS DSi - Children of Mana - Zombine_306: 1878283170
+      DS DSi - Children of Mana - Zombine_299: 831934519
+      DS DSi - Children of Mana - Zombine_297: -1317764686
+      DS DSi - Children of Mana - Zombine_154: 1107961440
+      DS DSi - Children of Mana - Zombine_312: 732696121
+      DS DSi - Children of Mana - Zombine_301: -1310350593
+      DS DSi - Children of Mana - Zombine_5: 449500637
+      DS DSi - Children of Mana - Zombine_256: 50063307
+      DS DSi - Children of Mana - Zombine_37: 1395560261
+      DS DSi - Children of Mana - Zombine_166: -999822475
+      DS DSi - Children of Mana - Zombine_315: 449000542
+      DS DSi - Children of Mana - Zombine_99: 1738735283
+      DS DSi - Children of Mana - Zombine_286: 1271652701
+      DS DSi - Children of Mana - Zombine_150: 2042787496
+      DS DSi - Children of Mana - Zombine_25: 79513420
+      DS DSi - Children of Mana - Zombine_84: 1449471724
+      DS DSi - Children of Mana - Zombine_292: -117983198
+      DS DSi - Children of Mana - Zombine_9: 1560452362
+      DS DSi - Children of Mana - Zombine_85: 672811340
+      DS DSi - Children of Mana - Zombine_61: -2013439446
+      DS DSi - Children of Mana - Zombine_274: -472806203
+      DS DSi - Children of Mana - Zombine_156: -1151461467
+      DS DSi - Children of Mana - Zombine_200: -1528868059
+      DS DSi - Children of Mana - Zombine_49: -101420075
+      DS DSi - Children of Mana - Zombine_221: 633772168
+      DS DSi - Children of Mana - Zombine_226: 1090472851
+      DS DSi - Children of Mana - Zombine_104: 2081633553
+      DS DSi - Children of Mana - Zombine_169: 1167055169
+      DS DSi - Children of Mana - Zombine_276: 1755641734
+      DS DSi - Children of Mana - Zombine_271: -417850593
+      DS DSi - Children of Mana - Zombine_284: -943347883
+      DS DSi - Children of Mana - Zombine_178: 2100759777
+      DS DSi - Children of Mana - Zombine_80: -1064488398
+      DS DSi - Children of Mana - Zombine_227: 385875804
+      DS DSi - Children of Mana - Zombine_172: -1812165221
+      DS DSi - Children of Mana - Zombine_235: -1372700409
+      DS DSi - Children of Mana - Zombine_257: -737415884
+      DS DSi - Children of Mana - Zombine_23: -1049052389
+      DS DSi - Children of Mana - Zombine_175: -2104056565
+      DS DSi - Children of Mana - Zombine_328: -1578448038
+      DS DSi - Children of Mana - Zombine_128: -1727466476
+      DS DSi - Children of Mana - Zombine_232: 2116008248
+      DS DSi - Children of Mana - Zombine_346: -205881380
+      DS DSi - Children of Mana - Zombine_117: 1695716458
+      DS DSi - Children of Mana - Zombine_316: 1534400440
+      DS DSi - Children of Mana - Zombine_205: 350606307
+      DS DSi - Children of Mana - Zombine_180: 1073130034
+      DS DSi - Children of Mana - Zombine_143: -882153545
+      DS DSi - Children of Mana - Zombine_120: 1750478100
+      DS DSi - Children of Mana - Zombine_162: -1395236115
+      DS DSi - Children of Mana - Zombine_130: -473632250
+      DS DSi - Children of Mana - Zombine_288: 2037129187
+      DS DSi - Children of Mana - Zombine_289: 179933081
+      DS DSi - Children of Mana - Zombine_111: -1253239765
+      DS DSi - Children of Mana - Zombine_138: -1669423847
+      DS DSi - Children of Mana - Zombine_260: 246202175
+      DS DSi - Children of Mana - Zombine_243: 1859181731
+      DS DSi - Children of Mana - Zombine_4: 1550854674
+      DS DSi - Children of Mana - Zombine_348: 1575155189
+      DS DSi - Children of Mana - Zombine_125: 490801052
+      DS DSi - Children of Mana - Zombine_167: 1490331162
+      DS DSi - Children of Mana - Zombine_142: 1960399056
+      DS DSi - Children of Mana - Zombine_327: 487018972
+      DS DSi - Children of Mana - Zombine_174: -1978276095
+      DS DSi - Children of Mana - Zombine_214: -1516474801
+      DS DSi - Children of Mana - Zombine_236: -1804900441
+      DS DSi - Children of Mana - Zombine_208: 1780739468
+      DS DSi - Children of Mana - Zombine_100: -1075499307
+      DS DSi - Children of Mana - Zombine_287: -80420708
+      DS DSi - Children of Mana - Zombine_341: -1453549403
+      DS DSi - Children of Mana - Zombine_340: -1963700111
+      DS DSi - Children of Mana - Zombine_212: -603320259
+      DS DSi - Children of Mana - Zombine_295: 2120748132
+      DS DSi - Children of Mana - Zombine_262: -1949298520
+      DS DSi - Children of Mana - Zombine_302: 1734855173
+      DS DSi - Children of Mana - Zombine_29: -1431055180
+      DS DSi - Children of Mana - Zombine_263: 1634604667
+      DS DSi - Children of Mana - Zombine_98: 598081046
+      DS DSi - Children of Mana - Zombine_342: -67687842
+      DS DSi - Children of Mana - Zombine_94: 830153021
+      DS DSi - Children of Mana - Zombine_234: -2127478291
+      DS DSi - Children of Mana - Zombine_19: -1727509587
+      DS DSi - Children of Mana - Zombine_151: 931825228
+      DS DSi - Children of Mana - Zombine_52: -1850102066
+      DS DSi - Children of Mana - Zombine_92: 1847336270
+      DS DSi - Children of Mana - Zombine_27: 349631802
+      DS DSi - Children of Mana - Zombine_181: 1552865176
+      DS DSi - Children of Mana - Zombine_107: 1026735503
+      DS DSi - Children of Mana - Zombine_219: -1340845367
+      DS DSi - Children of Mana - Zombine_97: -316199545
+      DS DSi - Children of Mana - Zombine_313: -1543702652
+      DS DSi - Children of Mana - Zombine_237: 500956581
+      DS DSi - Children of Mana - Zombine_206: -1030556530
+      DS DSi - Children of Mana - Zombine_198: 250325566
+      DS DSi - Children of Mana - Zombine_71: -310054640
+      DS DSi - Children of Mana - Zombine_86: 1240286245
+      DS DSi - Children of Mana - Zombine_275: -1411512328
+      DS DSi - Children of Mana - Zombine_118: 824931020
+      DS DSi - Children of Mana - Zombine_338: 993898643
+      DS DSi - Children of Mana - Zombine_195: 1694676285
+      DS DSi - Children of Mana - Zombine_110: -1107610504
+      DS DSi - Children of Mana - Zombine_250: -368686854
+      DS DSi - Children of Mana - Zombine_184: -961483401
+      DS DSi - Children of Mana - Zombine_253: 664961855
+      DS DSi - Children of Mana - Zombine_17: 878057510
+      DS DSi - Children of Mana - Zombine_146: -1440959348
+      DS DSi - Children of Mana - Zombine_248: 249317969
+      DS DSi - Children of Mana - Zombine_264: 262167094
+      DS DSi - Children of Mana - Zombine_134: -1576839227
+      DS DSi - Children of Mana - Zombine_187: 1075140671
+      DS DSi - Children of Mana - Zombine_22: -1356949963
+      DS DSi - Children of Mana - Zombine_239: 1744278470
+      DS DSi - Children of Mana - Zombine_87: -1023868512
+      DS DSi - Children of Mana - Zombine_314: -858409169
+      DS DSi - Children of Mana - Zombine_68: -89245980
+      DS DSi - Children of Mana - Zombine_119: 2109355042
+      DS DSi - Children of Mana - Zombine_57: 1190354082
+      DS DSi - Children of Mana - Zombine_305: -815426186
+      DS DSi - Children of Mana - Zombine_136: 1282667374
+      DS DSi - Children of Mana - Zombine_199: 332859134
+      DS DSi - Children of Mana - Zombine_255: -1489099005
+      DS DSi - Children of Mana - Zombine_294: 470639198
+      DS DSi - Children of Mana - Zombine_18: -1072176957
+      DS DSi - Children of Mana - Zombine_126: 1055316530
+      DS DSi - Children of Mana - Zombine_50: -2112413779
+      DS DSi - Children of Mana - Zombine_53: 7606162
+      DS DSi - Children of Mana - Zombine_35: -1556452586
+      DS DSi - Children of Mana - Zombine_33: -1022439556
+      DS DSi - Children of Mana - Zombine_218: -115339287
+      DS DSi - Children of Mana - Zombine_211: -805440527
+      DS DSi - Children of Mana - Zombine_62: -1339324514
+      DS DSi - Children of Mana - Zombine_192: -1049273669
+      DS DSi - Children of Mana - Zombine_90: -950002604
+      DS DSi - Children of Mana - Zombine_269: 1116308825
+      DS DSi - Children of Mana - Zombine_209: -1291078343
+      DS DSi - Children of Mana - Zombine_183: -1826556999
+      DS DSi - Children of Mana - Zombine_249: 976917805
+      DS DSi - Children of Mana - Zombine_307: -1271674183
+      DS DSi - Children of Mana - Zombine_160: 836530404
+      DS DSi - Children of Mana - Zombine_76: 1662435528
+      DS DSi - Children of Mana - Zombine_135: 2073848155
+      DS DSi - Children of Mana - Zombine_34: 1235064452
+      DS DSi - Children of Mana - Zombine_189: 1830205628
+      DS DSi - Children of Mana - Zombine_46: -255783672
+      DS DSi - Children of Mana - Zombine_210: -72940942
+      DS DSi - Children of Mana - Zombine_123: 1488349992
+      DS DSi - Children of Mana - Zombine_273: 875544881
+      DS DSi - Children of Mana - Zombine_16: -1038905926
+      DS DSi - Children of Mana - Zombine_240: 295701775
+      DS DSi - Children of Mana - Zombine_229: -128870254
+      DS DSi - Children of Mana - Zombine_304: -128335618
+      DS DSi - Children of Mana - Zombine_222: -1218573041
+      DS DSi - Children of Mana - Zombine_309: -181678137
+      DS DSi - Children of Mana - Zombine_45: -890907523
+      DS DSi - Children of Mana - Zombine_0: 1281711009
+      DS DSi - Children of Mana - Zombine_331: -140606450
+      DS DSi - Children of Mana - Zombine_159: 329825841
+      DS DSi - Children of Mana - Zombine_152: -405229458
+      DS DSi - Children of Mana - Zombine_108: -1126653743
+      DS DSi - Children of Mana - Zombine_282: -1242024873
+      DS DSi - Children of Mana - Zombine_36: -1158740833
+      DS DSi - Children of Mana - Zombine_113: -626549507
+      DS DSi - Children of Mana - Zombine_330: 958457100
+      DS DSi - Children of Mana - Zombine_242: -302592559
+      DS DSi - Children of Mana - Zombine_75: 572915217
+      DS DSi - Children of Mana - Zombine_203: 3391934
+      DS DSi - Children of Mana - Zombine_157: -1155281560
+      DS DSi - Children of Mana - Zombine_296: 1586810536
+      DS DSi - Children of Mana - Zombine_344: -455868182
+      DS DSi - Children of Mana - Zombine_115: -475202880
+      DS DSi - Children of Mana - Zombine_280: 1988290406
+      DS DSi - Children of Mana - Zombine_78: 54371744
+      DS DSi - Children of Mana - Zombine_266: 801329249
+      DS DSi - Children of Mana - Zombine_321: -1802644345
+      DS DSi - Children of Mana - Zombine_233: 1908066280
+      DS DSi - Children of Mana - Zombine_245: 124164299
+      DS DSi - Children of Mana - Zombine_91: 347876026
+      DS DSi - Children of Mana - Zombine_176: -297288128
+      DS DSi - Children of Mana - Zombine_54: -2079358547
+      DS DSi - Children of Mana - Zombine_89: -1056421645
+      DS DSi - Children of Mana - Zombine_32: -2030239469
+      DS DSi - Children of Mana - Zombine_133: 958697692
+      DS DSi - Children of Mana - Zombine_63: -1863017341
+      DS DSi - Children of Mana - Zombine_7: 1654195160
+      DS DSi - Children of Mana - Zombine_96: 758514017
+      DS DSi - Children of Mana - Zombine_155: 1645260199
+      DS DSi - Children of Mana - Zombine_13: 2767587
+      DS DSi - Children of Mana - Zombine_2: -1869874489
+      DS DSi - Children of Mana - Zombine_165: 658005191
+      DS DSi - Children of Mana - Zombine_69: 392882271
+      DS DSi - Children of Mana - Zombine_216: -1382760242
+      DS DSi - Children of Mana - Zombine_336: 318109474
+      DS DSi - Children of Mana - Zombine_319: -634994594
+      DS DSi - Children of Mana - Zombine_170: 165386940
+      DS DSi - Children of Mana - Zombine_79: 1721833162
+      DS DSi - Children of Mana - Zombine_88: -246187771
+      DS DSi - Children of Mana - Zombine_129: -2062355402
+      DS DSi - Children of Mana - Zombine_293: 1890082199
+      DS DSi - Children of Mana - Zombine_332: -1846019075
+      DS DSi - Children of Mana - Zombine_168: 137683745
+      DS DSi - Children of Mana - Zombine_148: -1904250863
+      DS DSi - Children of Mana - Zombine_291: -25483724
+      DS DSi - Children of Mana - Zombine_347: -754853636
+      DS DSi - Children of Mana - Zombine_244: -1641879544
+      DS DSi - Children of Mana - Zombine_215: -991608383
+      DS DSi - Children of Mana - Zombine_300: 1894430126
+      DS DSi - Children of Mana - Zombine_41: -776818218
+      DS DSi - Children of Mana - Zombine_311: -1897086200
+      DS DSi - Children of Mana - Zombine_40: -1410118094
+      DS DSi - Children of Mana - Zombine_64: 1894366403
+      DS DSi - Children of Mana - Zombine_217: -629868256
+      DS DSi - Children of Mana - Zombine_337: -1837184146
+      DS DSi - Children of Mana - Zombine_251: 564073717
+      DS DSi - Children of Mana - Zombine_20: -1594551786
+      DS DSi - Children of Mana - Zombine_173: 504416222
+      DS DSi - Children of Mana - Zombine_197: -1238273496
+      DS DSi - Children of Mana - Zombine_246: 1323052642
+      DS DSi - Children of Mana - Zombine_21: -1492494988
+      DS DSi - Children of Mana - Zombine_335: 973636453
+      DS DSi - Children of Mana - Zombine_149: -338523441
+      DS DSi - Children of Mana - Zombine_65: 367503770
+      DS DSi - Children of Mana - Zombine_140: -782971098
+      DS DSi - Children of Mana - Zombine_298: 1103336830
+      DS DSi - Children of Mana - Zombine_329: -1566758101
+      DS DSi - Children of Mana - Zombine_153: 2069836542
+      DS DSi - Children of Mana - Zombine_320: -886580104
+      DS DSi - Children of Mana - Zombine_317: 1397322250
+      DS DSi - Children of Mana - Zombine_283: 1773819891
+      DS DSi - Children of Mana - Zombine_207: -1791297778
+      DS DSi - Children of Mana - Zombine_141: -2066195786
+      DS DSi - Children of Mana - Zombine_303: 1958681139
+      DS DSi - Children of Mana - Zombine_190: 1440798260
+      DS DSi - Children of Mana - Zombine_224: 1683733829
+      DS DSi - Children of Mana - Zombine_323: -378073301
+      DS DSi - Children of Mana - Zombine_202: 1343865848
+      DS DSi - Children of Mana - Zombine_186: -1888818662
+      DS DSi - Children of Mana - Zombine_163: 2121200350
+      DS DSi - Children of Mana - Zombine_74: -1158538245
+      DS DSi - Children of Mana - Zombine_72: 1225038614
+      DS DSi - Children of Mana - Zombine_238: -1743265537
+      DS DSi - Children of Mana - Zombine_66: 419836039
+      DS DSi - Children of Mana - Zombine_193: 2071720662
+      DS DSi - Children of Mana - Zombine_230: -1183187896
+      DS DSi - Children of Mana - Zombine_59: 1363226629
+      DS DSi - Children of Mana - Zombine_127: 2084695235
+      DS DSi - Children of Mana - Zombine_30: 915055691
+      DS DSi - Children of Mana - Zombine_26: 999295280
+      DS DSi - Children of Mana - Zombine_267: -99659595
+      DS DSi - Children of Mana - Zombine_322: -985010204
+      DS DSi - Children of Mana - Zombine_164: 1672847867
+      DS DSi - Children of Mana - Zombine_268: -372272331
+      DS DSi - Children of Mana - Zombine_147: 215602959
+      DS DSi - Children of Mana - Zombine_161: -669120713
+      DS DSi - Children of Mana - Zombine_51: 1375137266
+      DS DSi - Children of Mana - Zombine_105: -394838707
+      DS DSi - Children of Mana - Zombine_194: 355971120
+      DS DSi - Children of Mana - Zombine_333: 138992716
+      DS DSi - Children of Mana - Zombine_15: 1189005935
+      DS DSi - Children of Mana - Zombine_11: 2025264026
+      DS DSi - Children of Mana - Zombine_259: -1760085444
+      DS DSi - Children of Mana - Zombine_345: 1191265588
+      DS DSi - Children of Mana - Zombine_31: 617342961
+      DS DSi - Children of Mana - Zombine_231: -115870743
+      DS DSi - Children of Mana - Zombine_38: -1987796651
+      DS DSi - Children of Mana - Zombine_179: -681615091
+      DS DSi - Children of Mana - Zombine_228: 1896271945
+      DS DSi - Children of Mana - Zombine_122: -2131038521
+      DS DSi - Children of Mana - Zombine_258: -1528266122
+      DS DSi - Children of Mana - Zombine_325: 1062390450
+      DS DSi - Children of Mana - Zombine_55: 352748385
+      DS DSi - Children of Mana - Zombine_278: -419469230
+      DS DSi - Children of Mana - Zombine_254: -2015236113
+      DS DSi - Children of Mana - Zombine_204: 1265484922
+      DS DSi - Children of Mana - Zombine_81: -393697798
+      DS DSi - Children of Mana - Zombine_124: 1056961727
+      DS DSi - Children of Mana - Zombine_318: -25667968
+      DS DSi - Children of Mana - Zombine_70: 1464400802
+      DS DSi - Children of Mana - Zombine_182: 214957497
+      DS DSi - Children of Mana - Zombine_83: -1767984490
+      DS DSi - Children of Mana - Zombine_281: -1874809404
+      DS DSi - Children of Mana - Zombine_95: 2121327505
+      DS DSi - Children of Mana - Zombine_139: 578847505
+      DS DSi - Children of Mana - Zombine_3: -1960351713
+      DS DSi - Children of Mana - Zombine_270: -1395302227
+      DS DSi - Children of Mana - Zombine_112: 2044041361
+      DS DSi - Children of Mana - Zombine_261: -95787931
+      DS DSi - Children of Mana - Zombine_324: -475085360
+      DS DSi - Children of Mana - Zombine_39: 946698448
+      DS DSi - Children of Mana - Zombine_103: 1051121403
+      DS DSi - Children of Mana - Zombine_56: -1386440126
+      DS DSi - Children of Mana - Zombine_58: 809018833
+      DS DSi - Children of Mana - Zombine_225: -1974680756
+      DS DSi - Children of Mana - Zombine_326: -512865235
+      DS DSi - Children of Mana - Zombine_8: 336258733
+      DS DSi - Children of Mana - Zombine_247: -1699988595
+      DS DSi - Children of Mana - Zombine_171: 1167839999
+      DS DSi - Children of Mana - Zombine_47: 1213283982
+      DS DSi - Children of Mana - Zombine_44: -887812453
+      DS DSi - Children of Mana - Zombine_102: -1848224445
+      DS DSi - Children of Mana - Zombine_101: -677211491
+      DS DSi - Children of Mana - Zombine_42: 1428923423
+      DS DSi - Children of Mana - Zombine_60: 1087339084
+      DS DSi - Children of Mana - Zombine_10: 233118232
+      DS DSi - Children of Mana - Zombine_220: 1029355290
+      DS DSi - Children of Mana - Zombine_48: 1776798893
+      DS DSi - Children of Mana - Zombine_131: 368613935
+      DS DSi - Children of Mana - Zombine_116: -743313112
+      DS DSi - Children of Mana - Zombine_93: 1599514883
+      DS DSi - Children of Mana - Zombine_339: -226622931
+      DS DSi - Children of Mana - Zombine_14: -1398468598
+      DS DSi - Children of Mana - Zombine_308: -1914100866
+      DS DSi - Children of Mana - Zombine_279: 397610044
+      DS DSi - Children of Mana - Zombine_6: 823073532
+      DS DSi - Children of Mana - Zombine_1: -968431696
+      DS DSi - Children of Mana - Zombine_121: 37927335
+      DS DSi - Children of Mana - Zombine_290: -1271427783
+      DS DSi - Children of Mana - Zombine_132: -569882542
+      DS DSi - Children of Mana - Zombine_144: -1744236894
+      DS DSi - Children of Mana - Zombine_114: -10305365
+      DS DSi - Children of Mana - Zombine_201: 1415068137
+      DS DSi - Children of Mana - Zombine_191: 1461165440
+      DS DSi - Children of Mana - Zombine_77: -1512366282
+      DS DSi - Children of Mana - Zombine_106: -294292930
+      DS DSi - Children of Mana - Zombine_272: -176369762
+      DS DSi - Children of Mana - Zombine_343: -1913665808
+      DS DSi - Children of Mana - Zombine_277: -770528641
+      DS DSi - Children of Mana - Zombine_145: 1371305458
+      DS DSi - Children of Mana - Zombine_24: -2138310949
+      DS DSi - Children of Mana - Zombine_334: 486529896
+      DS DSi - Children of Mana - Zombine_158: -129812282
+      DS DSi - Children of Mana - Zombine_109: 1373175727
+      DS DSi - Children of Mana - Zombine_12: -621265642
+      DS DSi - Children of Mana - Zombine_310: -1813715447
+      DS DSi - Children of Mana - Zombine_28: -1269554629
+      DS DSi - Children of Mana - Zombine_177: -506554670
+      DS DSi - Children of Mana - Zombine_252: -70696781
+      DS DSi - Children of Mana - Zombine_265: 1088425686
+      DS DSi - Children of Mana - Zombine_137: 174601378
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

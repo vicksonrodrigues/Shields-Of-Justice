@@ -1,0 +1,1728 @@
+fileFormatVersion: 2
+guid: faaa7c125f8566040844de6b7bb5c75f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5203
+        width: 303
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8e02afa52022a45829410e1f98b2e6
+      internalID: -1469563900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5203
+        width: 302
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e568f755d236a934194aa33f0d258d46
+      internalID: -142350538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_26
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 5203
+        width: 302
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69121ffe4df00e14eb92a0eac29bda9b
+      internalID: -442568608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_27
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 5203
+        width: 304
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4874a0f0b7cc594e88bb1cc69c8f782
+      internalID: 487579033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_28
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 5200
+        width: 303
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f76edbbb89b7fd4ab37ea4031caa8d5
+      internalID: 609886044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 5197
+        width: 302
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce1a79794939c45ba5eae28449f5f6
+      internalID: -806888921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_30
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 5197
+        width: 304
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dfe96912f3b3d42b2a403a1d95ee1b
+      internalID: -1790504675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_31
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 5197
+        width: 305
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de997a56ae669a442bb08f348f8cfda8
+      internalID: -1811270967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4886
+        width: 303
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3a4b4bfbf4cd4180bdf5388ec6505
+      internalID: -1942722882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4898
+        width: 303
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165d1ba66b2827a439e6f6964e28958c
+      internalID: -582850952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4444
+        width: 297
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a3c2a7967220e4fba1f698987bb56c
+      internalID: 1544825363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_67
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4444
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020216e2891f1da48816ef4b87a2eb7e
+      internalID: -133001880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_68
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 4444
+        width: 300
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99364a3dcbdcf534aa0fd895c48d306d
+      internalID: 397987983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_69
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 4444
+        width: 310
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03cb2f45be53bb43bc82eefe3d409e3
+      internalID: -1431664525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_70
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 4444
+        width: 316
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fafeba6a01d3f245b48bfb283ed7e5a
+      internalID: 655012041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_71
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 4444
+        width: 308
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eedf0bc6a8a76f448f1aa0ad976022f
+      internalID: 1165232068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 3978
+        width: 299
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696cc8cae4ddd14438d8f03255021a37
+      internalID: 1763395874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_79
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3978
+        width: 302
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dd978e4b2826140b8d9157d36079d9
+      internalID: 282455056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_81
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3981
+        width: 299
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a723ca1aea829b4dbf497f347fefe15
+      internalID: 42607998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_82
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3971
+        width: 299
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e74d8ab36cd9a469dce4e92ccede5f
+      internalID: -1881246957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_83
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3975
+        width: 310
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b1b420f9f46804c80534ebd993a222
+      internalID: -1948458741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_84
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 3967
+        width: 303
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83170d25ca6a8de4c9139b5afea2507d
+      internalID: 1860837879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3473
+        width: 304
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f523c3f07b38d84eb8dc275d557b556
+      internalID: -222936133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 3473
+        width: 309
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e2c9540cafc548b726298f75c3786
+      internalID: -1840644754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_97
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 3473
+        width: 311
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53468bc0fad08b34f810234347187843
+      internalID: 729379841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_98
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 3474
+        width: 313
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43036580d9fbdb94f92f2fbc3229c66d
+      internalID: 1931016849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_99
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3482
+        width: 319
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1693102b464d24b893f68bf7104f54
+      internalID: -1720151172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_100
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 3482
+        width: 325
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9833877b3d0cf54097f6c7333f1d720
+      internalID: 210904199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_101
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 3474
+        width: 334
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99488c701eb6db046926b73f005c8113
+      internalID: -496884774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_102
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 3476
+        width: 325
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95119629b0a1a8429a0d3dddedf06ea
+      internalID: 165509063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_117
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3040
+        width: 311
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6de0a1904f52e40af9fa7e0413c574
+      internalID: 242365011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3038
+        width: 305
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651756a85260fb64a97637cceb89951a
+      internalID: 1009980127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_119
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 3033
+        width: 297
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a09cad3efbc04c9dea5fef61a2254
+      internalID: 281284582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_120
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3027
+        width: 302
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76045316ecb004409abc739ce8171f5
+      internalID: -404322133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_121
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 3033
+        width: 299
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126778d1ff483ab43ab1c57926607a20
+      internalID: 1813418135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_122
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2684
+        width: 386
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c96fd1763efe74f8b73d7b30b48e01
+      internalID: 1131506587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_123
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2684
+        width: 378
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73ad35150b36a442a80d2f0aa1fee08
+      internalID: -1999885695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_124
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2684
+        width: 396
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b31b308d02f4e446a0c6c67783fcaa8
+      internalID: -763493388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_133
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2205
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70fad4983e18aa40a3aff748cd8879e
+      internalID: -822341914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_134
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2207
+        width: 300
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d9f3e025749d4e9332cc8625b63ef
+      internalID: -485569258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_136
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2208
+        width: 310
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60ec65802af351429425a5a7f526a2c
+      internalID: -1036996308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_138
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2207
+        width: 308
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf12ccd213309924aa06110ce945798d
+      internalID: -587062798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_139
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 2205
+        width: 310
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bddaa0f062e7804cbdef7b756ac751c
+      internalID: -1869295726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_140
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 2203
+        width: 301
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58668a81c13a69e46992d230e868e3ab
+      internalID: 1143920621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_141
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 2203
+        width: 303
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c757ebec498bde4e9e67f3cb910a3e9
+      internalID: 2117258988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_142
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 2208
+        width: 310
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fd1353e068a354dab44b7f18c207c6
+      internalID: 1185281762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1815
+        width: 305
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d005cdb65e9c4583e888dd27e5f94
+      internalID: 159209485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_148
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1808
+        width: 301
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9227db640332a488e2299d5bab2016
+      internalID: -1967092473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_149
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1807
+        width: 352
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f575fbb64893041a9c8da82393102a
+      internalID: 2096295700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_150
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1801
+        width: 371
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa727b08b9f4984083977bd95d72a5e
+      internalID: 491112165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_151
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1799
+        width: 362
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8665df6d76e842a5007faa85c8225
+      internalID: -633107187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_152
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1798
+        width: 298
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d3fb8184b37f84394b03577146d3ee
+      internalID: -1668962982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_153
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1798
+        width: 310
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a95d2eea296c1543a7311740c18d6bf
+      internalID: -188258171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_154
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1790
+        width: 299
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446173a2e432c3d4aa3046c0c83656c9
+      internalID: 1155808756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_155
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1462
+        width: 302
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c741ec6437b9044b0dbd408bd28096
+      internalID: 1646904285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_166
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 959
+        width: 296
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f780bb6f06a447b1068aa3f5ed548
+      internalID: 49009997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_168
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 954
+        width: 298
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdd8eb1f40f5694c8689f0dab7df0c6
+      internalID: -1926705411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_173
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 949
+        width: 305
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ae386fc9d28e4fa66468caa334289
+      internalID: 1084434802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_174
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 969
+        width: 298
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975867e6180de7046b69b625e717d352
+      internalID: 2029635972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_175
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 956
+        width: 296
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd4f2a7c8b2eb34ba8915c4d9b8e81f
+      internalID: 1762738975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_176
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 952
+        width: 296
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1411d53d93d48b641870904fd418ed6d
+      internalID: 1291633004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_177
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 952
+        width: 297
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29eef041178d2f44b588866432e56e7
+      internalID: 1438877650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation - Legend of Mana - Drakonis_220
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 469
+        width: 302
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f0ec67d6cffd4fa13d9c7aebb6a09
+      internalID: -17890547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PlayStation - Legend of Mana - Drakonis_177: 1438877650
+      PlayStation - Legend of Mana - Drakonis_17: -2080698176
+      PlayStation - Legend of Mana - Drakonis_115: 1215269446
+      PlayStation - Legend of Mana - Drakonis_258: -1245230989
+      PlayStation - Legend of Mana - Drakonis_43: -688698882
+      PlayStation - Legend of Mana - Drakonis_48: 2005315256
+      PlayStation - Legend of Mana - Drakonis_65: -1851345547
+      PlayStation - Legend of Mana - Drakonis_220: -17890547
+      PlayStation - Legend of Mana - Drakonis_117: 242365011
+      PlayStation - Legend of Mana - Drakonis_198: 527559560
+      PlayStation - Legend of Mana - Drakonis_210: 1541878741
+      PlayStation - Legend of Mana - Drakonis_195: -298210821
+      PlayStation - Legend of Mana - Drakonis_84: 1860837879
+      PlayStation - Legend of Mana - Drakonis_14: -1418787549
+      PlayStation - Legend of Mana - Drakonis_27: 487579033
+      PlayStation - Legend of Mana - Drakonis_126: -631171579
+      PlayStation - Legend of Mana - Drakonis_106: 187604167
+      PlayStation - Legend of Mana - Drakonis_241: -1076023761
+      PlayStation - Legend of Mana - Drakonis_155: 1646904285
+      PlayStation - Legend of Mana - Drakonis_187: -719689030
+      PlayStation - Legend of Mana - Drakonis_53: -197386715
+      PlayStation - Legend of Mana - Drakonis_111: 239020254
+      PlayStation - Legend of Mana - Drakonis_116: -879139638
+      PlayStation - Legend of Mana - Drakonis_143: -221912807
+      PlayStation - Legend of Mana - Drakonis_213: 1945343008
+      PlayStation - Legend of Mana - Drakonis_239: 303585095
+      PlayStation - Legend of Mana - Drakonis_69: -1431664525
+      PlayStation - Legend of Mana - Drakonis_82: -1881246957
+      PlayStation - Legend of Mana - Drakonis_100: 210904199
+      PlayStation - Legend of Mana - Drakonis_77: 980865058
+      PlayStation - Legend of Mana - Drakonis_63: -1766155438
+      PlayStation - Legend of Mana - Drakonis_171: 1137725761
+      PlayStation - Legend of Mana - Drakonis_173: 1084434802
+      PlayStation - Legend of Mana - Drakonis_138: -587062798
+      PlayStation - Legend of Mana - Drakonis_80: -968781242
+      PlayStation - Legend of Mana - Drakonis_103: -544595282
+      PlayStation - Legend of Mana - Drakonis_66: 1544825363
+      PlayStation - Legend of Mana - Drakonis_23: 1722521065
+      PlayStation - Legend of Mana - Drakonis_131: 845785570
+      PlayStation - Legend of Mana - Drakonis_11: 2027867752
+      PlayStation - Legend of Mana - Drakonis_29: -806888921
+      PlayStation - Legend of Mana - Drakonis_67: -133001880
+      PlayStation - Legend of Mana - Drakonis_34: 177791325
+      PlayStation - Legend of Mana - Drakonis_176: 1291633004
+      PlayStation - Legend of Mana - Drakonis_238: 575401322
+      PlayStation - Legend of Mana - Drakonis_154: 1155808756
+      PlayStation - Legend of Mana - Drakonis_231: 1388312483
+      PlayStation - Legend of Mana - Drakonis_153: -188258171
+      PlayStation - Legend of Mana - Drakonis_112: -841027009
+      PlayStation - Legend of Mana - Drakonis_156: 1409492966
+      PlayStation - Legend of Mana - Drakonis_185: 350492504
+      PlayStation - Legend of Mana - Drakonis_113: -2067305265
+      PlayStation - Legend of Mana - Drakonis_244: -1850191345
+      PlayStation - Legend of Mana - Drakonis_37: -157627354
+      PlayStation - Legend of Mana - Drakonis_4: 1966704428
+      PlayStation - Legend of Mana - Drakonis_76: -937214353
+      PlayStation - Legend of Mana - Drakonis_172: -1346941097
+      PlayStation - Legend of Mana - Drakonis_99: -1720151172
+      PlayStation - Legend of Mana - Drakonis_192: -24427953
+      PlayStation - Legend of Mana - Drakonis_184: -1706346950
+      PlayStation - Legend of Mana - Drakonis_233: -392240676
+      PlayStation - Legend of Mana - Drakonis_188: 237354664
+      PlayStation - Legend of Mana - Drakonis_257: 260448056
+      PlayStation - Legend of Mana - Drakonis_114: 1533203370
+      PlayStation - Legend of Mana - Drakonis_98: 1931016849
+      PlayStation - Legend of Mana - Drakonis_145: 1758555606
+      PlayStation - Legend of Mana - Drakonis_90: -908227038
+      PlayStation - Legend of Mana - Drakonis_168: -1926705411
+      PlayStation - Legend of Mana - Drakonis_93: -2001809538
+      PlayStation - Legend of Mana - Drakonis_137: 1455931718
+      PlayStation - Legend of Mana - Drakonis_134: -485569258
+      PlayStation - Legend of Mana - Drakonis_190: -1996554507
+      PlayStation - Legend of Mana - Drakonis_221: 2002122981
+      PlayStation - Legend of Mana - Drakonis_255: 475099637
+      PlayStation - Legend of Mana - Drakonis_107: -444631157
+      PlayStation - Legend of Mana - Drakonis_109: 1241821509
+      PlayStation - Legend of Mana - Drakonis_228: 1455154761
+      PlayStation - Legend of Mana - Drakonis_85: 388027227
+      PlayStation - Legend of Mana - Drakonis_110: 529173536
+      PlayStation - Legend of Mana - Drakonis_57: -357715151
+      PlayStation - Legend of Mana - Drakonis_20: -1253360853
+      PlayStation - Legend of Mana - Drakonis_41: -1360470314
+      PlayStation - Legend of Mana - Drakonis_240: 907720362
+      PlayStation - Legend of Mana - Drakonis_92: -436784295
+      PlayStation - Legend of Mana - Drakonis_46: -977968985
+      PlayStation - Legend of Mana - Drakonis_215: 2140016345
+      PlayStation - Legend of Mana - Drakonis_91: -451883795
+      PlayStation - Legend of Mana - Drakonis_60: -1857135197
+      PlayStation - Legend of Mana - Drakonis_234: -781329006
+      PlayStation - Legend of Mana - Drakonis_193: -2032053544
+      PlayStation - Legend of Mana - Drakonis_87: -59089492
+      PlayStation - Legend of Mana - Drakonis_108: 10178725
+      PlayStation - Legend of Mana - Drakonis_164: -2095415595
+      PlayStation - Legend of Mana - Drakonis_169: 323755075
+      PlayStation - Legend of Mana - Drakonis_51: 866425690
+      PlayStation - Legend of Mana - Drakonis_26: -442568608
+      PlayStation - Legend of Mana - Drakonis_254: -474417285
+      PlayStation - Legend of Mana - Drakonis_45: -830351861
+      PlayStation - Legend of Mana - Drakonis_203: 1518849782
+      PlayStation - Legend of Mana - Drakonis_3: -1119333075
+      PlayStation - Legend of Mana - Drakonis_174: 2029635972
+      PlayStation - Legend of Mana - Drakonis_142: 1185281762
+      PlayStation - Legend of Mana - Drakonis_161: 1793534811
+      PlayStation - Legend of Mana - Drakonis_72: -561826919
+      PlayStation - Legend of Mana - Drakonis_56: 187361497
+      PlayStation - Legend of Mana - Drakonis_74: -1049491919
+      PlayStation - Legend of Mana - Drakonis_224: -1064285149
+      PlayStation - Legend of Mana - Drakonis_7: 107090494
+      PlayStation - Legend of Mana - Drakonis_28: 609886044
+      PlayStation - Legend of Mana - Drakonis_197: -1392911879
+      PlayStation - Legend of Mana - Drakonis_249: 829363051
+      PlayStation - Legend of Mana - Drakonis_183: 1202367336
+      PlayStation - Legend of Mana - Drakonis_33: -582850952
+      PlayStation - Legend of Mana - Drakonis_73: 881439513
+      PlayStation - Legend of Mana - Drakonis_22: -1984193888
+      PlayStation - Legend of Mana - Drakonis_75: -486925180
+      PlayStation - Legend of Mana - Drakonis_16: -879395457
+      PlayStation - Legend of Mana - Drakonis_123: -1999885695
+      PlayStation - Legend of Mana - Drakonis_194: -1806568749
+      PlayStation - Legend of Mana - Drakonis_55: -488831752
+      PlayStation - Legend of Mana - Drakonis_35: -1375847122
+      PlayStation - Legend of Mana - Drakonis_9: 408825847
+      PlayStation - Legend of Mana - Drakonis_157: -1206635238
+      PlayStation - Legend of Mana - Drakonis_165: 1360082180
+      PlayStation - Legend of Mana - Drakonis_211: 1375935296
+      PlayStation - Legend of Mana - Drakonis_119: 281284582
+      PlayStation - Legend of Mana - Drakonis_186: 504811298
+      PlayStation - Legend of Mana - Drakonis_208: -187034583
+      PlayStation - Legend of Mana - Drakonis_136: -1036996308
+      PlayStation - Legend of Mana - Drakonis_180: 366804401
+      PlayStation - Legend of Mana - Drakonis_71: 1165232068
+      PlayStation - Legend of Mana - Drakonis_222: -774444281
+      PlayStation - Legend of Mana - Drakonis_151: -633107187
+      PlayStation - Legend of Mana - Drakonis_50: 1346203108
+      PlayStation - Legend of Mana - Drakonis_152: -1668962982
+      PlayStation - Legend of Mana - Drakonis_44: 1177721047
+      PlayStation - Legend of Mana - Drakonis_253: 1451563539
+      PlayStation - Legend of Mana - Drakonis_12: 1359452968
+      PlayStation - Legend of Mana - Drakonis_158: 1773369360
+      PlayStation - Legend of Mana - Drakonis_237: -354531911
+      PlayStation - Legend of Mana - Drakonis_95: -222936133
+      PlayStation - Legend of Mana - Drakonis_15: -1380754710
+      PlayStation - Legend of Mana - Drakonis_214: -778515480
+      PlayStation - Legend of Mana - Drakonis_120: -404322133
+      PlayStation - Legend of Mana - Drakonis_209: 1464223137
+      PlayStation - Legend of Mana - Drakonis_135: 2023826952
+      PlayStation - Legend of Mana - Drakonis_2: -1915832368
+      PlayStation - Legend of Mana - Drakonis_19: 54684151
+      PlayStation - Legend of Mana - Drakonis_38: 196075358
+      PlayStation - Legend of Mana - Drakonis_78: 1763395874
+      PlayStation - Legend of Mana - Drakonis_200: -1060498374
+      PlayStation - Legend of Mana - Drakonis_256: -192288357
+      PlayStation - Legend of Mana - Drakonis_170: -804120547
+      PlayStation - Legend of Mana - Drakonis_242: 634770628
+      PlayStation - Legend of Mana - Drakonis_32: -1942722882
+      PlayStation - Legend of Mana - Drakonis_189: -73273994
+      PlayStation - Legend of Mana - Drakonis_54: -1353540236
+      PlayStation - Legend of Mana - Drakonis_219: -1907508742
+      PlayStation - Legend of Mana - Drakonis_62: -943247442
+      PlayStation - Legend of Mana - Drakonis_144: -204108487
+      PlayStation - Legend of Mana - Drakonis_96: -1840644754
+      PlayStation - Legend of Mana - Drakonis_201: 241615696
+      PlayStation - Legend of Mana - Drakonis_102: 165509063
+      PlayStation - Legend of Mana - Drakonis_250: 226942509
+      PlayStation - Legend of Mana - Drakonis_105: -1504712214
+      PlayStation - Legend of Mana - Drakonis_226: -1500101448
+      PlayStation - Legend of Mana - Drakonis_245: 1758891726
+      PlayStation - Legend of Mana - Drakonis_130: -1989942464
+      PlayStation - Legend of Mana - Drakonis_124: -763493388
+      PlayStation - Legend of Mana - Drakonis_36: -105968653
+      PlayStation - Legend of Mana - Drakonis_159: 65577144
+      PlayStation - Legend of Mana - Drakonis_86: -2099402561
+      PlayStation - Legend of Mana - Drakonis_162: 962110973
+      PlayStation - Legend of Mana - Drakonis_175: 1762738975
+      PlayStation - Legend of Mana - Drakonis_246: 1139434848
+      PlayStation - Legend of Mana - Drakonis_24: -1469563900
+      PlayStation - Legend of Mana - Drakonis_30: -1790504675
+      PlayStation - Legend of Mana - Drakonis_42: -1116189478
+      PlayStation - Legend of Mana - Drakonis_104: 1828342819
+      PlayStation - Legend of Mana - Drakonis_205: 1798868193
+      PlayStation - Legend of Mana - Drakonis_146: -2051190994
+      PlayStation - Legend of Mana - Drakonis_218: 1996978481
+      PlayStation - Legend of Mana - Drakonis_49: 439241047
+      PlayStation - Legend of Mana - Drakonis_232: 1196013836
+      PlayStation - Legend of Mana - Drakonis_39: -1752907656
+      PlayStation - Legend of Mana - Drakonis_225: 1590485139
+      PlayStation - Legend of Mana - Drakonis_40: -2023005061
+      PlayStation - Legend of Mana - Drakonis_21: -1464053480
+      PlayStation - Legend of Mana - Drakonis_88: -1072960494
+      PlayStation - Legend of Mana - Drakonis_59: 1958356213
+      PlayStation - Legend of Mana - Drakonis_125: 1137995845
+      PlayStation - Legend of Mana - Drakonis_251: -449755651
+      PlayStation - Legend of Mana - Drakonis_0: -389651008
+      PlayStation - Legend of Mana - Drakonis_8: 1289646489
+      PlayStation - Legend of Mana - Drakonis_243: 19583136
+      PlayStation - Legend of Mana - Drakonis_223: 1533095130
+      PlayStation - Legend of Mana - Drakonis_160: 838472103
+      PlayStation - Legend of Mana - Drakonis_252: 1266549689
+      PlayStation - Legend of Mana - Drakonis_133: -822341914
+      PlayStation - Legend of Mana - Drakonis_235: 1071428699
+      PlayStation - Legend of Mana - Drakonis_178: 685447448
+      PlayStation - Legend of Mana - Drakonis_5: 1724104315
+      PlayStation - Legend of Mana - Drakonis_13: 700620018
+      PlayStation - Legend of Mana - Drakonis_181: 1992404826
+      PlayStation - Legend of Mana - Drakonis_230: -1157619925
+      PlayStation - Legend of Mana - Drakonis_148: -1967092473
+      PlayStation - Legend of Mana - Drakonis_94: 884331840
+      PlayStation - Legend of Mana - Drakonis_206: -39457709
+      PlayStation - Legend of Mana - Drakonis_64: -875634271
+      PlayStation - Legend of Mana - Drakonis_68: 397987983
+      PlayStation - Legend of Mana - Drakonis_167: 349156294
+      PlayStation - Legend of Mana - Drakonis_139: -1869295726
+      PlayStation - Legend of Mana - Drakonis_236: 1188128119
+      PlayStation - Legend of Mana - Drakonis_58: -945278555
+      PlayStation - Legend of Mana - Drakonis_248: -574826482
+      PlayStation - Legend of Mana - Drakonis_204: 2021624269
+      PlayStation - Legend of Mana - Drakonis_247: 1244305177
+      PlayStation - Legend of Mana - Drakonis_127: 1454202519
+      PlayStation - Legend of Mana - Drakonis_150: 491112165
+      PlayStation - Legend of Mana - Drakonis_122: 1131506587
+      PlayStation - Legend of Mana - Drakonis_47: -1951423966
+      PlayStation - Legend of Mana - Drakonis_89: 347648228
+      PlayStation - Legend of Mana - Drakonis_140: 1143920621
+      PlayStation - Legend of Mana - Drakonis_6: -558821309
+      PlayStation - Legend of Mana - Drakonis_217: 2045452837
+      PlayStation - Legend of Mana - Drakonis_118: 1009980127
+      PlayStation - Legend of Mana - Drakonis_199: -147081082
+      PlayStation - Legend of Mana - Drakonis_83: -1948458741
+      PlayStation - Legend of Mana - Drakonis_149: 2096295700
+      PlayStation - Legend of Mana - Drakonis_31: -1811270967
+      PlayStation - Legend of Mana - Drakonis_129: -973211641
+      PlayStation - Legend of Mana - Drakonis_191: -708709049
+      PlayStation - Legend of Mana - Drakonis_81: 42607998
+      PlayStation - Legend of Mana - Drakonis_101: -496884774
+      PlayStation - Legend of Mana - Drakonis_70: 655012041
+      PlayStation - Legend of Mana - Drakonis_10: 117436181
+      PlayStation - Legend of Mana - Drakonis_147: 159209485
+      PlayStation - Legend of Mana - Drakonis_163: 1427599532
+      PlayStation - Legend of Mana - Drakonis_207: 573398756
+      PlayStation - Legend of Mana - Drakonis_79: 282455056
+      PlayStation - Legend of Mana - Drakonis_18: -1654752168
+      PlayStation - Legend of Mana - Drakonis_216: -873438030
+      PlayStation - Legend of Mana - Drakonis_182: 830165585
+      PlayStation - Legend of Mana - Drakonis_1: 1488651255
+      PlayStation - Legend of Mana - Drakonis_141: 2117258988
+      PlayStation - Legend of Mana - Drakonis_229: -552536938
+      PlayStation - Legend of Mana - Drakonis_179: 1119279024
+      PlayStation - Legend of Mana - Drakonis_196: 1823830206
+      PlayStation - Legend of Mana - Drakonis_212: -784929108
+      PlayStation - Legend of Mana - Drakonis_121: 1813418135
+      PlayStation - Legend of Mana - Drakonis_97: 729379841
+      PlayStation - Legend of Mana - Drakonis_128: -659335115
+      PlayStation - Legend of Mana - Drakonis_227: 618396854
+      PlayStation - Legend of Mana - Drakonis_202: 97052489
+      PlayStation - Legend of Mana - Drakonis_25: -142350538
+      PlayStation - Legend of Mana - Drakonis_166: 49009997
+      PlayStation - Legend of Mana - Drakonis_132: 2048758129
+      PlayStation - Legend of Mana - Drakonis_61: -1520881914
+      PlayStation - Legend of Mana - Drakonis_52: 18450190
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
