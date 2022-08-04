@@ -1,0 +1,104 @@
+name: Game Build and Deploy 🎮
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize]
+
+permissions: 
+  contents: write
+  
+
+env:
+  UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+
+jobs:
+  
+  buildWindows:
+    
+    name: Build for Windows 🖥️
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'push' && !contains(github.event.head_commit.message, '#skip')}}
+    strategy:
+      fail-fast: false
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Create LFS file list
+        run: git lfs ls-files -l | cut -d' ' -f1 | sort > .lfs-assets-id
+
+      - name: Restore LFS cache
+        uses: actions/cache@v2
+        id: lfs-cache
+        with:
+          path: .git/lfs
+          key: ${{ runner.os }}-lfs-${{ hashFiles('.lfs-assets-id') }}
+
+      - name: Git LFS Pull
+        run: |
+          git lfs pull
+          git add .
+          git reset --hard
+      - name: Restore Library cache
+        uses: actions/cache@v2
+        with:
+          path: Library
+          key: Library-build-StandaloneWindows64
+          restore-keys: |
+            Library-build-
+            Library-
+      - uses: game-ci/unity-builder@v2
+        with:
+          targetPlatform: StandaloneWindows64
+          buildName: Shields-Of-Justice-Windows64
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: Shields-Of-Justice-Windows64
+          path: build/StandaloneWindows64
+          
+  deployToBranch:
+    needs: buildWindows
+    name: Deploy to Builds branch 🚀
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: Shields-Of-Justice-Windows64
+          path: Shields-Of-Justice
+      
+      - name: 'Echo download path'
+        run: echo ${{steps.download.outputs.download-path}}
+
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: WindowsBuild
+          folder: Shields-Of-Justice
+          target-folder: Shields-Of-Justice
+          
+  tag_release:
+    needs: deployToBranch
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout WindowsBuild branch
+        uses: actions/checkout@v2
+        with:
+          ref: WindowsBuild
+      - name: Bump version and push tag
+        if: ${{ github.event_name == 'push' && !contains(github.event.head_commit.message, '#skip') }}
+        uses: anothrNick/github-tag-action@1.36.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BUMP: patch
+          WITH_V: true
+
+          ##  Any commit message that includes #major, #minor, #patch, or #none will trigger the respective version bump
+
