@@ -45,7 +45,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Inspired by video games from the late 1990s, like Legend of Zelda, Pokemon Red and Blue, and Doodle Champion Island Games which was created to commemorate the 2020 Summer Olympics and 2020 Summer Paralympics, Shields of Justice is a classic 2D Adventure-RPG Game 
+Shields of Justice is a traditional 2D Adventure-RPG Game that was inspired by amazing games from the late 1990s, such as Legend of Zelda, Pokemon Red and Blue, and the latest Doodle Champion Island Games which was made to commemorate the 2020 Summer Olympics and Paralympics. The game now accessible is a brief demo containing several gameplay mechanics, including the Dialogue system, Battle system, Resource management, Quest and Level System — all of which are crucial components of an adventure-RPG game.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -105,6 +106,8 @@ Project Link: [https://github.com/vicksonrodrigues/Shields-Of-Justice](https://g
 ## Acknowledgments
 
 * [GameCI](https://game.ci/)
+* [spritedatabase](https://spritedatabase.net/)
+* [spriters-resource](https://www.spriters-resource.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
