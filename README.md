@@ -45,7 +45,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Shields of Justice is a traditional 2D Adventure-RPG Game that was inspired by amazing games from the late 1990s, such as Legend of Zelda, Pokemon Red and Blue, and the latest Doodle Champion Island Games which was made to commemorate the 2020 Summer Olympics and Paralympics. The game now accessible is a brief demo containing several gameplay mechanics, including the Dialogue system, Battle system, Resource management, Quest and Level System — all of which are crucial components of an adventure-RPG game.
+Shields of Justice is a traditional 2D Adventure-RPG Game that was inspired by amazing games from the late 1990s, such as Legend of Zelda, Pokemon Red and Blue, and the latest Doodle Champion Island Games which was made to commemorate the 2020 Summer Olympics and Paralympics. The game now accessible in a brief demo containing several gameplay mechanics, including the Dialogue system, Battle system, Resource management, Quest and Level System — all of which are crucial components of an adventure-RPG game.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
